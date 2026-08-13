@@ -1,110 +1,144 @@
 #EXTM3U x-generator="https://m3u4u.com/"
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DENMARK.png" tvg-id="",###### DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ ######
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079879.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/AKVARIUM.png" tvg-id="",GOLD| AKVARIUM ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079878.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/CARTOONNETWORK.png" tvg-id="cartoonnetwork.dk",GOLD| CARTOON NETWORK ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079875.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DISNEYCHANNEL.png" tvg-id="disneychannel.dk",GOLD| DISNEY CHANNEL DK ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079873.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DK4.png" tvg-id="dk4.dk",GOLD| DK4 ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079872.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DR1.png" tvg-id="dr1.dk",GOLD| DR1 SYN ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079871.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DR2.png" tvg-id="dr2.dk",GOLD| DR2 SYN ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079869.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DRRAMASJANG.png" tvg-id="drramasjang.dk",GOLD| DR RAMASJANG ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079867.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/FOLKETINGET.png" tvg-id="folketinget.dk",GOLD| FOLKETINGET ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079865.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/FREEA%d0%9e%d0%9c.png" tvg-id="",GOLD| FREEДОМ ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079864.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/KANALMIDTVEST.png" tvg-id="",GOLD| KANAL MIDTVEST ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079863.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/KANALNORD.png" tvg-id="",GOLD| KANAL NORD ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079862.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/KANALSYD.png" tvg-id="",GOLD| KANAL SYD ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079861.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/KANALOSTJYLLAND.png" tvg-id="",GOLD| KANAL ØSTJYLLAND ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079860.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/NATGEOWILD.png" tvg-id="natgeowild.dk",GOLD| NAT GEO WILD ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079859.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/NICKELODEON.png" tvg-id="nickelodeon.dk",GOLD| NICKELODEON EUROPE UKRAINE ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079857.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/PEJS.png" tvg-id="",GOLD| PEJS ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079856.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/SEE.png" tvg-id="see.dk",GOLD| SEE ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079855.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/SPORTLIVE.png" tvg-id="sportlive.dk",GOLD| SPORT LIVE ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079854.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2BORNHOLM.png" tvg-id="tv2bornholm.dk",GOLD| TV2 (BORNHOLM) ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079853.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2FYN.png" tvg-id="tv2fyn.dk",GOLD| TV2 (FYN) ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079852.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2KOSMOPOL.png" tvg-id="",GOLD| TV2 (KOSMOPOL) ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079851.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2MIDTVEST.png" tvg-id="",GOLD| TV2 (MIDTVEST) ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079850.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2NORD.png" tvg-id="",GOLD| TV2 (NORD) ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079849.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2SYD.png" tvg-id="",GOLD| TV2 (SYD) ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079848.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2OST.png" tvg-id="",GOLD| TV2 (ØST) ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079847.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2OSTJYLLAND.png" tvg-id="",GOLD| TV2 (ØSTJYLLAND) ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079846.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2BORNHOLM.png" tvg-id="",GOLD| TV2 BORNHOLM ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079845.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2CHARLIE.png" tvg-id="",GOLD| TV2 CHARLIE ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079844.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2ECHO.png" tvg-id="",GOLD| TV2 ECHO ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079843.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2FRI.png" tvg-id="",GOLD| TV2 FRI ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079842.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2KOSMOPOL.png" tvg-id="",GOLD| TV2 KOSMOPOL ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079841.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2OJ.png" tvg-id="",GOLD| TV2 OJ ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079839.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2.png" tvg-id="",GOLD| TV2 SALTO ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079838.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2SPORTX.png" tvg-id="tv2sportx.dk",GOLD| TV2 SPORT X ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079837.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2SPORT.png" tvg-id="tv2sport.dk",GOLD| TV2 SPORT ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079836.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3.png" tvg-id="tv3.dk",GOLD| TV3 DK ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079835.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3MAX.png" tvg-id="tv3max.dk",GOLD| TV3 MAX ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079834.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3PULS.png" tvg-id="tv3puls.dk",GOLD| TV3 PULS ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079833.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3SPORT.png" tvg-id="tv3sport.dk",GOLD| TV3 SPORT ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079832.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3PULS.png" tvg-id="tv3plus.dk",GOLD| TV3+ ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079831.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TVMIDTVEST.png" tvg-id="",GOLD| TV MIDTVEST ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079830.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TVSYD.png" tvg-id="",GOLD| TV SYD ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079829.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/UPTOWNCLASSIC.png" tvg-id="",GOLD| UPTOWN CLASSIC ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079828.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/UPTOWNDK.png" tvg-id="",GOLD| UPTOWN DK ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079827.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/UPTOWNMUSIC.png" tvg-id="",GOLD| UPTOWN MUSIC TV ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079826.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VFILMACTION.png" tvg-id="viasataction.dk",GOLD| V FILM ACTION ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079825.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VFILMFAMILY.png" tvg-id="viasatfamily.dk",GOLD| V FILM FAMILY ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079824.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VFILMHITS.png" tvg-id="viasathits.dk",GOLD| V FILM HITS ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079823.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VFILMPREMIERE.png" tvg-id="viasatfilmpremiere.dk",GOLD| V FILM PREMIERE ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079822.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIAPLAYSPORTNEWS.png" tvg-id="",GOLD| VIAPLAY SPORT NEWS ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079821.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VSERIES.png" tvg-id="viasatseries.dk",GOLD| V SERIES ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079817.ts
-#EXTINF:-1 group-title="1 - | DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VSPORTGOLF.png" tvg-id="",GOLD| V SPORT GOLF ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079816.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154366.png" tvg-id="DR1.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DK| DR 1 HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154366.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154369.png" tvg-id="DR2.dk",DK| DR 2 HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154369.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/DR-RAMASJANG.png" tvg-id="DRRamasjang.dk",DK| DR RAMASJANG
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154370.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/DR-RAMASJANG.png" tvg-id="DRRamasjang.dk",DK| DR RAMASJANG HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154371.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154372.png" tvg-id="TV2.dk",DK| TV2
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154372.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154373.png" tvg-id="TV2.dk",DK| TV2 HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154373.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154374.png" tvg-id="TV2Zulu.dk",DK| TV2 ECHO HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154374.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TV_2_Charlie_2023.svg/1200px-TV_2_Charlie_2023.svg.png" tvg-id="TV2Charlie.dk",DK| TV2 CHARLIE
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154375.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TV_2_Charlie_2023.svg/1200px-TV_2_Charlie_2023.svg.png" tvg-id="TV2Charlie.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DK| TV2 CHARLIE HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154376.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154377.png" tvg-id="TV2News.dk",DK| TV2 NEWS
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154377.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154378.png" tvg-id="TV2News.dk",DK| TV2 NEWS HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154378.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154379.png" tvg-id="TV2Sport.dk",DK| TV2 SPORT
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154379.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154380.png" tvg-id="TV2Sport.dk",DK| TV2 SPORT HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154380.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154381.png" tvg-id="TV2SportX.dk" tv_archive="1" catchup="default" tv_archive_duration="2" catchup-days="2",DK| TV2 SPORT X HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154381.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154382.png" tvg-id="TV2Fri.dk",DK| TV2 FRI HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154382.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154383.png" tvg-id="TV2NordSalto.dk",DK| TV2 NORD HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154383.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154385.png" tvg-id="TV2Fyn.dk",DK| TV2 FYN HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154385.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154386.png" tvg-id="TV2Bornholm.dk",DK| TV2 BORNHOLM HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154386.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154388.png" tvg-id="TV2Ost.dk",DK| TV2 ØST HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154388.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154387.png" tvg-id="TV2Ostjylland.dk",DK| TV2 ØSTJYLLAND HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154387.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/621773.png" tvg-id="TV2MidtVest.dk",DK| TV 2 / MIDT-VEST
+http://line.weharmony.store/live/a8da78f521/bc62145d78/621773.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154391.png" tvg-id="TV3.dk",DK| TV3 HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154391.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154393.png" tvg-id="TV3Plus.dk",DK| TV3+ HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154393.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154400.png" tvg-id="TV3Max.dk",DK| TV3 MAX HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154400.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154395.png" tvg-id="TV3Puls.dk",DK| TV3 PULS HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154395.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/530244.png" tvg-id="",DK| V SPORT ULTRA HEVC 4K
+http://line.weharmony.store/live/a8da78f521/bc62145d78/530244.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154397.png" tvg-id="TV3Sport.dk",DK| TV3 SPORT
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154397.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154398.png" tvg-id="TV3Sport.dk",DK| TV3 SPORT HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154398.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154389.png" tvg-id="TV2Syd.dk",DK| TV SYD HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154389.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154403.png" tvg-id="DK4.dk",DK|  DK4
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154403.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154405.png" tvg-id="Kanal4.dk",DK| KANAL 4 HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154405.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154408.png" tvg-id="Kanal5.dk",DK| KANAL 5 HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154408.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154409.png" tvg-id="6eren.dk",DK| 6 EREN FHD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154409.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154410.png" tvg-id="Canal9.dk",DK| CANAL 9 FHD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154410.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154445.png" tvg-id="SFkanalen.dk",DK| SF-KANALEN  [MULTI-SUB]
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154445.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154412.png" tvg-id="SportLive.dk",DK| SPORT LIVE HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154412.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154413.png" tvg-id="Eurosport1.dk",DK| EUROSPORT 1 HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154413.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154414.png" tvg-id="Eurosport2.dk",DK| EUROSPORT 2 HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154414.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154415.png" tvg-id="DiscoveryChannel.dk",DK| DISCOVERY CHANNEL FHD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154415.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154416.png" tvg-id="DiscoveryScience.dk",DK| DISCOVERY SCIENCE
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154416.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/INVESTIGATION-DISCOVERY.png" tvg-id="InvestigationDiscovery.dk",DK| INVESTIGATION DISCOVERY  [MULTI-SUB]
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154417.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154418.png" tvg-id="AnimalPlanet.dk",DK| ANIMAL PLANET FHD  [MULTI-SUB]
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154418.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/nationalgeographichd.png" tvg-id="NationalGeographic.dk",DK| NATIONAL GEOGRAPHIC FHD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154425.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/1177890.png" tvg-id="",DK| BBC NORDIC HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1177890.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154436.png" tvg-id="TLC.dk",DK| TLC
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154436.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154442.png" tvg-id="CartoonNetwork.dk",DK| CARTOON NETWORK  [MULTI-AUDIO]
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154442.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154443.png" tvg-id="NickJr.dk",DK| NICK JR  [MULTI-AUDIO]
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154443.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154444.png" tvg-id="Nicktoons.dk",DK| NICKTOONS  [MULTI-AUDIO]
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154444.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154466.png" tvg-id="ViasatExplore.dk",DK| VIASAT EXPLORER HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154466.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/VIASAT-FILM-PREMIERE.jpg" tvg-id="ViasatPremiere.dk",DK| VIASAT FILM PREMIUME HD (SUB)
+http://line.weharmony.store/live/a8da78f521/bc62145d78/861709.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/861708.png" tvg-id="ViasatAction.dk",DK| VIASAT FILM ACTION HD MULTI
+http://line.weharmony.store/live/a8da78f521/bc62145d78/861708.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/VIASAT-FILM-FAMILY-HD.png" tvg-id="ViasatFamily.dk",DK| VIASAT FILM FAMILY (SUB)
+http://line.weharmony.store/live/a8da78f521/bc62145d78/861707.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/861706.png" tvg-id="ViasatHits.dk",DK| VIASAT FILM HITS HD MULTI
+http://line.weharmony.store/live/a8da78f521/bc62145d78/861706.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/861705.png" tvg-id="ViasatSeries.dk",DK| VIASAT SERIES HD (SUB)
+http://line.weharmony.store/live/a8da78f521/bc62145d78/861705.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154459.png" tvg-id="ViasatAction.dk",DK| VIASAT FILM ACTION HD MULTI (2)
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154459.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/viasatfilmfamily.png" tvg-id="ViasatFamily.dk",DK| VIASAT FILM FAMILY
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154460.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154461.png" tvg-id="ViasatHits.dk",DK| VIASAT FILM HITS HD MULTI (2)
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154461.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154462.png" tvg-id="ViasatPremiere.dk",DK| VIASAT FILM PREMIERE HD MULTI
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154462.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154401.png" tvg-id="ViasatGolf.dk",DK| VIASAT GOLF HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154401.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154465.png" tvg-id="ViasatHistory.dk",DK| VIASAT HISTORY HD MULTI
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154465.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154468.png" tvg-id="ViasatNature.dk",DK| VIASAT NATURE HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154468.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154464.png" tvg-id="ViasatSeries.dk",DK| VIASAT SERIES HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154464.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/1033933.png" tvg-id="",DK| SKY SHOWTIME 1 HD MULTI
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1033933.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/1033932.png" tvg-id="",DK| SKY SHOWTIME 2 HD MULTI
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1033932.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/1034293.png" tvg-id="See.dk",DK| SEE HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1034293.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154447.png" tvg-id="",DK| EXTREME SPORTS
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154447.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154435.png" tvg-id="",DK| MOTORS TV HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154435.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/STRIVE-SPORT.jpg" tvg-id="",DK| STRIVE SPORT 1 FHD [LIVE DURING EVENTS ONLY]
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154448.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/STRIVE-SPORT.jpg" tvg-id="",DK| STRIVE SPORT 2 FHD [LIVE DURING EVENTS ONLY]
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154449.ts
+#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/STRIVE-SPORT.jpg" tvg-id="",DK| STRIVE SPORT 3 FHD [LIVE DURING EVENTS ONLY]
+http://line.weharmony.store/live/a8da78f521/bc62145d78/154450.ts
 #EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://103.176.90.118/picons/logos/H2--HD.jpg" tvg-id="",DK| HISTORY 2 FHD  [MULTI-SUB]
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154421.ts
 #EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://103.176.90.118/picons/logos/HISTORY-HD.jpg" tvg-id="ViasatHistory.dk",DK| HISTORY FHD  [MULTI-SUB]
@@ -249,62 +283,348 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/156105.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/156007.ts
 #EXTINF:-1 group-title="5 - | FOOD" tvg-logo="http://picons.cmshulk.com/picons/97076.png" tvg-id="HumMasala.pk",PK| HUM MASALA EU
 http://line.weharmony.store/live/a8da78f521/bc62145d78/97076.ts
+#EXTINF:-1 group-title="5 - | FOOD" tvg-logo="http://51.158.145.100/picons/logos/norway/MATKANALEN.png" tvg-id="Matkanalen.no",NOR| MATKANALEN
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247436.ts
 #EXTINF:-1 group-title="5 - | FOOD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/FOODNETWORK.png" tvg-id="FoodNetwork.uk",D+| FOOD NETWORK
 http://line.weharmony.store/live/a8da78f521/bc62145d78/549404.ts
+#EXTINF:-1 group-title="5 - | FOOD" tvg-logo="http://51.158.145.100/picons/logos/UK/45275.png" tvg-id="FoodNetwork.uk",UK| FOOD NETWORK
+http://line.weharmony.store/live/a8da78f521/bc62145d78/45275.ts
+#EXTINF:-1 group-title="5 - | FOOD" tvg-logo="http://51.158.145.100/picons/logos/UK/164047.png" tvg-id="FoodNetwork.uk",UK| FOOD NETWORK +1
+http://line.weharmony.store/live/a8da78f521/bc62145d78/164047.ts
+#EXTINF:-1 group-title="5 - | FOOD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176888.png" tvg-id="FoodNetwork.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| FOOD NETWORK HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/176888.ts
 #EXTINF:-1 group-title="5 - | FOOD" tvg-logo="http://51.158.145.100/picons/logos/USA/45577.png" tvg-id="FoodNetwork.us" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",US| FOOD NETWORK HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/45577.ts
 #EXTINF:-1 group-title="5 - | FOOD" tvg-logo="http://103.176.90.95/images/174659.png" tvg-id="US-Food Network USA - Eastern Feed",U.S| FOOD NETWORK HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/174659.ts
 #EXTINF:-1 group-title="5 - | FOOD" tvg-logo="http://103.176.90.95/images/174660.png" tvg-id="US| FOOD NETWORK WEST HD",U.S| FOOD NETWORK WEST HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/174660.ts
-#EXTINF:-1 group-title="6 - | TLC" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176906.png" tvg-id="TLC.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| TLC HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/176906.ts
-#EXTINF:-1 group-title="6 - | TLC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TLC.png" tvg-id="TLC.uk",D+| TLC FHD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/549409.ts
 #EXTINF:-1 group-title="6 - | TLC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TLCDANMARK.png" tvg-id="tlc.dk" tv_archive="1" catchup="default" tv_archive_duration="2" catchup-days="2",DNK| TLC DANMARK
 http://line.weharmony.store/live/a8da78f521/bc62145d78/247639.ts
-#EXTINF:-1 group-title="6 - | TLC" tvg-logo="http://picons.cmshulk.com/picons/155743.png" tvg-id="",ENGLISH| TLC WORLD HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/155743.ts
-#EXTINF:-1 group-title="6 - | TLC" tvg-logo="http://picons.cmshulk.com/picons/1540025.png" tvg-id="",HINDI| TLC WORLD FHD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1540025.ts
 #EXTINF:-1 group-title="6 - | TLC" tvg-logo="http://51.158.145.100/picons/logos/norway/TLCNORGE.png" tvg-id="tlc.no",NOR| TLC NORGE HEVC
 http://line.weharmony.store/live/a8da78f521/bc62145d78/306394.ts
 #EXTINF:-1 group-title="6 - | TLC" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/TLC.png" tvg-id="TLC.se",SWE| TLC HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/79995.ts
+#EXTINF:-1 group-title="6 - | TLC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TLC.png" tvg-id="TLC.uk",D+| TLC FHD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/549409.ts
 #EXTINF:-1 group-title="6 - | TLC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TLC.png" tvg-id="",UK| TLC HEVC FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1458765.ts
-#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2NEWS.png" tvg-id="",GOLD| TV2 NEWS ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079840.ts
-#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DR1.png" tvg-id="dr1.dk",GOLD| DR 1 ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079870.ts
-#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DR2.png" tvg-id="dr2.dk",GOLD| DR 2 ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079868.ts
-#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DRTV.png" tvg-id="",GOLD| DR TV A ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079866.ts
+#EXTINF:-1 group-title="6 - | TLC" tvg-logo="http://picons.cmshulk.com/picons/155743.png" tvg-id="",ENGLISH| TLC WORLD HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/155743.ts
+#EXTINF:-1 group-title="6 - | TLC" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176906.png" tvg-id="TLC.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| TLC HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/176906.ts
+#EXTINF:-1 group-title="6 - | TLC" tvg-logo="http://picons.cmshulk.com/picons/1540025.png" tvg-id="",HINDI| TLC WORLD FHD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1540025.ts
+#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2NEWS.png" tvg-id="tv2news.dk",DNK| TV 2 NEWS HEVC
+http://line.weharmony.store/live/a8da78f521/bc62145d78/307059.ts
+#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DR1.png" tvg-id="dr1.dk",DNK| DR1 HEVC
+http://line.weharmony.store/live/a8da78f521/bc62145d78/307066.ts
+#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DR2.png" tvg-id="dr2.dk",DNK| DR2 HEVC
+http://line.weharmony.store/live/a8da78f521/bc62145d78/307065.ts
 #EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://picons.cmshulk.com/picons/155749.png" tvg-id="AlJazeeraEnglish.uk",ENGLISH| ALJAZEERA HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/155749.ts
-#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/BBCNEWS.png" tvg-id="",GOLD| BBC NEWS ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079877.ts
-#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/CNN.png" tvg-id="",GOLD| CNN INTERNATIONAL ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2079874.ts
+#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://picons.cmshulk.com/picons/1177889.png" tvg-id="",DK| BBC NORDIC FHD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1177889.ts
+#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/UK/1458580.png" tvg-id="BBCNews.uk",UK| BBC NEWS HEVC FHD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1458580.ts
+#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/UK/1458565.png" tvg-id="SkyNews.uk",UK| SKY NEWS HEVC FHD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1458565.ts
+#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" tvg-id="US-CNN",4K| CNN UHD 4K
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1470653.ts
+#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/CNN.png" tvg-id="",SWE| CNN INTERNATIONAL
+http://line.weharmony.store/live/a8da78f521/bc62145d78/80060.ts
 #EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://picons.cmshulk.com/picons/281081.png" tvg-id="92News.pk",PK| 92 NEWS FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/281081.ts
+#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://picons.cmshulk.com/picons/854202.png" tvg-id="",PK| PTV NATIONAL
+http://line.weharmony.store/live/a8da78f521/bc62145d78/854202.ts
+#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://picons.cmshulk.com/picons/281099.png" tvg-id="AryDigital.pk",PK| ARY DIGITAL ASIA
+http://line.weharmony.store/live/a8da78f521/bc62145d78/281099.ts
+#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://picons.cmshulk.com/picons/281119.png" tvg-id="GeoNews.pk",PK| GEO NEWS
+http://line.weharmony.store/live/a8da78f521/bc62145d78/281119.ts
+#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://103.176.90.118/picons/logos/in.samaa.png" tvg-id="SamaaTV.pk",PK| SAMAA EU
+http://line.weharmony.store/live/a8da78f521/bc62145d78/104874.ts
+#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://picons.cmshulk.com/picons/42447.png" tvg-id="DunyaNews.pk",PK| DUNYA NEWS EU
+http://line.weharmony.store/live/a8da78f521/bc62145d78/42447.ts
 #EXTINF:-1 group-title="8 - | RELIGION" tvg-logo="http://picons.cmshulk.com/picons/42450.png" tvg-id="",PK| HIDAYAT TV EU
 http://line.weharmony.store/live/a8da78f521/bc62145d78/42450.ts
 #EXTINF:-1 group-title="8 - | RELIGION" tvg-logo="http://picons.cmshulk.com/picons/104876.png" tvg-id="",PK| AHLEBAIT TV EU
 http://line.weharmony.store/live/a8da78f521/bc62145d78/104876.ts
 #EXTINF:-1 group-title="8 - | RELIGION" tvg-logo="http://picons.cmshulk.com/picons/97097.png" tvg-id="AhlebaitTV.uk",PK| AHLEBAIT TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/97097.ts
-#EXTINF:-1 group-title="9 - | TEMPORARY" tvg-logo="http://picons.cmshulk.com/picons/155990.png" tvg-id="AndFlix.in",HINDI| & FLIX FHD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/155990.ts
-#EXTINF:-1 group-title="9 - | TEMPORARY" tvg-logo="http://picons.cmshulk.com/picons/1532831.png" tvg-id="",HINDI| & FLIX HINDI FHD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1532831.ts
-#EXTINF:-1 group-title="9 - | TEMPORARY" tvg-logo="http://picons.cmshulk.com/picons/280744.png" tvg-id="AndPictures.in",HINDI| & PICTURES
-http://line.weharmony.store/live/a8da78f521/bc62145d78/280744.ts
-#EXTINF:-1 group-title="9 - | TEMPORARY" tvg-logo="http://picons.cmshulk.com/picons/155997.png" tvg-id="AndPictures.in",HINDI| & PICTURES FHD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/155997.ts
 #EXTINF:-1 group-title="9 - | TEMPORARY" tvg-logo="http://picons.cmshulk.com/picons/1532832.png" tvg-id="AndPrive.in",HINDI| & PRIVE FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1532832.ts
+#EXTINF:-1 group-title="9 - | TEMPORARY" tvg-logo="http://picons.cmshulk.com/picons/155997.png" tvg-id="AndPictures.in",HINDI| & PICTURES FHD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/155997.ts
+#EXTINF:-1 group-title="9 - | TEMPORARY" tvg-logo="http://picons.cmshulk.com/picons/155990.png" tvg-id="AndFlix.in",HINDI| & FLIX FHD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/155990.ts
+#EXTINF:-1 group-title="9 - | TEMPORARY" tvg-logo="http://picons.cmshulk.com/picons/280744.png" tvg-id="AndPictures.in",HINDI| & PICTURES
+http://line.weharmony.store/live/a8da78f521/bc62145d78/280744.ts
+#EXTINF:-1 group-title="9 - | TEMPORARY" tvg-logo="http://picons.cmshulk.com/picons/1532831.png" tvg-id="",HINDI| & FLIX HINDI FHD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1532831.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DENMARK.png" tvg-id="",###### DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ ######
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079879.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/AKVARIUM.png" tvg-id="",GOLD| AKVARIUM ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079878.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/BBCNEWS.png" tvg-id="",GOLD| BBC NEWS ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079877.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/CARTOONNETWORK.png" tvg-id="cartoonnetwork.dk",GOLD| CARTOON NETWORK ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079875.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/CNN.png" tvg-id="",GOLD| CNN INTERNATIONAL ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079874.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DISNEYCHANNEL.png" tvg-id="disneychannel.dk",GOLD| DISNEY CHANNEL DK ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079873.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DK4.png" tvg-id="dk4.dk",GOLD| DK4 ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079872.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DR1.png" tvg-id="dr1.dk",GOLD| DR1 SYN ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079871.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DR1.png" tvg-id="dr1.dk",GOLD| DR 1 ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079870.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DR2.png" tvg-id="dr2.dk",GOLD| DR2 SYN ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079869.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DR2.png" tvg-id="dr2.dk",GOLD| DR 2 ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079868.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DRRAMASJANG.png" tvg-id="drramasjang.dk",GOLD| DR RAMASJANG ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079867.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DRTV.png" tvg-id="",GOLD| DR TV A ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079866.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/FOLKETINGET.png" tvg-id="folketinget.dk",GOLD| FOLKETINGET ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079865.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/FREEA%d0%9e%d0%9c.png" tvg-id="",GOLD| FREEДОМ ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079864.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/KANALMIDTVEST.png" tvg-id="",GOLD| KANAL MIDTVEST ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079863.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/KANALNORD.png" tvg-id="",GOLD| KANAL NORD ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079862.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/KANALSYD.png" tvg-id="",GOLD| KANAL SYD ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079861.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/KANALOSTJYLLAND.png" tvg-id="",GOLD| KANAL ØSTJYLLAND ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079860.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/NATGEOWILD.png" tvg-id="natgeowild.dk",GOLD| NAT GEO WILD ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079859.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/NICKELODEON.png" tvg-id="nickelodeon.dk",GOLD| NICKELODEON EUROPE UKRAINE ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079857.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/PEJS.png" tvg-id="",GOLD| PEJS ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079856.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/SEE.png" tvg-id="see.dk",GOLD| SEE ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079855.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/SPORTLIVE.png" tvg-id="sportlive.dk",GOLD| SPORT LIVE ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079854.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2BORNHOLM.png" tvg-id="tv2bornholm.dk",GOLD| TV2 (BORNHOLM) ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079853.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2FYN.png" tvg-id="tv2fyn.dk",GOLD| TV2 (FYN) ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079852.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2KOSMOPOL.png" tvg-id="",GOLD| TV2 (KOSMOPOL) ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079851.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2MIDTVEST.png" tvg-id="",GOLD| TV2 (MIDTVEST) ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079850.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2NORD.png" tvg-id="",GOLD| TV2 (NORD) ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079849.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2SYD.png" tvg-id="",GOLD| TV2 (SYD) ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079848.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2OST.png" tvg-id="",GOLD| TV2 (ØST) ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079847.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2OSTJYLLAND.png" tvg-id="",GOLD| TV2 (ØSTJYLLAND) ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079846.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2BORNHOLM.png" tvg-id="",GOLD| TV2 BORNHOLM ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079845.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2CHARLIE.png" tvg-id="",GOLD| TV2 CHARLIE ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079844.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2ECHO.png" tvg-id="",GOLD| TV2 ECHO ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079843.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2FRI.png" tvg-id="",GOLD| TV2 FRI ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079842.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2KOSMOPOL.png" tvg-id="",GOLD| TV2 KOSMOPOL ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079841.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2NEWS.png" tvg-id="",GOLD| TV2 NEWS ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079840.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2OJ.png" tvg-id="",GOLD| TV2 OJ ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079839.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2.png" tvg-id="",GOLD| TV2 SALTO ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079838.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2SPORTX.png" tvg-id="tv2sportx.dk",GOLD| TV2 SPORT X ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079837.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2SPORT.png" tvg-id="tv2sport.dk",GOLD| TV2 SPORT ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079836.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3.png" tvg-id="tv3.dk",GOLD| TV3 DK ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079835.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3MAX.png" tvg-id="tv3max.dk",GOLD| TV3 MAX ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079834.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3PULS.png" tvg-id="tv3puls.dk",GOLD| TV3 PULS ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079833.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3SPORT.png" tvg-id="tv3sport.dk",GOLD| TV3 SPORT ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079832.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3PULS.png" tvg-id="tv3plus.dk",GOLD| TV3+ ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079831.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TVMIDTVEST.png" tvg-id="",GOLD| TV MIDTVEST ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079830.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TVSYD.png" tvg-id="",GOLD| TV SYD ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079829.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/UPTOWNCLASSIC.png" tvg-id="",GOLD| UPTOWN CLASSIC ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079828.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/UPTOWNDK.png" tvg-id="",GOLD| UPTOWN DK ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079827.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/UPTOWNMUSIC.png" tvg-id="",GOLD| UPTOWN MUSIC TV ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079826.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VFILMACTION.png" tvg-id="viasataction.dk",GOLD| V FILM ACTION ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079825.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VFILMFAMILY.png" tvg-id="viasatfamily.dk",GOLD| V FILM FAMILY ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079824.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VFILMHITS.png" tvg-id="viasathits.dk",GOLD| V FILM HITS ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079823.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VFILMPREMIERE.png" tvg-id="viasatfilmpremiere.dk",GOLD| V FILM PREMIERE ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079822.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIAPLAYSPORTNEWS.png" tvg-id="",GOLD| VIAPLAY SPORT NEWS ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079821.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VSERIES.png" tvg-id="viasatseries.dk",GOLD| V SERIES ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079817.ts
+#EXTINF:-1 group-title="DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VSPORTGOLF.png" tvg-id="",GOLD| V SPORT GOLF ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2079816.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DENMARK.png" tvg-id="",##### FAVORITES #####
+http://line.weharmony.store/live/a8da78f521/bc62145d78/334001.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DR1.png" tvg-id="dr1.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| DR1 HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247634.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DR2.png" tvg-id="dr2.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| DR2 HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247635.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2.png" tvg-id="tv2.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| TV 2 HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247626.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/CHEVC.png" tvg-id="tv2.dk",DNK| TV2 HEVC
+http://line.weharmony.store/live/a8da78f521/bc62145d78/307060.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2ECHO.png" tvg-id="TV2Echo.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| TV 2 ECHO HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247628.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2ECHO.png" tvg-id="TV2Echo.dk",DNK| TV 2 ECHO HEVC
+http://line.weharmony.store/live/a8da78f521/bc62145d78/307058.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2NEWS.png" tvg-id="tv2news.dk" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",DNK| TV 2 NEWS HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247627.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2FRI.png" tvg-id="tv2fri.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| TV 2 FRI HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247625.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2FRI.png" tvg-id="tv2fri.dk",DNK| TV 2 FRI HEVC
+http://line.weharmony.store/live/a8da78f521/bc62145d78/307061.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2CHARLIE.png" tvg-id="tv2charlie.dk" tv_archive="1" catchup="default" tv_archive_duration="2" catchup-days="2",DNK| TV 2 CHARLIE HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247624.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2CHARLIE.png" tvg-id="tv2charlie.dk",DNK| TV 2 CHARLIE HEVC
+http://line.weharmony.store/live/a8da78f521/bc62145d78/307062.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3.png" tvg-id="tv3.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| TV3 HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247629.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3.png" tvg-id="tv3.dk",DNK| TV3 HEVC
+http://line.weharmony.store/live/a8da78f521/bc62145d78/307057.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3PLUS.png" tvg-id="tv3plus.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| TV3+ HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247631.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3PULS.png" tvg-id="tv3plus.dk",DNK| TV3+ HEVC
+http://line.weharmony.store/live/a8da78f521/bc62145d78/307055.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3PULS.png" tvg-id="tv3puls.dk" tv_archive="1" catchup="default" tv_archive_duration="2" catchup-days="2",DNK| TV3 PULS FHD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247630.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3PULS.png" tvg-id="tv3puls.dk",DNK| TV3 PULS HEVC
+http://line.weharmony.store/live/a8da78f521/bc62145d78/307056.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3MAX.png" tvg-id="tv3max.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| TV3 MAX HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/254999.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3MAX.png" tvg-id="tv3max.dk",DNK| TV3 MAX HEVC
+http://line.weharmony.store/live/a8da78f521/bc62145d78/307368.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/KANAL4.png" tvg-id="kanal4.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| KANAL 4 HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247636.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/KANAL4.png" tvg-id="kanal4.dk",DNK| KANAL 4 HEVC
+http://line.weharmony.store/live/a8da78f521/bc62145d78/307064.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/KANAL5.png" tvg-id="kanal5.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| KANAL 5 HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247637.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/KANAL5.png" tvg-id="kanal5.dk",DNK| KANAL 5 HEVC
+http://line.weharmony.store/live/a8da78f521/bc62145d78/307063.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/6EREN.png" tvg-id="6eren.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| 6`EREN HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247632.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/6EREN.png" tvg-id="6eren.dk",DNK| 6`EREN HEVC
+http://line.weharmony.store/live/a8da78f521/bc62145d78/307068.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/CANAL9.png" tvg-id="canal9.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| CANAL 9 HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247633.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/CANAL9.png" tvg-id="canal9.dk",DNK| CANAL 9 HEVC
+http://line.weharmony.store/live/a8da78f521/bc62145d78/307067.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DK4.png" tvg-id="DK4.dk",DNK| DK4
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247638.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2OSTJYLLAND.png" tvg-id="tv2ostjylland.dk",DNK| TV 2 / ØSTJYLLAND
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247623.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2OST.png" tvg-id="TV2Ost.dk",DNK| TV 2 / ØST
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247622.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2SYD.png" tvg-id="TV2Syd.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| TV 2 / SYD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247621.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2NORD.png" tvg-id="TV2NordSalto.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| TV 2 / NORD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247620.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2MIDTVEST.png" tvg-id="tv2midtvest.dk",DNK| TV 2 / MIDT-VEST
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247619.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2FYN.png" tvg-id="tv2fyn.dk",DNK| TV 2 / FYN
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247618.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2BORNHOLM.png" tvg-id="tv2bornholm.dk",DNK| TV 2 / BORNHOLM
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247617.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DENMARK.png" tvg-id="",##### KIDS #####
+http://line.weharmony.store/live/a8da78f521/bc62145d78/333998.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/BOOMERANG.png" tvg-id="Boomerang.dk",DNK| BOOMERANG
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247657.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/CARTOONNETWORK.png" tvg-id="cartoonnetwork.dk",DNK| CARTOON NETWORK
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247658.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DISNEYCHANNEL.png" tvg-id="disneychannel.dk",DNK| DISNEY CHANNEL
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1313159.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DRRAMASJANG.png" tvg-id="drramasjang.dk",DNK| DR RAMASJANG
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247664.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/NICKELODEON.png" tvg-id="nickelodeon.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| NICKELODEON
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247662.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/NICKJR.png" tvg-id="nickjr.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| NICK JR.
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247661.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DENMARK.png" tvg-id="",##### MOVIES #####
+http://line.weharmony.store/live/a8da78f521/bc62145d78/333997.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATFILMPREMIUME.png" tvg-id="viasatfilmpremiere.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| VIASAT FILM PREMIUME HEVC MULTI
+http://line.weharmony.store/live/a8da78f521/bc62145d78/861714.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATFILMACTION.png" tvg-id="viasataction.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| VIASAT FILM ACTION HEVC MULTI
+http://line.weharmony.store/live/a8da78f521/bc62145d78/861713.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATFILMFAMILY.png" tvg-id="viasatfamily.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| VIASAT FILM FAMILY (SUB)
+http://line.weharmony.store/live/a8da78f521/bc62145d78/861712.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATFILMHITS.png" tvg-id="viasathits.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| VIASAT FILM HITS HEVC MULTI
+http://line.weharmony.store/live/a8da78f521/bc62145d78/861711.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATSERIES.png" tvg-id="viasatseries.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| VIASAT SERIES HD (SUB)
+http://line.weharmony.store/live/a8da78f521/bc62145d78/861710.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATSERIES.png" tvg-id="viasatseries.dk",DNK| VIASAT SERIES HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247654.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATFILMPREMIERE.png" tvg-id="viasatfilmpremiere.dk",DNK| VIASAT FILM PREMIERE HD MULTI
+http://line.weharmony.store/live/a8da78f521/bc62145d78/254993.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATFILMHITS.png" tvg-id="viasathits.dk",DNK| VIASAT FILM HITS HD MULTI
+http://line.weharmony.store/live/a8da78f521/bc62145d78/254992.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATFILMACTION.png" tvg-id="viasataction.dk",DNK| CION HD MULTI
+http://line.weharmony.store/live/a8da78f521/bc62145d78/254991.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATFILMFAMILY.png" tvg-id="viasatfamily.dk",DNK| VIASAT FILM FAMILY
+http://line.weharmony.store/live/a8da78f521/bc62145d78/285235.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/SKYSHOWTIME1.png" tvg-id="",DNK| SKY SHOWTIME 1 HEVC MULTI
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1033889.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/SKYSHOWTIME1.png" tvg-id="",DNK| SKY SHOWTIME 1 HD MULTI
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1033890.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/SKYSHOWTIME2.png" tvg-id="",DNK| SKY SHOWTIME 2 HEVC MULTI
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1033891.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/SKYSHOWTIME2.png" tvg-id="",DNK| SKY SHOWTIME 2 HD MULTI
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1033892.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/SEE.png" tvg-id="see.dk",DNK|  SEE HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1038813.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/SFKANALEN.png" tvg-id="sfkanalen.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| SF KANALEN
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247656.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DENMARK.png" tvg-id="",##### FACTS DOCUMENTARY #####
+http://line.weharmony.store/live/a8da78f521/bc62145d78/333999.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/NATGEO.png" tvg-id="natgeowild.dk",DNK| NAT GEO HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247694.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/ANIMALPLANET.png" tvg-id="animalplanet.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| ANIMAL PLANET HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247688.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DISCOVERY.png" tvg-id="discoverychannel.dk",DNK| DISCOVERY HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247693.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DISCOVERYSCIENCE.png" tvg-id="discoveryscience.dk",DNK| DISCOVERY SCIENCE HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1549679.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATHISTORY.png" tvg-id="viasathistory.dk",DNK| VIASAT HISTORY HD MULTI
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1033175.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATHISTORY.png" tvg-id="viasathistory.dk",DNK| VIASAT HISTORY HEVC MULTI
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1033171.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/HISTORY.png" tvg-id="history.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| HISTORY HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247686.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/HISTORY2.png" tvg-id="",DNK| HISTORY2 HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/446055.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/IDINVESTIGATIONDISCOVERY.png" tvg-id="investigationdiscovery.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| ID INVESTIGATION DISCOVERY
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247692.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DENMARK.png" tvg-id="",##### MUSIC #####
+http://line.weharmony.store/live/a8da78f521/bc62145d78/334000.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/MTV.png" tvg-id="mtv.dk",DNK| MTV HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/247698.ts
+#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/MOTORVISION.png" tvg-id="",DNK| MOTORVISION HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/876214.ts
 #EXTINF:-1 group-title="AR| ISLAMIC" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" tvg-id="",سورة الناس
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1158033.ts
 #EXTINF:-1 group-title="AR| ISLAMIC" tvg-logo="https://assets-1f14.kxcdn.com/images/logo-lg-w.png" tvg-id="",سورة الفلق
@@ -853,300 +1173,6 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/2004109.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2004108.ts
 #EXTINF:-1 group-title="AR| ISLAMIC" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/THEMINIMUSLIMS.png" tvg-id="",EN| THE MINIMUSLIMS
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2004107.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154366.png" tvg-id="DR1.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DK| DR 1 HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154366.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154369.png" tvg-id="DR2.dk",DK| DR 2 HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154369.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://103.176.90.118/picons/logos/DR-RAMASJANG.png" tvg-id="DRRamasjang.dk",DK| DR RAMASJANG
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154370.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://103.176.90.118/picons/logos/DR-RAMASJANG.png" tvg-id="DRRamasjang.dk",DK| DR RAMASJANG HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154371.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154372.png" tvg-id="TV2.dk",DK| TV2
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154372.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154373.png" tvg-id="TV2.dk",DK| TV2 HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154373.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154374.png" tvg-id="TV2Zulu.dk",DK| TV2 ECHO HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154374.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TV_2_Charlie_2023.svg/1200px-TV_2_Charlie_2023.svg.png" tvg-id="TV2Charlie.dk",DK| TV2 CHARLIE
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154375.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TV_2_Charlie_2023.svg/1200px-TV_2_Charlie_2023.svg.png" tvg-id="TV2Charlie.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DK| TV2 CHARLIE HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154376.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154377.png" tvg-id="TV2News.dk",DK| TV2 NEWS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154377.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154378.png" tvg-id="TV2News.dk",DK| TV2 NEWS HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154378.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154379.png" tvg-id="TV2Sport.dk",DK| TV2 SPORT
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154379.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154380.png" tvg-id="TV2Sport.dk",DK| TV2 SPORT HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154380.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154381.png" tvg-id="TV2SportX.dk" tv_archive="1" catchup="default" tv_archive_duration="2" catchup-days="2",DK| TV2 SPORT X HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154381.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154382.png" tvg-id="TV2Fri.dk",DK| TV2 FRI HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154382.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154383.png" tvg-id="TV2NordSalto.dk",DK| TV2 NORD HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154383.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154385.png" tvg-id="TV2Fyn.dk",DK| TV2 FYN HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154385.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154386.png" tvg-id="TV2Bornholm.dk",DK| TV2 BORNHOLM HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154386.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154388.png" tvg-id="TV2Ost.dk",DK| TV2 ØST HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154388.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154387.png" tvg-id="TV2Ostjylland.dk",DK| TV2 ØSTJYLLAND HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154387.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/621773.png" tvg-id="TV2MidtVest.dk",DK| TV 2 / MIDT-VEST
-http://line.weharmony.store/live/a8da78f521/bc62145d78/621773.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154391.png" tvg-id="TV3.dk",DK| TV3 HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154391.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154393.png" tvg-id="TV3Plus.dk",DK| TV3+ HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154393.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154400.png" tvg-id="TV3Max.dk",DK| TV3 MAX HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154400.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154395.png" tvg-id="TV3Puls.dk",DK| TV3 PULS HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154395.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/530244.png" tvg-id="",DK| V SPORT ULTRA HEVC 4K
-http://line.weharmony.store/live/a8da78f521/bc62145d78/530244.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154397.png" tvg-id="TV3Sport.dk",DK| TV3 SPORT
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154397.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154398.png" tvg-id="TV3Sport.dk",DK| TV3 SPORT HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154398.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154389.png" tvg-id="TV2Syd.dk",DK| TV SYD HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154389.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154403.png" tvg-id="DK4.dk",DK|  DK4
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154403.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154405.png" tvg-id="Kanal4.dk",DK| KANAL 4 HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154405.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154408.png" tvg-id="Kanal5.dk",DK| KANAL 5 HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154408.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154409.png" tvg-id="6eren.dk",DK| 6 EREN FHD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154409.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154410.png" tvg-id="Canal9.dk",DK| CANAL 9 FHD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154410.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154445.png" tvg-id="SFkanalen.dk",DK| SF-KANALEN  [MULTI-SUB]
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154445.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154412.png" tvg-id="SportLive.dk",DK| SPORT LIVE HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154412.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154413.png" tvg-id="Eurosport1.dk",DK| EUROSPORT 1 HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154413.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154414.png" tvg-id="Eurosport2.dk",DK| EUROSPORT 2 HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154414.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154415.png" tvg-id="DiscoveryChannel.dk",DK| DISCOVERY CHANNEL FHD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154415.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154416.png" tvg-id="DiscoveryScience.dk",DK| DISCOVERY SCIENCE
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154416.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://103.176.90.118/picons/logos/INVESTIGATION-DISCOVERY.png" tvg-id="InvestigationDiscovery.dk",DK| INVESTIGATION DISCOVERY  [MULTI-SUB]
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154417.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154418.png" tvg-id="AnimalPlanet.dk",DK| ANIMAL PLANET FHD  [MULTI-SUB]
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154418.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://103.176.90.118/picons/logos/nationalgeographichd.png" tvg-id="NationalGeographic.dk",DK| NATIONAL GEOGRAPHIC FHD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154425.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/1177890.png" tvg-id="",DK| BBC NORDIC HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1177890.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/1177889.png" tvg-id="",DK| BBC NORDIC FHD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1177889.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154436.png" tvg-id="TLC.dk",DK| TLC
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154436.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154442.png" tvg-id="CartoonNetwork.dk",DK| CARTOON NETWORK  [MULTI-AUDIO]
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154442.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154443.png" tvg-id="NickJr.dk",DK| NICK JR  [MULTI-AUDIO]
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154443.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154444.png" tvg-id="Nicktoons.dk",DK| NICKTOONS  [MULTI-AUDIO]
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154444.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154466.png" tvg-id="ViasatExplore.dk",DK| VIASAT EXPLORER HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154466.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://103.176.90.118/picons/logos/VIASAT-FILM-PREMIERE.jpg" tvg-id="ViasatPremiere.dk",DK| VIASAT FILM PREMIUME HD (SUB)
-http://line.weharmony.store/live/a8da78f521/bc62145d78/861709.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/861708.png" tvg-id="ViasatAction.dk",DK| VIASAT FILM ACTION HD MULTI
-http://line.weharmony.store/live/a8da78f521/bc62145d78/861708.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://103.176.90.118/picons/logos/VIASAT-FILM-FAMILY-HD.png" tvg-id="ViasatFamily.dk",DK| VIASAT FILM FAMILY (SUB)
-http://line.weharmony.store/live/a8da78f521/bc62145d78/861707.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/861706.png" tvg-id="ViasatHits.dk",DK| VIASAT FILM HITS HD MULTI
-http://line.weharmony.store/live/a8da78f521/bc62145d78/861706.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/861705.png" tvg-id="ViasatSeries.dk",DK| VIASAT SERIES HD (SUB)
-http://line.weharmony.store/live/a8da78f521/bc62145d78/861705.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154459.png" tvg-id="ViasatAction.dk",DK| VIASAT FILM ACTION HD MULTI (2)
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154459.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://103.176.90.118/picons/logos/viasatfilmfamily.png" tvg-id="ViasatFamily.dk",DK| VIASAT FILM FAMILY
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154460.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154461.png" tvg-id="ViasatHits.dk",DK| VIASAT FILM HITS HD MULTI (2)
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154461.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154462.png" tvg-id="ViasatPremiere.dk",DK| VIASAT FILM PREMIERE HD MULTI
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154462.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154401.png" tvg-id="ViasatGolf.dk",DK| VIASAT GOLF HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154401.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154465.png" tvg-id="ViasatHistory.dk",DK| VIASAT HISTORY HD MULTI
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154465.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154468.png" tvg-id="ViasatNature.dk",DK| VIASAT NATURE HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154468.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154464.png" tvg-id="ViasatSeries.dk",DK| VIASAT SERIES HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154464.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/1033933.png" tvg-id="",DK| SKY SHOWTIME 1 HD MULTI
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1033933.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/1033932.png" tvg-id="",DK| SKY SHOWTIME 2 HD MULTI
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1033932.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/1034293.png" tvg-id="See.dk",DK| SEE HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1034293.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154447.png" tvg-id="",DK| EXTREME SPORTS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154447.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154435.png" tvg-id="",DK| MOTORS TV HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154435.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://103.176.90.118/picons/logos/STRIVE-SPORT.jpg" tvg-id="",DK| STRIVE SPORT 1 FHD [LIVE DURING EVENTS ONLY]
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154448.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://103.176.90.118/picons/logos/STRIVE-SPORT.jpg" tvg-id="",DK| STRIVE SPORT 2 FHD [LIVE DURING EVENTS ONLY]
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154449.ts
-#EXTINF:-1 group-title="DENMARK" tvg-logo="http://103.176.90.118/picons/logos/STRIVE-SPORT.jpg" tvg-id="",DK| STRIVE SPORT 3 FHD [LIVE DURING EVENTS ONLY]
-http://line.weharmony.store/live/a8da78f521/bc62145d78/154450.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DENMARK.png" tvg-id="",##### FAVORITES #####
-http://line.weharmony.store/live/a8da78f521/bc62145d78/334001.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DR1.png" tvg-id="dr1.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| DR1 HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247634.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DR1.png" tvg-id="dr1.dk",DNK| DR1 HEVC
-http://line.weharmony.store/live/a8da78f521/bc62145d78/307066.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DR2.png" tvg-id="dr2.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| DR2 HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247635.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DR2.png" tvg-id="dr2.dk",DNK| DR2 HEVC
-http://line.weharmony.store/live/a8da78f521/bc62145d78/307065.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2.png" tvg-id="tv2.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| TV 2 HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247626.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/CHEVC.png" tvg-id="tv2.dk",DNK| TV2 HEVC
-http://line.weharmony.store/live/a8da78f521/bc62145d78/307060.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2ECHO.png" tvg-id="TV2Echo.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| TV 2 ECHO HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247628.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2ECHO.png" tvg-id="TV2Echo.dk",DNK| TV 2 ECHO HEVC
-http://line.weharmony.store/live/a8da78f521/bc62145d78/307058.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2NEWS.png" tvg-id="tv2news.dk" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",DNK| TV 2 NEWS HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247627.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2NEWS.png" tvg-id="tv2news.dk",DNK| TV 2 NEWS HEVC
-http://line.weharmony.store/live/a8da78f521/bc62145d78/307059.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2FRI.png" tvg-id="tv2fri.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| TV 2 FRI HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247625.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2FRI.png" tvg-id="tv2fri.dk",DNK| TV 2 FRI HEVC
-http://line.weharmony.store/live/a8da78f521/bc62145d78/307061.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2CHARLIE.png" tvg-id="tv2charlie.dk" tv_archive="1" catchup="default" tv_archive_duration="2" catchup-days="2",DNK| TV 2 CHARLIE HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247624.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2CHARLIE.png" tvg-id="tv2charlie.dk",DNK| TV 2 CHARLIE HEVC
-http://line.weharmony.store/live/a8da78f521/bc62145d78/307062.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3.png" tvg-id="tv3.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| TV3 HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247629.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3.png" tvg-id="tv3.dk",DNK| TV3 HEVC
-http://line.weharmony.store/live/a8da78f521/bc62145d78/307057.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3PLUS.png" tvg-id="tv3plus.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| TV3+ HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247631.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3PULS.png" tvg-id="tv3plus.dk",DNK| TV3+ HEVC
-http://line.weharmony.store/live/a8da78f521/bc62145d78/307055.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3PULS.png" tvg-id="tv3puls.dk" tv_archive="1" catchup="default" tv_archive_duration="2" catchup-days="2",DNK| TV3 PULS FHD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247630.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3PULS.png" tvg-id="tv3puls.dk",DNK| TV3 PULS HEVC
-http://line.weharmony.store/live/a8da78f521/bc62145d78/307056.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3MAX.png" tvg-id="tv3max.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| TV3 MAX HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/254999.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV3MAX.png" tvg-id="tv3max.dk",DNK| TV3 MAX HEVC
-http://line.weharmony.store/live/a8da78f521/bc62145d78/307368.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/KANAL4.png" tvg-id="kanal4.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| KANAL 4 HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247636.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/KANAL4.png" tvg-id="kanal4.dk",DNK| KANAL 4 HEVC
-http://line.weharmony.store/live/a8da78f521/bc62145d78/307064.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/KANAL5.png" tvg-id="kanal5.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| KANAL 5 HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247637.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/KANAL5.png" tvg-id="kanal5.dk",DNK| KANAL 5 HEVC
-http://line.weharmony.store/live/a8da78f521/bc62145d78/307063.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/6EREN.png" tvg-id="6eren.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| 6`EREN HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247632.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/6EREN.png" tvg-id="6eren.dk",DNK| 6`EREN HEVC
-http://line.weharmony.store/live/a8da78f521/bc62145d78/307068.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/CANAL9.png" tvg-id="canal9.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| CANAL 9 HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247633.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/CANAL9.png" tvg-id="canal9.dk",DNK| CANAL 9 HEVC
-http://line.weharmony.store/live/a8da78f521/bc62145d78/307067.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DK4.png" tvg-id="DK4.dk",DNK| DK4
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247638.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2OSTJYLLAND.png" tvg-id="tv2ostjylland.dk",DNK| TV 2 / ØSTJYLLAND
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247623.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2OST.png" tvg-id="TV2Ost.dk",DNK| TV 2 / ØST
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247622.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2SYD.png" tvg-id="TV2Syd.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| TV 2 / SYD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247621.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2NORD.png" tvg-id="TV2NordSalto.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| TV 2 / NORD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247620.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2MIDTVEST.png" tvg-id="tv2midtvest.dk",DNK| TV 2 / MIDT-VEST
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247619.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2FYN.png" tvg-id="tv2fyn.dk",DNK| TV 2 / FYN
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247618.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2BORNHOLM.png" tvg-id="tv2bornholm.dk",DNK| TV 2 / BORNHOLM
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247617.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DENMARK.png" tvg-id="",##### KIDS #####
-http://line.weharmony.store/live/a8da78f521/bc62145d78/333998.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/BOOMERANG.png" tvg-id="Boomerang.dk",DNK| BOOMERANG
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247657.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/CARTOONNETWORK.png" tvg-id="cartoonnetwork.dk",DNK| CARTOON NETWORK
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247658.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DISNEYCHANNEL.png" tvg-id="disneychannel.dk",DNK| DISNEY CHANNEL
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1313159.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DRRAMASJANG.png" tvg-id="drramasjang.dk",DNK| DR RAMASJANG
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247664.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/NICKELODEON.png" tvg-id="nickelodeon.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| NICKELODEON
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247662.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/NICKJR.png" tvg-id="nickjr.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| NICK JR.
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247661.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DENMARK.png" tvg-id="",##### MOVIES #####
-http://line.weharmony.store/live/a8da78f521/bc62145d78/333997.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATFILMPREMIUME.png" tvg-id="viasatfilmpremiere.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| VIASAT FILM PREMIUME HEVC MULTI
-http://line.weharmony.store/live/a8da78f521/bc62145d78/861714.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATFILMACTION.png" tvg-id="viasataction.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| VIASAT FILM ACTION HEVC MULTI
-http://line.weharmony.store/live/a8da78f521/bc62145d78/861713.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATFILMFAMILY.png" tvg-id="viasatfamily.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| VIASAT FILM FAMILY (SUB)
-http://line.weharmony.store/live/a8da78f521/bc62145d78/861712.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATFILMHITS.png" tvg-id="viasathits.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| VIASAT FILM HITS HEVC MULTI
-http://line.weharmony.store/live/a8da78f521/bc62145d78/861711.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATSERIES.png" tvg-id="viasatseries.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| VIASAT SERIES HD (SUB)
-http://line.weharmony.store/live/a8da78f521/bc62145d78/861710.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATSERIES.png" tvg-id="viasatseries.dk",DNK| VIASAT SERIES HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247654.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATFILMPREMIERE.png" tvg-id="viasatfilmpremiere.dk",DNK| VIASAT FILM PREMIERE HD MULTI
-http://line.weharmony.store/live/a8da78f521/bc62145d78/254993.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATFILMHITS.png" tvg-id="viasathits.dk",DNK| VIASAT FILM HITS HD MULTI
-http://line.weharmony.store/live/a8da78f521/bc62145d78/254992.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATFILMACTION.png" tvg-id="viasataction.dk",DNK| CION HD MULTI
-http://line.weharmony.store/live/a8da78f521/bc62145d78/254991.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATFILMFAMILY.png" tvg-id="viasatfamily.dk",DNK| VIASAT FILM FAMILY
-http://line.weharmony.store/live/a8da78f521/bc62145d78/285235.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/SKYSHOWTIME1.png" tvg-id="",DNK| SKY SHOWTIME 1 HEVC MULTI
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1033889.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/SKYSHOWTIME1.png" tvg-id="",DNK| SKY SHOWTIME 1 HD MULTI
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1033890.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/SKYSHOWTIME2.png" tvg-id="",DNK| SKY SHOWTIME 2 HEVC MULTI
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1033891.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/SKYSHOWTIME2.png" tvg-id="",DNK| SKY SHOWTIME 2 HD MULTI
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1033892.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/SEE.png" tvg-id="see.dk",DNK|  SEE HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1038813.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/SFKANALEN.png" tvg-id="sfkanalen.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| SF KANALEN
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247656.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DENMARK.png" tvg-id="",##### FACTS DOCUMENTARY #####
-http://line.weharmony.store/live/a8da78f521/bc62145d78/333999.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/NATGEO.png" tvg-id="natgeowild.dk",DNK| NAT GEO HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247694.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/ANIMALPLANET.png" tvg-id="animalplanet.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| ANIMAL PLANET HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247688.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DISCOVERY.png" tvg-id="discoverychannel.dk",DNK| DISCOVERY HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247693.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DISCOVERYSCIENCE.png" tvg-id="discoveryscience.dk",DNK| DISCOVERY SCIENCE HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1549679.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATHISTORY.png" tvg-id="viasathistory.dk",DNK| VIASAT HISTORY HD MULTI
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1033175.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATHISTORY.png" tvg-id="viasathistory.dk",DNK| VIASAT HISTORY HEVC MULTI
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1033171.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/HISTORY.png" tvg-id="history.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| HISTORY HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247686.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/HISTORY2.png" tvg-id="",DNK| HISTORY2 HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/446055.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/IDINVESTIGATIONDISCOVERY.png" tvg-id="investigationdiscovery.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| ID INVESTIGATION DISCOVERY
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247692.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DENMARK.png" tvg-id="",##### MUSIC #####
-http://line.weharmony.store/live/a8da78f521/bc62145d78/334000.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/MTV.png" tvg-id="mtv.dk",DNK| MTV HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247698.ts
-#EXTINF:-1 group-title="DENMARK HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/MOTORVISION.png" tvg-id="",DNK| MOTORVISION HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/876214.ts
 #EXTINF:-1 group-title="DENMARK PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",##### VIAPLAY FILM #####
 http://line.weharmony.store/live/a8da78f521/bc62145d78/601698.ts
 #EXTINF:-1 group-title="DENMARK PREMIUM PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",DNK| VIAPLAY FILM 1 FHD
@@ -1255,29 +1281,29 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1639791.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1639790.ts
 #EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",####### VIAPLAY PPV #######
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037378.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | VIAPLAY SPORT NEWS SKY SPORTS FC | Wed 12 Aug 11:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 1
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | VIAPLAY SPORT NEWS FCK-SHOW I PARKEN OG 17-ÅRIG HENRYKKER I SUPER CUPPEN | Thu 13 Aug 07:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 1
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037377.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | VIAPLAY SPORT NEWS SPORT NEWS | Wed 12 Aug 19:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 2
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | VIAPLAY SPORT NEWS SKY SPORTS FC | Thu 13 Aug 11:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 2
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037376.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | MAJOR LEAGUE BASEBALL TWINS - ORIOLES | Wed 12 Aug 19:30 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 3
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | VIAPLAY SPORT NEWS FØR SUPERLIGAEN | Thu 13 Aug 13:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 3
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037375.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | UEFA SUPER CUP PSG - ASTON VILLA | Wed 12 Aug 20:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | DP WORLD TOUR DANISH GOLF CHAMPIONSHIP | Thu 13 Aug 13:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037374.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | U.S. AMATEUR CHAMPIONSHIP U.S. AMATEUR | Wed 12 Aug 21:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 5
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | LADIES EUROPEAN TOUR VP BANK SWISS LADIES OPEN | Thu 13 Aug 15:30 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 5
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037373.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | MAJOR LEAGUE BASEBALL YANKEES - MARINERS | Thu 13 Aug 01:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 6
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | VIAPLAY SPORT NEWS SPORT NEWS | Thu 13 Aug 16:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 6
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037372.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | VIAPLAY SPORT NEWS KRITIKKEN HAGLER OVER AGF EFTER KOLLAPS | Wed 12 Aug 13:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 7
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | UEFA EUROPA CONFERENCE LEAGUE FC NORDSJÆLLAND - VALUR | Thu 13 Aug 18:30 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 7
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037371.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | VIAPLAY SPORT NEWS SKAL FCK HENTE BRUUN LARSEN? | Wed 12 Aug 16:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 8
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | MAJOR LEAGUE BASEBALL TIGERS - GUARDIANS | Thu 13 Aug 19:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 8
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037370.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: VIAPLAY PPV 9
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | U.S. AMATEUR CHAMPIONSHIP U.S. AMATEUR | Thu 13 Aug 21:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 9
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037369.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: VIAPLAY PPV 10
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | POOL ARIZONA OPEN POOL CHAMPIONSHIP | Thu 13 Aug 22:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 10
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037368.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: VIAPLAY PPV 11
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | LPGA THE STANDARD PORTLAND CLASSIC | Fri 14 Aug 00:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 11
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037367.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: VIAPLAY PPV 12
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | MAJOR LEAGUE BASEBALL TWINS - PHILLIES | Fri 14 Aug 01:30 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 12
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037366.ts
 #EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: VIAPLAY PPV 13
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037365.ts
@@ -2799,86 +2825,44 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1943309.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1943308.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1028649.png" tvg-id="",##### ENGLISH #####
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1028649.ts
-#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",###### RELAX 4K ######
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1505556.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176861.png" tvg-id="AandE.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| A&E HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176861.ts
-#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX TURKEY 4K
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1505563.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176793.png" tvg-id="ca.ABC (WCVB) Boston, MA HD" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| ABC EAST HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176793.ts
-#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX ICELAND 4K
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1505558.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176794.png" tvg-id="ca.ABC (KOMO) Seattle, WA HD" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| ABC WEST HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176794.ts
-#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX MOROCCO 4K
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1505557.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176863.png" tvg-id="AmericanHeroesChannel.us" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| AHC HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176863.ts
-#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX TROPICAL BEACH 4K
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1505576.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176831.png" tvg-id="APTN.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| APTN HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176831.ts
-#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX THE OCEAN 4K
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1505575.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176864.png" tvg-id="AMC.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| AMC HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176864.ts
-#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX STARDUST 4K
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1505574.ts
-#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX SNOW WINTER 4K
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1505573.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176797.png" tvg-id="BBCWorld.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| BBC WORLD NEWS HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176797.ts
-#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX FOREST 4K
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1505572.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176798.png" tvg-id="ca.BNN Bloomberg" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| BNN HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176798.ts
-#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX FLOWER 4K
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1505571.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176867.png" tvg-id="BBCEarth.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| BBC EARTH HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176867.ts
-#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX EARTH NATURE 4K
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1505570.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176868.png" tvg-id="BET.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| BET HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176868.ts
-#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX NATURE RELAXATION 4K
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1505569.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176801.png" tvg-id="ca.CBC News Network" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| CBC NEWS HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176801.ts
-#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX MORNING RELAXING 4K
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1505568.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176800.png" tvg-id="CBC.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| CBC EAST HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176800.ts
-#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX INSPIRATIONAL MOTIVATIONAL 4K
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1505567.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176802.png" tvg-id="ca.CBS (WBZ) Boston, MA HD" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| CBS EAST HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176802.ts
-#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX EUROPE TOWNS 4K
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1505566.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176803.png" tvg-id="CBSWUSA.us" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| CBS WEST HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176803.ts
-#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX FOREST AMERICAN 4K
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1505565.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177280.png" tvg-id="CBCCBMTMontreal.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| CBC MONTREAL HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/177280.ts
-#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX VIETNAM 4K
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1505564.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177283.png" tvg-id="ca.CITY Montreal, QC" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| CITY MONTREAL HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/177283.ts
-#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX SWITZERLAND 4K
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1505562.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176806.png" tvg-id="CityTVMontreal.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| CITY NEWS 24/7 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176806.ts
-#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX ITALY 4K
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1505561.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176807.png" tvg-id="CFPL.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| CITY TV 2 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176807.ts
-#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX AUSTRALIA 4K
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1505560.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176808.png" tvg-id="CHCH.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| CHCH HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176808.ts
-#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX NORWAY 4K
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1505559.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176872.png" tvg-id="CMT.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| CMT HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176872.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176804.png" tvg-id="US-CNBC USA" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| CNBC HD
@@ -3023,8 +3007,6 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/176884.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176885.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176886.png" tvg-id="FashionTV.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| FASHION TELEVISION CHANNEL
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176886.ts
-#EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176888.png" tvg-id="FoodNetwork.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| FOOD NETWORK HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/176888.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176890.png" tvg-id="ca.FYI Canada" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| FYI HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176890.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176891.png" tvg-id="HGTV.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| HGTV HD
@@ -3127,6 +3109,48 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1858354.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/552643.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176941.png" tvg-id="CA| YTV E" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| YTV EAST HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176941.ts
+#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",###### RELAX 4K ######
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1505556.ts
+#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX TURKEY 4K
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1505563.ts
+#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX ICELAND 4K
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1505558.ts
+#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX MOROCCO 4K
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1505557.ts
+#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX TROPICAL BEACH 4K
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1505576.ts
+#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX THE OCEAN 4K
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1505575.ts
+#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX STARDUST 4K
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1505574.ts
+#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX SNOW WINTER 4K
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1505573.ts
+#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX FOREST 4K
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1505572.ts
+#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX FLOWER 4K
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1505571.ts
+#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX EARTH NATURE 4K
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1505570.ts
+#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX NATURE RELAXATION 4K
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1505569.ts
+#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX MORNING RELAXING 4K
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1505568.ts
+#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX INSPIRATIONAL MOTIVATIONAL 4K
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1505567.ts
+#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX EUROPE TOWNS 4K
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1505566.ts
+#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX FOREST AMERICAN 4K
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1505565.ts
+#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX VIETNAM 4K
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1505564.ts
+#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX SWITZERLAND 4K
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1505562.ts
+#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX ITALY 4K
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1505561.ts
+#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX AUSTRALIA 4K
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1505560.ts
+#EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX NORWAY 4K
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1505559.ts
 #EXTINF:-1 group-title="4K RELAX UHD 3840P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",###### RELAX ᵁᴴᴰ 3840P ######
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1505577.ts
 #EXTINF:-1 group-title="4K RELAX UHD 3840P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",4K| RELAX MOROCCO ᵁᴴᴰ 3840P
@@ -3307,8 +3331,6 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1471386.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1632124.ts
 #EXTINF:-1 group-title="4K UHD 3840P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" tvg-id="Bloomberg.gr",4K| BLOOMBERG UHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1470604.ts
-#EXTINF:-1 group-title="4K UHD 3840P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" tvg-id="US-CNN",4K| CNN UHD 4K
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1470653.ts
 #EXTINF:-1 group-title="4K UHD 3840P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" tvg-id="CanalCocina.es",4K| COCINA UHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1471385.ts
 #EXTINF:-1 group-title="4K UHD 3840P" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" tvg-id="CanalDecasa.es",4K| DECASA UHD
@@ -5037,8 +5059,6 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/281121.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/118539.ts
 #EXTINF:-1 group-title="ASIA | PAKISTAN" tvg-logo="http://picons.cmshulk.com/picons/165626.png" tvg-id="",PK| GEO TV HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/165626.ts
-#EXTINF:-1 group-title="ASIA | PAKISTAN" tvg-logo="http://picons.cmshulk.com/picons/281119.png" tvg-id="GeoNews.pk",PK| GEO NEWS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/281119.ts
 #EXTINF:-1 group-title="ASIA | PAKISTAN" tvg-logo="http://picons.cmshulk.com/picons/118541.png" tvg-id="",PK| GEO TV (NA)
 http://line.weharmony.store/live/a8da78f521/bc62145d78/118541.ts
 #EXTINF:-1 group-title="ASIA | PAKISTAN" tvg-logo="http://picons.cmshulk.com/picons/104866.png" tvg-id="",PK| GEO TV HD EU
@@ -5079,8 +5099,6 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/118540.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/118546.ts
 #EXTINF:-1 group-title="ASIA | PAKISTAN" tvg-logo="http://103.176.90.118/picons/logos/aryfamily.png" tvg-id="ARYFamily.pk",PK| ARY FAMILY EU
 http://line.weharmony.store/live/a8da78f521/bc62145d78/42442.ts
-#EXTINF:-1 group-title="ASIA | PAKISTAN" tvg-logo="http://picons.cmshulk.com/picons/281099.png" tvg-id="AryDigital.pk",PK| ARY DIGITAL ASIA
-http://line.weharmony.store/live/a8da78f521/bc62145d78/281099.ts
 #EXTINF:-1 group-title="ASIA | PAKISTAN" tvg-logo="http://picons.cmshulk.com/picons/281101.png" tvg-id="",PK| ARY MUSIK
 http://line.weharmony.store/live/a8da78f521/bc62145d78/281101.ts
 #EXTINF:-1 group-title="ASIA | PAKISTAN" tvg-logo="http://picons.cmshulk.com/picons/281102.png" tvg-id="ARYNews.pk",PK| ARY NEWS ASIA
@@ -5113,14 +5131,10 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1134221.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/281147.ts
 #EXTINF:-1 group-title="ASIA | PAKISTAN" tvg-logo="http://103.176.90.118/picons/logos/SAMAA-NEWS.jpg" tvg-id="",PK| SAMAA NEWS
 http://line.weharmony.store/live/a8da78f521/bc62145d78/165589.ts
-#EXTINF:-1 group-title="ASIA | PAKISTAN" tvg-logo="http://103.176.90.118/picons/logos/in.samaa.png" tvg-id="SamaaTV.pk",PK| SAMAA EU
-http://line.weharmony.store/live/a8da78f521/bc62145d78/104874.ts
 #EXTINF:-1 group-title="ASIA | PAKISTAN" tvg-logo="http://picons.cmshulk.com/picons/165584.png" tvg-id="",PK| RAAVI TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/165584.ts
 #EXTINF:-1 group-title="ASIA | PAKISTAN" tvg-logo="http://picons.cmshulk.com/picons/165580.png" tvg-id="DunyaNews.pk",PK| DUNYA NEWS
 http://line.weharmony.store/live/a8da78f521/bc62145d78/165580.ts
-#EXTINF:-1 group-title="ASIA | PAKISTAN" tvg-logo="http://picons.cmshulk.com/picons/42447.png" tvg-id="DunyaNews.pk",PK| DUNYA NEWS EU
-http://line.weharmony.store/live/a8da78f521/bc62145d78/42447.ts
 #EXTINF:-1 group-title="ASIA | PAKISTAN" tvg-logo="http://picons.cmshulk.com/picons/97098.png" tvg-id="92News.pk",PK| 92 NEWS EU
 http://line.weharmony.store/live/a8da78f521/bc62145d78/97098.ts
 #EXTINF:-1 group-title="ASIA | PAKISTAN" tvg-logo="http://picons.cmshulk.com/picons/165566.png" tvg-id="92News.pk",PK| 92 NEWS HD
@@ -5135,8 +5149,6 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/281145.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/42455.ts
 #EXTINF:-1 group-title="ASIA | PAKISTAN" tvg-logo="http://picons.cmshulk.com/picons/281089.png" tvg-id="",PK| PTV SPORTS FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/281089.ts
-#EXTINF:-1 group-title="ASIA | PAKISTAN" tvg-logo="http://picons.cmshulk.com/picons/854202.png" tvg-id="",PK| PTV NATIONAL
-http://line.weharmony.store/live/a8da78f521/bc62145d78/854202.ts
 #EXTINF:-1 group-title="ASIA | PAKISTAN" tvg-logo="http://picons.cmshulk.com/picons/177002.png" tvg-id="",PK| PUBLIC NEWS FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/177002.ts
 #EXTINF:-1 group-title="ASIA | PAKISTAN" tvg-logo="http://picons.cmshulk.com/picons/281138.png" tvg-id="NoorTV.pk",PK| NOOR TV
@@ -6165,8 +6177,6 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/306402.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/247412.ts
 #EXTINF:-1 group-title="NORWAY HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/norway/FEM.png" tvg-id="max.no",NOR| FEM HEVC
 http://line.weharmony.store/live/a8da78f521/bc62145d78/306388.ts
-#EXTINF:-1 group-title="NORWAY HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/norway/MATKANALEN.png" tvg-id="Matkanalen.no",NOR| MATKANALEN
-http://line.weharmony.store/live/a8da78f521/bc62145d78/247436.ts
 #EXTINF:-1 group-title="NORWAY HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/norway/VGTV.png" tvg-id="vgtv.no",NOR| VGTV HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/247428.ts
 #EXTINF:-1 group-title="NORWAY HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/norway/NRK1NORDNYTT.png" tvg-id="nrk1nordnytt.no",NOR| NRK1 NORDNYTT HD
@@ -6503,35 +6513,35 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/395640.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/395638.ts
 #EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",##### DAZN PPV #####
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1363198.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | Rewa FC vs. Tupapa Maraerenga FC | OFC Champions League | 2026-08-12 | 04:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | AS Tiga Sport vs. Auckland City FC | OFC Champions League | 2026-08-13 | 00:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048726.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | Lae City FC vs. Galaxy FC | OFC Champions League | 2026-08-12 | 07:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 2
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | Central Coast FC vs. AS Venus | OFC Champions League | 2026-08-13 | 03:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 2
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048725.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | ADIFFEM vs. Caracas FC | Liga FUTVE - Venezuela | 2026-08-12 | 22:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 3
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | EWC - Chess: Day 3, Stream B | EWC Chess | 2026-08-13 | 11:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 3
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048724.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | Good Morning Football | NFL Game Pass | 2026-08-12 | 12:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 4
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | EWC - Counter-Strike 2 2026 - Day 2 - Stream B | Counter Strike 2 | 2026-08-13 | 11:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 4
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048723.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 5
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | EWC - Counter-Strike 2 2026 - Day 2 - Stream A | Counter Strike 2 | 2026-08-13 | 11:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 5
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048722.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 6
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | EWC - Chess: Day 3, Stream A | EWC Chess | 2026-08-13 | 11:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 6
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048721.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 7
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | EWC - Rocket League 2026 - Day 2 | Rocket League | 2026-08-13 | 11:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 7
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048720.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 8
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | EWC - Rainbow Six - Day 8 | R6 Siege | 2026-08-13 | 14:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 8
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048719.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Toronto Open - Day 11 | Omnium National Bank presented by Rogers | 2026-08-12 | 23:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Shields vs. Scott: Press Conference | Salita Promotions | 2026-08-13 | 17:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048718.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 10
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Toronto Open - Final | Omnium National Bank presented by Rogers | 2026-08-13 | 22:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 10
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048717.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 11
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Packers @ Steelers | NFL Game Pass | 2026-08-13 | 23:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 11
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048716.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 12
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Lions @ Bengals | NFL Game Pass | 2026-08-13 | 23:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 12
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048715.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 13
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Dublanc FC vs. Harlem United SC | DFA Premier League - Dominica | 2026-08-13 | 23:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 13
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048714.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 14
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | PPL - Los Angeles - Day 1 | Pro Padel League | 2026-08-13 | 23:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 14
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048713.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 15
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Colts @ Patriots | NFL Game Pass | 2026-08-13 | 23:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 15
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048712.ts
 #EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 16
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048711.ts
@@ -6929,8 +6939,6 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1177881.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/80058.ts
 #EXTINF:-1 group-title="SWEDEN HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/CNBCEUROPE.png" tvg-id="",SWE| CNBC EUROPE
 http://line.weharmony.store/live/a8da78f521/bc62145d78/80059.ts
-#EXTINF:-1 group-title="SWEDEN HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/CNN.png" tvg-id="",SWE| CNN INTERNATIONAL
-http://line.weharmony.store/live/a8da78f521/bc62145d78/80060.ts
 #EXTINF:-1 group-title="SWEDEN HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/logos/1370532.png" tvg-id="DiTV.se",SWE| DI TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1370532.ts
 #EXTINF:-1 group-title="SWEDEN HD & HEVC" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/DWENGLISH.png" tvg-id="",SWE| DW ENGLISH HD
@@ -6969,61 +6977,61 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/79916.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/79917.ts
 #EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  101
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991539.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Beachvolleyboll vs EM @ Aug 12 13:20 :TeliaPlay SE  02
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Fan Club @ Aug 13 11:00 :TeliaPlay SE  02
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991538.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Ridsport: VM Dressyr, lag @ Aug 12 13:45 :TeliaPlay SE  03
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Transfer Talk @ Aug 13 13:00 :TeliaPlay SE  03
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991537.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Davenport, IA vs Columbia, MO @ Aug 12 16:55 :TeliaPlay SE  04
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Danish Golf Championship vs Day 1 @ Aug 13 13:00 :TeliaPlay SE  04
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991536.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Bollklubben @ Aug 12 17:00 :TeliaPlay SE  05
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",ATP TOUR: Cincinnati Open 1000 @ Aug 13 17:00 :TeliaPlay SE  05
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991535.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Simning: EM @ Aug 12 18:25 :TeliaPlay SE  06
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Bollklubben @ Aug 13 17:00 :TeliaPlay SE  06
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991534.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Richmond, VT vs Gray, ME @ Aug 12 18:55 :TeliaPlay SE  07
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",HV71 vs Frolunda HC @ Aug 13 17:55 :TeliaPlay SE  07
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991533.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",V86 Direkt @ Aug 12 19:00 :TeliaPlay SE  08
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Linkoping vs Farjestad @ Aug 13 17:55 :TeliaPlay SE  08
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991532.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Bordtennis: WTT Champions @ Aug 12 19:45 :TeliaPlay SE  09
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Simning: EM @ Aug 13 18:25 :TeliaPlay SE  09
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991531.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Simning: EM Del 2 @ Aug 12 19:59 :TeliaPlay SE  10
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Cincinnati Open (1000): Grand Stand @ Aug 13 18:30 :TeliaPlay SE  10
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991530.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Sky Sports: The Transfer Show @ Aug 12 20:00 :TeliaPlay SE  11
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Bordtennis: WTT Champions @ Aug 13 18:30 :TeliaPlay SE  11
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991529.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Friidrotts vs EM: Extrakameror @ Aug 12 20:00 :TeliaPlay SE  12
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Whitefish Bay, WI vs Columbia, MO @ Aug 13 18:55 :TeliaPlay SE  12
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991528.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Friidrotts vs EM @ Aug 12 20:00 :TeliaPlay SE  13
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Sky Sports: The Transfer Show @ Aug 13 20:00 :TeliaPlay SE  13
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991527.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Final: PSG vs Aston Villa @ Aug 12 20:50 :TeliaPlay SE  14
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Friidrotts vs EM: Extrakameror @ Aug 13 20:30 :TeliaPlay SE  14
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991526.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Bend, Oregon vs Tacoma, WA @ Aug 12 20:55 :TeliaPlay SE  15
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Cincinnati Open (1000): Stadium Court 3 @ Aug 13 20:30 :TeliaPlay SE  15
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991525.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Friidrotts vs EM Del 2 @ Aug 12 20:59 :TeliaPlay SE  16
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Friidrotts vs EM @ Aug 13 20:30 :TeliaPlay SE  16
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991524.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",U.S. Amateur Championship vs Day 1 @ Aug 12 21:00 :TeliaPlay SE  17
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Naamans, DE vs Washington, D.C. @ Aug 13 20:55 :TeliaPlay SE  17
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991523.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Friidrotts vs EM Del 3 @ Aug 12 21:59 :TeliaPlay SE  18
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Friidrotts vs EM Del 2 @ Aug 13 20:59 :TeliaPlay SE  18
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991522.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Port Washington, NY vs Darien, CT @ Aug 12 22:55 :TeliaPlay SE  19
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",U.S. Amateur Championship vs Day 2 @ Aug 13 21:00 :TeliaPlay SE  19
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991521.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",ATP TOUR: National Bank Open Montreal 1000 @ Aug 13 00:00 :TeliaPlay SE  20
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Friidrotts vs EM Del 3 @ Aug 13 21:59 :TeliaPlay SE  20
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991520.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Junior League Baseball @ Aug 13 00:55 :TeliaPlay SE  21
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Billings, MT vs Alpine, UT @ Aug 13 22:55 :TeliaPlay SE  21
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991519.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",La Grange, KY vs Hamilton, OH @ Aug 13 00:55 :TeliaPlay SE  22
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Cincinnati Open (1000): huvudsandning @ Aug 13 23:00 :TeliaPlay SE  22
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991518.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",#16 LSU vs #18 Wake Forest @ Aug 13 01:55 :TeliaPlay SE  23
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Old Dominion vs Virginia Tech @ Aug 13 23:55 :TeliaPlay SE  23
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991517.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Little League Baseball Regionals @ Aug 13 02:55 :TeliaPlay SE  24
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",The Standard Portland Classic vs Day 1 @ Aug 14 00:00 :TeliaPlay SE  24
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991516.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  25
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Gray, ME vs Bridgewater, MA @ Aug 14 00:55 :TeliaPlay SE  25
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991515.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  26
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Junior League Baseball @ Aug 14 01:55 :TeliaPlay SE  26
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991514.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  27
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Canadian Open (1000): final @ Aug 14 02:00 :TeliaPlay SE  27
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991513.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  28
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",ATP TOUR: National Bank Open Montreal 1000 @ Aug 14 02:00 :TeliaPlay SE  28
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991512.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  29
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Tacoma, WA vs Eagle, ID @ Aug 14 02:55 :TeliaPlay SE  29
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991511.ts
 #EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  30
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991510.ts
@@ -7209,70 +7217,70 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1991421.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991420.ts
 #EXTINF:-1 group-title="SWEDEN VIAPLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",###### VIAPLAY ᴿᴬᵂ ######
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2085928.ts
-#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/9XJALWA.png" tvg-id="",YP| 9X JALWA ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2124507.ts
 #EXTINF:-1 group-title="SWEDEN VIAPLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",SWE| VIAPLAY SPORTS ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2085927.ts
-#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/9XTASHAN.png" tvg-id="",YP| 9X TASHAN ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2124506.ts
 #EXTINF:-1 group-title="SWEDEN VIAPLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",SWE| VIAPLAY SPORT PREMIUM ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2085926.ts
-#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/9XM.png" tvg-id="",YP| 9XM ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2124505.ts
 #EXTINF:-1 group-title="SWEDEN VIAPLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",SWE| VIAPLAY FOTBOLL ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2085925.ts
-#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/CHANNELY.png" tvg-id="",YP| CHANNEL Y ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2124504.ts
 #EXTINF:-1 group-title="SWEDEN VIAPLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",SWE| VIAPLAY SPORT 1 ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2085924.ts
-#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/CHITHIRAM.png" tvg-id="",YP| CHITHIRAM TV ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2124503.ts
 #EXTINF:-1 group-title="SWEDEN VIAPLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",SWE| VIAPLAY VINTER ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2085923.ts
-#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/COLORSCINEPLEX.png" tvg-id="",YP| COLORS CINEPLEX UK ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2124502.ts
 #EXTINF:-1 group-title="SWEDEN VIAPLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",SWE| VIAPLAY MOTOR ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2085922.ts
-#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/COLORSRISHTEY.png" tvg-id="",YP| COLORS RISHTEY ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2124501.ts
 #EXTINF:-1 group-title="SWEDEN VIAPLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",SWE| VIAPLAY  SPORT GOLF ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2085921.ts
-#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/COLORSTAMIL.png" tvg-id="",YP| COLORS TAMIL ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2124500.ts
 #EXTINF:-1 group-title="SWEDEN VIAPLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",SWE| VIAPLAY TV3 ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2085920.ts
-#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/COLORSUK.png" tvg-id="",YP| COLORS UK ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2124499.ts
 #EXTINF:-1 group-title="SWEDEN VIAPLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",SWE| VIAPLAY TV6 ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2085919.ts
-#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/DESI.png" tvg-id="",YP| DESI TV ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2124498.ts
 #EXTINF:-1 group-title="SWEDEN VIAPLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",SWE| VIAPLAY TV8 ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2085918.ts
-#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/IBCBAKTH.png" tvg-id="",YP| IBC BAKTHI ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2124497.ts
 #EXTINF:-1 group-title="SWEDEN VIAPLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",SWE| VIAPLAY TV10 ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2085917.ts
-#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/IBCTAMIL.png" tvg-id="",YP| IBC TAMIL ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2124496.ts
 #EXTINF:-1 group-title="SWEDEN VIAPLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",SWE| VIAPLAY FILM PREMIER ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2085916.ts
-#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/ISAIARUVI.png" tvg-id="",YP| ISAI ARUVI ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2124495.ts
 #EXTINF:-1 group-title="SWEDEN VIAPLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",SWE| VIAPLAY FILM ACTION ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2085915.ts
-#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/KALAIGNAR.png" tvg-id="",YP| KALAIGNAR TV ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2124494.ts
 #EXTINF:-1 group-title="SWEDEN VIAPLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",SWE| VIAPLAY FILM HITS ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2085914.ts
-#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/MADHIMUGAM.png" tvg-id="",YP| MADHIMUGAM TV ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2124493.ts
 #EXTINF:-1 group-title="SWEDEN VIAPLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",SWE| VIAPLAY FILM FAMILY ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2085913.ts
-#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/MAKKAL.png" tvg-id="",YP| MAKKAL TV ᴿᴬᵂ
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2124492.ts
 #EXTINF:-1 group-title="SWEDEN VIAPLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",SWE| VIAPLAY SERIES ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2085912.ts
+#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/9XJALWA.png" tvg-id="",YP| 9X JALWA ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2124507.ts
+#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/9XTASHAN.png" tvg-id="",YP| 9X TASHAN ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2124506.ts
+#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/9XM.png" tvg-id="",YP| 9XM ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2124505.ts
+#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/CHANNELY.png" tvg-id="",YP| CHANNEL Y ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2124504.ts
+#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/CHITHIRAM.png" tvg-id="",YP| CHITHIRAM TV ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2124503.ts
+#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/COLORSCINEPLEX.png" tvg-id="",YP| COLORS CINEPLEX UK ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2124502.ts
+#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/COLORSRISHTEY.png" tvg-id="",YP| COLORS RISHTEY ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2124501.ts
+#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/COLORSTAMIL.png" tvg-id="",YP| COLORS TAMIL ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2124500.ts
+#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/COLORSUK.png" tvg-id="",YP| COLORS UK ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2124499.ts
+#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/DESI.png" tvg-id="",YP| DESI TV ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2124498.ts
+#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/IBCBAKTH.png" tvg-id="",YP| IBC BAKTHI ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2124497.ts
+#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/IBCTAMIL.png" tvg-id="",YP| IBC TAMIL ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2124496.ts
+#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/ISAIARUVI.png" tvg-id="",YP| ISAI ARUVI ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2124495.ts
+#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/KALAIGNAR.png" tvg-id="",YP| KALAIGNAR TV ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2124494.ts
+#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/MADHIMUGAM.png" tvg-id="",YP| MADHIMUGAM TV ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2124493.ts
+#EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/MAKKAL.png" tvg-id="",YP| MAKKAL TV ᴿᴬᵂ
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2124492.ts
 #EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/NEWS18.png" tvg-id="",YP| NEWS18 ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2124491.ts
 #EXTINF:-1 group-title="ASIA | YUPP TV PREMIUM ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/POLIMERTV.png" tvg-id="",YP| POLIMERTV ᴿᴬᵂ
@@ -7829,10 +7837,6 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1093281.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/894388.ts
 #EXTINF:-1 group-title="UK| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/UK/229424.png" tvg-id="",##### COOKING #####
 http://line.weharmony.store/live/a8da78f521/bc62145d78/229424.ts
-#EXTINF:-1 group-title="UK| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/UK/45275.png" tvg-id="FoodNetwork.uk",UK| FOOD NETWORK
-http://line.weharmony.store/live/a8da78f521/bc62145d78/45275.ts
-#EXTINF:-1 group-title="UK| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/UK/164047.png" tvg-id="FoodNetwork.uk",UK| FOOD NETWORK +1
-http://line.weharmony.store/live/a8da78f521/bc62145d78/164047.ts
 #EXTINF:-1 group-title="UK| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/UK/229425.png" tvg-id="",##### LOCALS #####
 http://line.weharmony.store/live/a8da78f521/bc62145d78/229425.ts
 #EXTINF:-1 group-title="UK| GENERAL" tvg-logo="http://51.158.145.100/picons/logos/UK/45330.png" tvg-id="BBCScotland.uk",UK| BBC SCOTLAND HD
@@ -7985,16 +7989,12 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1199265.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1128482.ts
 #EXTINF:-1 group-title="UK| GENERAL HEVC" tvg-logo="http://51.158.145.100/picons/logos/UK/1458582.png" tvg-id="",##### GENERAL HEVC  #####
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1458582.ts
-#EXTINF:-1 group-title="UK| GENERAL HEVC" tvg-logo="http://51.158.145.100/picons/logos/UK/1458580.png" tvg-id="BBCNews.uk",UK| BBC NEWS HEVC FHD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1458580.ts
 #EXTINF:-1 group-title="UK| GENERAL HEVC" tvg-logo="http://51.158.145.100/picons/logos/UK/1458574.png" tvg-id="BBCNews.uk",UK| BBC NEWS HEVC HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1458574.ts
 #EXTINF:-1 group-title="UK| GENERAL HEVC" tvg-logo="http://51.158.145.100/picons/logos/UK/1458578.png" tvg-id="GBNews.uk",UK| GB NEWS HEVC FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1458578.ts
 #EXTINF:-1 group-title="UK| GENERAL HEVC" tvg-logo="http://51.158.145.100/picons/logos/UK/1458579.png" tvg-id="GBNews.uk",UK| GB NEWS HEVC HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1458579.ts
-#EXTINF:-1 group-title="UK| GENERAL HEVC" tvg-logo="http://51.158.145.100/picons/logos/UK/1458565.png" tvg-id="SkyNews.uk",UK| SKY NEWS HEVC FHD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1458565.ts
 #EXTINF:-1 group-title="UK| GENERAL HEVC" tvg-logo="http://51.158.145.100/picons/logos/UK/1458564.png" tvg-id="SkyNews.uk",UK| SKY NEWS HEVC HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1458564.ts
 #EXTINF:-1 group-title="UK| GENERAL HEVC" tvg-logo="http://51.158.145.100/picons/logos/UK/1458572.png" tvg-id="BBC1.uk",UK| BBC1 HEVC HD
