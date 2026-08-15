@@ -365,6 +365,18 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/42450.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/104876.ts
 #EXTINF:-1 group-title="7 - | RELIGION" tvg-logo="http://picons.cmshulk.com/picons/97097.png" tvg-id="AhlebaitTV.uk",PK| AHLEBAIT TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/97097.ts
+#EXTINF:-1 group-title="8 - | Favorite" tvg-logo="http://103.176.90.118/picons/logos/logos/EVERGREEN-CLASSIC.png" tvg-id="EvergreenClassic.in",HINDI| EVERGREEN CLASSIC
+http://line.weharmony.store/live/a8da78f521/bc62145d78/155994.ts
+#EXTINF:-1 group-title="8 - | Favorite" tvg-logo="http://picons.cmshulk.com/picons/157160.png" tvg-id="AndTV.in",HINDI| AND TV HD USA
+http://line.weharmony.store/live/a8da78f521/bc62145d78/157160.ts
+#EXTINF:-1 group-title="8 - | Favorite" tvg-logo="http://picons.cmshulk.com/picons/809740.png" tvg-id="AndTV.in",HINDI| AND TV HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/809740.ts
+#EXTINF:-1 group-title="8 - | Favorite" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| DILIP KUMAR CINEMA HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1950798.ts
+#EXTINF:-1 group-title="8 - | Favorite" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| DHARMENDRA CINEMA HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1950796.ts
+#EXTINF:-1 group-title="8 - | Favorite" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| ABHAY DEOL CINEMA HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1950791.ts
 #EXTINF:-1 group-title="9 - | TEMPORARY" tvg-logo="http://picons.cmshulk.com/picons/155997.png" tvg-id="AndPictures.in",HINDI| & PICTURES FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/155997.ts
 #EXTINF:-1 group-title="9 - | TEMPORARY" tvg-logo="http://picons.cmshulk.com/picons/155990.png" tvg-id="AndFlix.in",HINDI| & FLIX FHD
@@ -3671,16 +3683,10 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1950823.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1950822.ts
 #EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| MITHUN CHAKRABORTY CINEMA HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1950821.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| DILIP KUMAR CINEMA HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950798.ts
 #EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| VINOD KHANNA CINEMA HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1950820.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| DHARMENDRA CINEMA HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950796.ts
 #EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| VIDYUT JAMMWAL CINEMA HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1950819.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| ABHAY DEOL CINEMA HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950791.ts
 #EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| KAY KAY MENON CINEMA HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1950818.ts
 #EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| VARUN DHAWAN CINEMA HD
@@ -4181,12 +4187,8 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1116470.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1116482.ts
 #EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/1438227.png" tvg-id="",HINDI| CINEMANIA GOLD 4K
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1438227.ts
-#EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://103.176.90.118/picons/logos/logos/EVERGREEN-CLASSIC.png" tvg-id="EvergreenClassic.in",HINDI| EVERGREEN CLASSIC
-http://line.weharmony.store/live/a8da78f521/bc62145d78/155994.ts
 #EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/1438228.png" tvg-id="",HINDI| CINEMANIA 4K
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1438228.ts
-#EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/809740.png" tvg-id="AndTV.in",HINDI| AND TV HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/809740.ts
 #EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/155974.png" tvg-id="ZeeTV.in",HINDI| ZEE TV FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/155974.ts
 #EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/280773.png" tvg-id="ZeeTV.in",HINDI| ZEE TV
@@ -4321,8 +4323,6 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/156151.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/155992.ts
 #EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/280745.png" tvg-id="AndTV.in",HINDI| AND TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/280745.ts
-#EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/157160.png" tvg-id="AndTV.in",HINDI| AND TV HD USA
-http://line.weharmony.store/live/a8da78f521/bc62145d78/157160.ts
 #EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/156168.png" tvg-id="AnimalPlanet.in",HINDI| ANIMAL PLANET HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/156168.ts
 #EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/280746.png" tvg-id="AnimalPlanet.in",HINDI| ANIMAL PLANET
