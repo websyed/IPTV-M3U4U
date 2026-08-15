@@ -1,372 +1,370 @@
 #EXTM3U x-generator="https://m3u4u.com/"
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154366.png" tvg-id="DR1.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DK| DR 1 HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154366.png" tvg-id="DR1.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DK| DR 1 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154366.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154369.png" tvg-id="DR2.dk",DK| DR 2 HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154369.png" tvg-id="DR2.dk",DK| DR 2 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154369.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/DR-RAMASJANG.png" tvg-id="DRRamasjang.dk",DK| DR RAMASJANG
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/DR-RAMASJANG.png" tvg-id="DRRamasjang.dk",DK| DR RAMASJANG
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154370.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/DR-RAMASJANG.png" tvg-id="DRRamasjang.dk",DK| DR RAMASJANG HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/DR-RAMASJANG.png" tvg-id="DRRamasjang.dk",DK| DR RAMASJANG HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154371.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154372.png" tvg-id="TV2.dk",DK| TV2
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154372.png" tvg-id="TV2.dk",DK| TV2
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154372.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154373.png" tvg-id="TV2.dk",DK| TV2 HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154373.png" tvg-id="TV2.dk",DK| TV2 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154373.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154374.png" tvg-id="TV2Zulu.dk",DK| TV2 ECHO HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154374.png" tvg-id="TV2Zulu.dk",DK| TV2 ECHO HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154374.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TV_2_Charlie_2023.svg/1200px-TV_2_Charlie_2023.svg.png" tvg-id="TV2Charlie.dk",DK| TV2 CHARLIE
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TV_2_Charlie_2023.svg/1200px-TV_2_Charlie_2023.svg.png" tvg-id="TV2Charlie.dk",DK| TV2 CHARLIE
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154375.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TV_2_Charlie_2023.svg/1200px-TV_2_Charlie_2023.svg.png" tvg-id="TV2Charlie.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DK| TV2 CHARLIE HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TV_2_Charlie_2023.svg/1200px-TV_2_Charlie_2023.svg.png" tvg-id="TV2Charlie.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DK| TV2 CHARLIE HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154376.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154377.png" tvg-id="TV2News.dk",DK| TV2 NEWS
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154377.png" tvg-id="TV2News.dk",DK| TV2 NEWS
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154377.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154378.png" tvg-id="TV2News.dk",DK| TV2 NEWS HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154378.png" tvg-id="TV2News.dk",DK| TV2 NEWS HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154378.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154379.png" tvg-id="TV2Sport.dk",DK| TV2 SPORT
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154379.png" tvg-id="TV2Sport.dk",DK| TV2 SPORT
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154379.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154380.png" tvg-id="TV2Sport.dk",DK| TV2 SPORT HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154380.png" tvg-id="TV2Sport.dk",DK| TV2 SPORT HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154380.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154381.png" tvg-id="TV2SportX.dk" tv_archive="1" catchup="default" tv_archive_duration="2" catchup-days="2",DK| TV2 SPORT X HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154381.png" tvg-id="TV2SportX.dk" tv_archive="1" catchup="default" tv_archive_duration="2" catchup-days="2",DK| TV2 SPORT X HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154381.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154382.png" tvg-id="TV2Fri.dk",DK| TV2 FRI HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154382.png" tvg-id="TV2Fri.dk",DK| TV2 FRI HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154382.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154383.png" tvg-id="TV2NordSalto.dk",DK| TV2 NORD HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154383.png" tvg-id="TV2NordSalto.dk",DK| TV2 NORD HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154383.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154385.png" tvg-id="TV2Fyn.dk",DK| TV2 FYN HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154385.png" tvg-id="TV2Fyn.dk",DK| TV2 FYN HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154385.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154386.png" tvg-id="TV2Bornholm.dk",DK| TV2 BORNHOLM HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154386.png" tvg-id="TV2Bornholm.dk",DK| TV2 BORNHOLM HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154386.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154388.png" tvg-id="TV2Ost.dk",DK| TV2 ØST HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154388.png" tvg-id="TV2Ost.dk",DK| TV2 ØST HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154388.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154387.png" tvg-id="TV2Ostjylland.dk",DK| TV2 ØSTJYLLAND HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154387.png" tvg-id="TV2Ostjylland.dk",DK| TV2 ØSTJYLLAND HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154387.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/621773.png" tvg-id="TV2MidtVest.dk",DK| TV 2 / MIDT-VEST
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/621773.png" tvg-id="TV2MidtVest.dk",DK| TV 2 / MIDT-VEST
 http://line.weharmony.store/live/a8da78f521/bc62145d78/621773.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154391.png" tvg-id="TV3.dk",DK| TV3 HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154391.png" tvg-id="TV3.dk",DK| TV3 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154391.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154393.png" tvg-id="TV3Plus.dk",DK| TV3+ HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154393.png" tvg-id="TV3Plus.dk",DK| TV3+ HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154393.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154400.png" tvg-id="TV3Max.dk",DK| TV3 MAX HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154400.png" tvg-id="TV3Max.dk",DK| TV3 MAX HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154400.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154395.png" tvg-id="TV3Puls.dk",DK| TV3 PULS HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154395.png" tvg-id="TV3Puls.dk",DK| TV3 PULS HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154395.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/530244.png" tvg-id="",DK| V SPORT ULTRA HEVC 4K
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/530244.png" tvg-id="",DK| V SPORT ULTRA HEVC 4K
 http://line.weharmony.store/live/a8da78f521/bc62145d78/530244.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154397.png" tvg-id="TV3Sport.dk",DK| TV3 SPORT
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154397.png" tvg-id="TV3Sport.dk",DK| TV3 SPORT
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154397.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154398.png" tvg-id="TV3Sport.dk",DK| TV3 SPORT HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154398.png" tvg-id="TV3Sport.dk",DK| TV3 SPORT HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154398.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154389.png" tvg-id="TV2Syd.dk",DK| TV SYD HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154389.png" tvg-id="TV2Syd.dk",DK| TV SYD HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154389.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154403.png" tvg-id="DK4.dk",DK|  DK4
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154403.png" tvg-id="DK4.dk",DK|  DK4
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154403.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154405.png" tvg-id="Kanal4.dk",DK| KANAL 4 HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154405.png" tvg-id="Kanal4.dk",DK| KANAL 4 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154405.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154408.png" tvg-id="Kanal5.dk",DK| KANAL 5 HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154408.png" tvg-id="Kanal5.dk",DK| KANAL 5 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154408.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154409.png" tvg-id="6eren.dk",DK| 6 EREN FHD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154409.png" tvg-id="6eren.dk",DK| 6 EREN FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154409.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154410.png" tvg-id="Canal9.dk",DK| CANAL 9 FHD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154410.png" tvg-id="Canal9.dk",DK| CANAL 9 FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154410.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154445.png" tvg-id="SFkanalen.dk",DK| SF-KANALEN  [MULTI-SUB]
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154445.png" tvg-id="SFkanalen.dk",DK| SF-KANALEN  [MULTI-SUB]
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154445.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154412.png" tvg-id="SportLive.dk",DK| SPORT LIVE HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154412.png" tvg-id="SportLive.dk",DK| SPORT LIVE HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154412.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154413.png" tvg-id="Eurosport1.dk",DK| EUROSPORT 1 HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154413.png" tvg-id="Eurosport1.dk",DK| EUROSPORT 1 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154413.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154414.png" tvg-id="Eurosport2.dk",DK| EUROSPORT 2 HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154414.png" tvg-id="Eurosport2.dk",DK| EUROSPORT 2 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154414.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154415.png" tvg-id="DiscoveryChannel.dk",DK| DISCOVERY CHANNEL FHD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154415.png" tvg-id="DiscoveryChannel.dk",DK| DISCOVERY CHANNEL FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154415.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154416.png" tvg-id="DiscoveryScience.dk",DK| DISCOVERY SCIENCE
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154416.png" tvg-id="DiscoveryScience.dk",DK| DISCOVERY SCIENCE
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154416.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/INVESTIGATION-DISCOVERY.png" tvg-id="InvestigationDiscovery.dk",DK| INVESTIGATION DISCOVERY  [MULTI-SUB]
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/INVESTIGATION-DISCOVERY.png" tvg-id="InvestigationDiscovery.dk",DK| INVESTIGATION DISCOVERY  [MULTI-SUB]
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154417.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154418.png" tvg-id="AnimalPlanet.dk",DK| ANIMAL PLANET FHD  [MULTI-SUB]
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154418.png" tvg-id="AnimalPlanet.dk",DK| ANIMAL PLANET FHD  [MULTI-SUB]
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154418.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/nationalgeographichd.png" tvg-id="NationalGeographic.dk",DK| NATIONAL GEOGRAPHIC FHD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/nationalgeographichd.png" tvg-id="NationalGeographic.dk",DK| NATIONAL GEOGRAPHIC FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154425.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/HISTORY-HD.jpg" tvg-id="ViasatHistory.dk",DK| HISTORY FHD  [MULTI-SUB]
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/HISTORY-HD.jpg" tvg-id="ViasatHistory.dk",DK| HISTORY FHD  [MULTI-SUB]
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154422.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/H2--HD.jpg" tvg-id="",DK| HISTORY 2 FHD  [MULTI-SUB]
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/H2--HD.jpg" tvg-id="",DK| HISTORY 2 FHD  [MULTI-SUB]
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154421.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/1177890.png" tvg-id="",DK| BBC NORDIC HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/1177890.png" tvg-id="",DK| BBC NORDIC HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1177890.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154436.png" tvg-id="TLC.dk",DK| TLC
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154436.png" tvg-id="TLC.dk",DK| TLC
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154436.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154442.png" tvg-id="CartoonNetwork.dk",DK| CARTOON NETWORK  [MULTI-AUDIO]
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154442.png" tvg-id="CartoonNetwork.dk",DK| CARTOON NETWORK  [MULTI-AUDIO]
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154442.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154443.png" tvg-id="NickJr.dk",DK| NICK JR  [MULTI-AUDIO]
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154443.png" tvg-id="NickJr.dk",DK| NICK JR  [MULTI-AUDIO]
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154443.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154444.png" tvg-id="Nicktoons.dk",DK| NICKTOONS  [MULTI-AUDIO]
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154444.png" tvg-id="Nicktoons.dk",DK| NICKTOONS  [MULTI-AUDIO]
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154444.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154466.png" tvg-id="ViasatExplore.dk",DK| VIASAT EXPLORER HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154466.png" tvg-id="ViasatExplore.dk",DK| VIASAT EXPLORER HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154466.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/VIASAT-FILM-PREMIERE.jpg" tvg-id="ViasatPremiere.dk",DK| VIASAT FILM PREMIUME HD (SUB)
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/VIASAT-FILM-PREMIERE.jpg" tvg-id="ViasatPremiere.dk",DK| VIASAT FILM PREMIUME HD (SUB)
 http://line.weharmony.store/live/a8da78f521/bc62145d78/861709.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/861708.png" tvg-id="ViasatAction.dk",DK| VIASAT FILM ACTION HD MULTI
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/861708.png" tvg-id="ViasatAction.dk",DK| VIASAT FILM ACTION HD MULTI
 http://line.weharmony.store/live/a8da78f521/bc62145d78/861708.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/VIASAT-FILM-FAMILY-HD.png" tvg-id="ViasatFamily.dk",DK| VIASAT FILM FAMILY (SUB)
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/VIASAT-FILM-FAMILY-HD.png" tvg-id="ViasatFamily.dk",DK| VIASAT FILM FAMILY (SUB)
 http://line.weharmony.store/live/a8da78f521/bc62145d78/861707.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/861706.png" tvg-id="ViasatHits.dk",DK| VIASAT FILM HITS HD MULTI
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/861706.png" tvg-id="ViasatHits.dk",DK| VIASAT FILM HITS HD MULTI
 http://line.weharmony.store/live/a8da78f521/bc62145d78/861706.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/861705.png" tvg-id="ViasatSeries.dk",DK| VIASAT SERIES HD (SUB)
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/861705.png" tvg-id="ViasatSeries.dk",DK| VIASAT SERIES HD (SUB)
 http://line.weharmony.store/live/a8da78f521/bc62145d78/861705.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154459.png" tvg-id="ViasatAction.dk",DK| VIASAT FILM ACTION HD MULTI (2)
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154459.png" tvg-id="ViasatAction.dk",DK| VIASAT FILM ACTION HD MULTI (2)
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154459.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/viasatfilmfamily.png" tvg-id="ViasatFamily.dk",DK| VIASAT FILM FAMILY
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/viasatfilmfamily.png" tvg-id="ViasatFamily.dk",DK| VIASAT FILM FAMILY
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154460.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154461.png" tvg-id="ViasatHits.dk",DK| VIASAT FILM HITS HD MULTI (2)
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154461.png" tvg-id="ViasatHits.dk",DK| VIASAT FILM HITS HD MULTI (2)
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154461.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154462.png" tvg-id="ViasatPremiere.dk",DK| VIASAT FILM PREMIERE HD MULTI
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154462.png" tvg-id="ViasatPremiere.dk",DK| VIASAT FILM PREMIERE HD MULTI
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154462.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154401.png" tvg-id="ViasatGolf.dk",DK| VIASAT GOLF HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154401.png" tvg-id="ViasatGolf.dk",DK| VIASAT GOLF HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154401.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154465.png" tvg-id="ViasatHistory.dk",DK| VIASAT HISTORY HD MULTI
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154465.png" tvg-id="ViasatHistory.dk",DK| VIASAT HISTORY HD MULTI
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154465.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154468.png" tvg-id="ViasatNature.dk",DK| VIASAT NATURE HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154468.png" tvg-id="ViasatNature.dk",DK| VIASAT NATURE HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154468.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154464.png" tvg-id="ViasatSeries.dk",DK| VIASAT SERIES HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154464.png" tvg-id="ViasatSeries.dk",DK| VIASAT SERIES HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154464.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/1033933.png" tvg-id="",DK| SKY SHOWTIME 1 HD MULTI
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/1033933.png" tvg-id="",DK| SKY SHOWTIME 1 HD MULTI
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1033933.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/1033932.png" tvg-id="",DK| SKY SHOWTIME 2 HD MULTI
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/1033932.png" tvg-id="",DK| SKY SHOWTIME 2 HD MULTI
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1033932.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/1034293.png" tvg-id="See.dk",DK| SEE HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/1034293.png" tvg-id="See.dk",DK| SEE HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1034293.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154447.png" tvg-id="",DK| EXTREME SPORTS
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154447.png" tvg-id="",DK| EXTREME SPORTS
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154447.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154435.png" tvg-id="",DK| MOTORS TV HD
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://picons.cmshulk.com/picons/154435.png" tvg-id="",DK| MOTORS TV HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154435.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/STRIVE-SPORT.jpg" tvg-id="",DK| STRIVE SPORT 1 FHD [LIVE DURING EVENTS ONLY]
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/STRIVE-SPORT.jpg" tvg-id="",DK| STRIVE SPORT 1 FHD [LIVE DURING EVENTS ONLY]
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154448.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/STRIVE-SPORT.jpg" tvg-id="",DK| STRIVE SPORT 2 FHD [LIVE DURING EVENTS ONLY]
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/STRIVE-SPORT.jpg" tvg-id="",DK| STRIVE SPORT 2 FHD [LIVE DURING EVENTS ONLY]
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154449.ts
-#EXTINF:-1 group-title="1 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/STRIVE-SPORT.jpg" tvg-id="",DK| STRIVE SPORT 3 FHD [LIVE DURING EVENTS ONLY]
+#EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/STRIVE-SPORT.jpg" tvg-id="",DK| STRIVE SPORT 3 FHD [LIVE DURING EVENTS ONLY]
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154450.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/HISTORY.png" tvg-id="history.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| HISTORY HD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/HISTORY.png" tvg-id="history.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| HISTORY HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/247686.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/HISTORY2.png" tvg-id="",DNK| HISTORY2 HD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/HISTORY2.png" tvg-id="",DNK| HISTORY2 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/446055.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DISCOVERYSCIENCE.png" tvg-id="discoveryscience.dk",DNK| DISCOVERY SCIENCE HD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DISCOVERYSCIENCE.png" tvg-id="discoveryscience.dk",DNK| DISCOVERY SCIENCE HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1549679.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/logos/1813529.png" tvg-id="",SWE| HISTORY CHANNEL 2 HD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/logos/1813529.png" tvg-id="",SWE| HISTORY CHANNEL 2 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1813529.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/HISTORYCHANNEL.png" tvg-id="HistoryChannel.se",SWE| HISTORY CHANNEL HEVC
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/HISTORYCHANNEL.png" tvg-id="HistoryChannel.se",SWE| HISTORY CHANNEL HEVC
 http://line.weharmony.store/live/a8da78f521/bc62145d78/965354.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UK/30534.png" tvg-id="HistoryChannel.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK| HISTORY FHD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UK/30534.png" tvg-id="HistoryChannel.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK| HISTORY FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/30534.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UK/30535.png" tvg-id="History2.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK| HISTORY 2 FHD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UK/30535.png" tvg-id="History2.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK| HISTORY 2 FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/30535.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UK/1014336.png" tvg-id="",UK| SKY HISTORY/H2 HD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UK/1014336.png" tvg-id="",UK| SKY HISTORY/H2 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1014336.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176892.png" tvg-id="HistoryChannel.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| HISTORY HD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176892.png" tvg-id="HistoryChannel.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| HISTORY HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176892.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176893.png" tvg-id="History2.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| HISTORY 2 HD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176893.png" tvg-id="History2.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| HISTORY 2 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176893.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DISCOVERY.png" tvg-id="discoverychannel.dk",DNK| DISCOVERY HD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DISCOVERY.png" tvg-id="discoverychannel.dk",DNK| DISCOVERY HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/247693.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERYHISTORY.png" tvg-id="DiscoveryHistory.uk",D+| DISCOVERY HISTORY
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERYHISTORY.png" tvg-id="DiscoveryHistory.uk",D+| DISCOVERY HISTORY
 http://line.weharmony.store/live/a8da78f521/bc62145d78/549400.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176876.png" tvg-id="DiscoveryChannel.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| DISCOVERY HD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176876.png" tvg-id="DiscoveryChannel.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| DISCOVERY HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176876.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176877.png" tvg-id="DiscoveryScience.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| DISCOVERY SCIENCE HD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176877.png" tvg-id="DiscoveryScience.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| DISCOVERY SCIENCE HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176877.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176879.png" tvg-id="DocumentaryChannel.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| DOCUMENTARY HD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176879.png" tvg-id="DocumentaryChannel.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| DOCUMENTARY HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176879.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERYSCIENCE.png" tvg-id="DiscoveryScience.uk",D+| DISCOVERY SCIENCE
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERYSCIENCE.png" tvg-id="DiscoveryScience.uk",D+| DISCOVERY SCIENCE
 http://line.weharmony.store/live/a8da78f521/bc62145d78/549401.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/BBCNORDIC.png" tvg-id="bbcnordic.dk",GOLD| BBC NORDIC DK ᴿᴬᵂ
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/BBCNORDIC.png" tvg-id="bbcnordic.dk",GOLD| BBC NORDIC DK ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2079876.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/norway/BBCNORDIC.png" tvg-id="",GOLD| BBC NORDIC ᴿᴬᵂ
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/norway/BBCNORDIC.png" tvg-id="",GOLD| BBC NORDIC ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2080004.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/norway/DISCOVERYCHANNEL.png" tvg-id="discovery.no",GOLD| DISCOVERY CHANNEL ᴿᴬᵂ
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/norway/DISCOVERYCHANNEL.png" tvg-id="discovery.no",GOLD| DISCOVERY CHANNEL ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2080003.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATHISTORY.png" tvg-id="viasathistory.dk",GOLD| VIASAT HISTORY ᴿᴬᵂ
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATHISTORY.png" tvg-id="viasathistory.dk",GOLD| VIASAT HISTORY ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2079819.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://103.176.90.118/picons/logos/discoveryscience.png" tvg-id="DiscoveryScience.no",NO| DISCOVERY SCIENCE [MULTI-SUB]
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://103.176.90.118/picons/logos/discoveryscience.png" tvg-id="DiscoveryScience.no",NO| DISCOVERY SCIENCE [MULTI-SUB]
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154518.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://picons.cmshulk.com/picons/154510.png" tvg-id="ViasatHistory.no",NO| VIASAT HISTORY HD MULTI
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://picons.cmshulk.com/picons/154510.png" tvg-id="ViasatHistory.no",NO| VIASAT HISTORY HD MULTI
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154510.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/DISCOVERYCHANNEL.png" tvg-id="DiscoveryChannel.se",SWE| DISCOVERY CHANNEL HEVC
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/DISCOVERYCHANNEL.png" tvg-id="DiscoveryChannel.se",SWE| DISCOVERY CHANNEL HEVC
 http://line.weharmony.store/live/a8da78f521/bc62145d78/965352.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/DISCOVERYSCIENCE.png" tvg-id="DiscoveryScience.se" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",SWE| DISCOVERY SCIENCE
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/DISCOVERYSCIENCE.png" tvg-id="DiscoveryScience.se" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",SWE| DISCOVERY SCIENCE
 http://line.weharmony.store/live/a8da78f521/bc62145d78/79984.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/KUNSKAPSKANALEN.png" tvg-id="Kunskapskanalen.se",SWE| KUNSKAPSKANALEN HD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/KUNSKAPSKANALEN.png" tvg-id="Kunskapskanalen.se",SWE| KUNSKAPSKANALEN HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/79976.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/logos/1108997.png" tvg-id="ViasatExplore.se",SWE| VIASAT EXPLORE FHD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/logos/1108997.png" tvg-id="ViasatExplore.se",SWE| VIASAT EXPLORE FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1108997.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/logos/1033155.png" tvg-id="ViasatHistory.se",SWE| VIASAT HISTORY HEVC
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/logos/1033155.png" tvg-id="ViasatHistory.se",SWE| VIASAT HISTORY HEVC
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1033155.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/logos/1108999.png" tvg-id="ViasatNature.se",SWE| VIASAT NATURE FHD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/logos/1108999.png" tvg-id="ViasatNature.se",SWE| VIASAT NATURE FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1108999.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UK/164044.png" tvg-id="DiscoveryChannel.uk",UK| DISCOVERY +1
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UK/164044.png" tvg-id="DiscoveryChannel.uk",UK| DISCOVERY +1
 http://line.weharmony.store/live/a8da78f521/bc62145d78/164044.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UK/30549.png" tvg-id="DiscoveryChannel.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK| DISCOVERY FHD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UK/30549.png" tvg-id="DiscoveryChannel.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK| DISCOVERY FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/30549.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERY.png" tvg-id="",UK| DISCOVERY HEVC FHD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERY.png" tvg-id="",UK| DISCOVERY HEVC FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1458756.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERY.png" tvg-id="",UK| DISCOVERY HEVC HD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERY.png" tvg-id="",UK| DISCOVERY HEVC HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1458759.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UK/164072.png" tvg-id="SkyDocumentaries.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK| SKY DOCUMENTARIES FHD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UK/164072.png" tvg-id="SkyDocumentaries.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK| SKY DOCUMENTARIES FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/164072.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYHISTORY2.png" tvg-id="History2.uk",UK| SKY HISTORY 2 HEVC FHD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYHISTORY2.png" tvg-id="History2.uk",UK| SKY HISTORY 2 HEVC FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1458752.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYHISTORY2.png" tvg-id="History2.uk",UK| SKY HISTORY 2 HEVC HD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYHISTORY2.png" tvg-id="History2.uk",UK| SKY HISTORY 2 HEVC HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1458750.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UK/1014335.png" tvg-id="HistoryChannel.uk",UK| SKY HISTORY HD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UK/1014335.png" tvg-id="HistoryChannel.uk",UK| SKY HISTORY HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1014335.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYHISTORY.png" tvg-id="HistoryChannel.uk",UK| SKY HISTORY HEVC FHD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYHISTORY.png" tvg-id="HistoryChannel.uk",UK| SKY HISTORY HEVC FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1458753.ts
-#EXTINF:-1 group-title="2 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYHISTORY.png" tvg-id="HistoryChannel.uk",UK| SKY HISTORY HEVC HD
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYHISTORY.png" tvg-id="HistoryChannel.uk",UK| SKY HISTORY HEVC HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1458751.ts
-#EXTINF:-1 group-title="3 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2FRI.png" tvg-id="tv2fri.dk",DNK| TV 2 FRI HEVC
+#EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2FRI.png" tvg-id="tv2fri.dk",DNK| TV 2 FRI HEVC
 http://line.weharmony.store/live/a8da78f521/bc62145d78/307061.ts
-#EXTINF:-1 group-title="3 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2FRI.png" tvg-id="tv2fri.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| TV 2 FRI HD
+#EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2FRI.png" tvg-id="tv2fri.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| TV 2 FRI HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/247625.ts
-#EXTINF:-1 group-title="3 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/NATGEO.png" tvg-id="natgeowild.dk",DNK| NAT GEO HD
+#EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/NATGEO.png" tvg-id="natgeowild.dk",DNK| NAT GEO HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/247694.ts
-#EXTINF:-1 group-title="3 - | NATIONAL GEOGRAPHIC" tvg-logo="http://picons.cmshulk.com/picons/154469.png" tvg-id="",DK| ULTRA NATURE UHD 4K
+#EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://picons.cmshulk.com/picons/154469.png" tvg-id="",DK| ULTRA NATURE UHD 4K
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154469.ts
-#EXTINF:-1 group-title="3 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATNATURE.png" tvg-id="viasatnature.dk",GOLD| VIASAT NATURE ᴿᴬᵂ
+#EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATNATURE.png" tvg-id="viasatnature.dk",GOLD| VIASAT NATURE ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2079818.ts
-#EXTINF:-1 group-title="3 - | NATIONAL GEOGRAPHIC" tvg-logo="http://103.176.90.118/picons/logos/nationalgeographichd.png" tvg-id="NationalGeographic.no",NO| NATIONAL GEOGRAPHIC FHD
+#EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://103.176.90.118/picons/logos/nationalgeographichd.png" tvg-id="NationalGeographic.no",NO| NATIONAL GEOGRAPHIC FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154515.ts
-#EXTINF:-1 group-title="3 - | NATIONAL GEOGRAPHIC" tvg-logo="http://103.176.90.118/picons/logos/VIASAT-NATURE-HD.png" tvg-id="ViasatNature.no",NO| VIASAT NATURE FHD [MULTI-SUB]
+#EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://103.176.90.118/picons/logos/VIASAT-NATURE-HD.png" tvg-id="ViasatNature.no",NO| VIASAT NATURE FHD [MULTI-SUB]
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154509.ts
-#EXTINF:-1 group-title="3 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176896.png" tvg-id="LoveNature.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| LOVE NATURE HD
+#EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176896.png" tvg-id="LoveNature.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| LOVE NATURE HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176896.ts
-#EXTINF:-1 group-title="3 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176897.png" tvg-id="NatGeo.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| NAT GEO HD
+#EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176897.png" tvg-id="NatGeo.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| NAT GEO HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176897.ts
-#EXTINF:-1 group-title="3 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/NATIONALGEOGRAPHIC.png" tvg-id="nationalgeographic.dk",GOLD| NATIONAL GEOGRAPHIC DK ᴿᴬᵂ
+#EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/NATIONALGEOGRAPHIC.png" tvg-id="nationalgeographic.dk",GOLD| NATIONAL GEOGRAPHIC DK ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2079858.ts
-#EXTINF:-1 group-title="3 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATEXPLORER.png" tvg-id="viasatexplore.dk",GOLD| VIASAT EXPLORE ᴿᴬᵂ
+#EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/VIASATEXPLORER.png" tvg-id="viasatexplore.dk",GOLD| VIASAT EXPLORE ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2079820.ts
-#EXTINF:-1 group-title="3 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/UK/45283.png" tvg-id="DiscoveryHistory.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK| DISCOVERY HISTORY
+#EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/UK/45283.png" tvg-id="DiscoveryHistory.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK| DISCOVERY HISTORY
 http://line.weharmony.store/live/a8da78f521/bc62145d78/45283.ts
-#EXTINF:-1 group-title="3 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/UK/45281.png" tvg-id="DiscoveryScience.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK| DISCOVERY SCIENCE
+#EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/UK/45281.png" tvg-id="DiscoveryScience.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK| DISCOVERY SCIENCE
 http://line.weharmony.store/live/a8da78f521/bc62145d78/45281.ts
-#EXTINF:-1 group-title="3 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/UK/1014334.png" tvg-id="",UK| NAT GEO +1
+#EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/UK/1014334.png" tvg-id="",UK| NAT GEO +1
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1014334.ts
-#EXTINF:-1 group-title="3 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/UK/1057011.png" tvg-id="NatGeo.uk",UK| NAT GEO HD
+#EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/UK/1057011.png" tvg-id="NatGeo.uk",UK| NAT GEO HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1057011.ts
-#EXTINF:-1 group-title="3 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NATIONALGEO.png" tvg-id="NatGeo.uk",UK| NATIONAL GEO HEVC FHD
+#EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NATIONALGEO.png" tvg-id="NatGeo.uk",UK| NATIONAL GEO HEVC FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1458749.ts
-#EXTINF:-1 group-title="3 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NATIONALGEO.png" tvg-id="NatGeo.uk",UK| NATIONAL GEO HEVC HD
+#EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NATIONALGEO.png" tvg-id="NatGeo.uk",UK| NATIONAL GEO HEVC HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1458746.ts
-#EXTINF:-1 group-title="3 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/UK/164071.png" tvg-id="SkyNature.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK| SKY NATURE FHD
+#EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/UK/164071.png" tvg-id="SkyNature.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK| SKY NATURE FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/164071.ts
-#EXTINF:-1 group-title="3 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNATURE.png" tvg-id="SkyNature.uk",UK| SKY NATURE HEVC FHD
+#EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNATURE.png" tvg-id="SkyNature.uk",UK| SKY NATURE HEVC FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1458747.ts
-#EXTINF:-1 group-title="3 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNATURE.png" tvg-id="SkyNature.uk",UK| SKY NATURE HEVC HD
+#EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNATURE.png" tvg-id="SkyNature.uk",UK| SKY NATURE HEVC HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1458758.ts
-#EXTINF:-1 group-title="4 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/ANIMALPLANET.png" tvg-id="animalplanet.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| ANIMAL PLANET HD
+#EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/ANIMALPLANET.png" tvg-id="animalplanet.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| ANIMAL PLANET HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/247688.ts
-#EXTINF:-1 group-title="4 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176865.png" tvg-id="AnimalPlanet.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| ANIMAL PLANET HD
+#EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176865.png" tvg-id="AnimalPlanet.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| ANIMAL PLANET HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176865.ts
-#EXTINF:-1 group-title="4 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176898.png" tvg-id="NatGeoWild.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| NAT GEO WILD HD
+#EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176898.png" tvg-id="NatGeoWild.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| NAT GEO WILD HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176898.ts
-#EXTINF:-1 group-title="4 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176908.png" tvg-id="Wild.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| WILD TV HD
+#EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176908.png" tvg-id="Wild.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| WILD TV HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176908.ts
-#EXTINF:-1 group-title="4 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ANIMALPLANET.png" tvg-id="AnimalPlanet.uk",D+| ANIMAL PLANET FHD
+#EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ANIMALPLANET.png" tvg-id="AnimalPlanet.uk",D+| ANIMAL PLANET FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/549398.ts
-#EXTINF:-1 group-title="4 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://picons.cmshulk.com/picons/1313177.png" tvg-id="NatGeoWild.no",NO| NAT GEO WILD FHD
+#EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://picons.cmshulk.com/picons/1313177.png" tvg-id="NatGeoWild.no",NO| NAT GEO WILD FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1313177.ts
-#EXTINF:-1 group-title="4 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://103.176.90.95/images/174543.png" tvg-id="US-Animal Planet US - East",U.S| ANIMAL PLANET HD
+#EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://103.176.90.95/images/174543.png" tvg-id="US-Animal Planet US - East",U.S| ANIMAL PLANET HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/174543.ts
-#EXTINF:-1 group-title="4 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://103.176.90.95/images/174544.png" tvg-id="US| ANIMAL PLANET WEST HD",U.S| ANIMAL PLANET WEST HD
+#EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://103.176.90.95/images/174544.png" tvg-id="US| ANIMAL PLANET WEST HD",U.S| ANIMAL PLANET WEST HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/174544.ts
-#EXTINF:-1 group-title="4 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://51.158.145.100/picons/logos/UK/30582.png" tvg-id="AnimalPlanet.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK| ANIMAL PLANET FHD
+#EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://51.158.145.100/picons/logos/UK/30582.png" tvg-id="AnimalPlanet.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK| ANIMAL PLANET FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/30582.ts
-#EXTINF:-1 group-title="4 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://51.158.145.100/picons/logos/UK/164033.png" tvg-id="AnimalPlanet.uk",UK| ANIMAL PLNT +1
+#EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://51.158.145.100/picons/logos/UK/164033.png" tvg-id="AnimalPlanet.uk",UK| ANIMAL PLNT +1
 http://line.weharmony.store/live/a8da78f521/bc62145d78/164033.ts
-#EXTINF:-1 group-title="4 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://51.158.145.100/picons/logos/UK/30526.png" tvg-id="NatGeo.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK| NAT GEO FHD
+#EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://51.158.145.100/picons/logos/UK/30526.png" tvg-id="NatGeo.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK| NAT GEO FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/30526.ts
-#EXTINF:-1 group-title="4 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://51.158.145.100/picons/logos/UK/30525.png" tvg-id="NatGeoWild.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK| NAT GEO WILD FHD
+#EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://51.158.145.100/picons/logos/UK/30525.png" tvg-id="NatGeoWild.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK| NAT GEO WILD FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/30525.ts
-#EXTINF:-1 group-title="4 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://51.158.145.100/picons/logos/UK/1057013.png" tvg-id="NatGeoWild.uk",UK| NAT GEO WILD HD
+#EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://51.158.145.100/picons/logos/UK/1057013.png" tvg-id="NatGeoWild.uk",UK| NAT GEO WILD HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1057013.ts
-#EXTINF:-1 group-title="4 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NATGEOWLD.png" tvg-id="NatGeoWild.uk",UK| Nat Geo WIld HEVC FHD
+#EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NATGEOWLD.png" tvg-id="NatGeoWild.uk",UK| Nat Geo WIld HEVC FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1458748.ts
-#EXTINF:-1 group-title="4 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NATGEOWLD.png" tvg-id="NatGeoWild.uk",UK| NAT GEO WIld HEVC HD
+#EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NATGEOWLD.png" tvg-id="NatGeoWild.uk",UK| NAT GEO WIld HEVC HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1458745.ts
-#EXTINF:-1 group-title="5 - | FOOD" tvg-logo="http://picons.cmshulk.com/picons/156105.png" tvg-id="FoodFood.in",HINDI| FOOD FOOD HD
+#EXTINF:-1 group-title="4 - | FOOD" tvg-logo="http://picons.cmshulk.com/picons/156105.png" tvg-id="FoodFood.in",HINDI| FOOD FOOD HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/156105.ts
-#EXTINF:-1 group-title="5 - | FOOD" tvg-logo="http://picons.cmshulk.com/picons/156007.png" tvg-id="LivingFoodz.in",HINDI| LIVING FOODZ HD
+#EXTINF:-1 group-title="4 - | FOOD" tvg-logo="http://picons.cmshulk.com/picons/156007.png" tvg-id="LivingFoodz.in",HINDI| LIVING FOODZ HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/156007.ts
-#EXTINF:-1 group-title="5 - | FOOD" tvg-logo="http://picons.cmshulk.com/picons/97076.png" tvg-id="HumMasala.pk",PK| HUM MASALA EU
+#EXTINF:-1 group-title="4 - | FOOD" tvg-logo="http://picons.cmshulk.com/picons/97076.png" tvg-id="HumMasala.pk",PK| HUM MASALA EU
 http://line.weharmony.store/live/a8da78f521/bc62145d78/97076.ts
-#EXTINF:-1 group-title="5 - | FOOD" tvg-logo="http://51.158.145.100/picons/logos/norway/MATKANALEN.png" tvg-id="Matkanalen.no",NOR| MATKANALEN
+#EXTINF:-1 group-title="4 - | FOOD" tvg-logo="http://51.158.145.100/picons/logos/norway/MATKANALEN.png" tvg-id="Matkanalen.no",NOR| MATKANALEN
 http://line.weharmony.store/live/a8da78f521/bc62145d78/247436.ts
-#EXTINF:-1 group-title="5 - | FOOD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/FOODNETWORK.png" tvg-id="FoodNetwork.uk",D+| FOOD NETWORK
+#EXTINF:-1 group-title="4 - | FOOD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/FOODNETWORK.png" tvg-id="FoodNetwork.uk",D+| FOOD NETWORK
 http://line.weharmony.store/live/a8da78f521/bc62145d78/549404.ts
-#EXTINF:-1 group-title="5 - | FOOD" tvg-logo="http://51.158.145.100/picons/logos/UK/45275.png" tvg-id="FoodNetwork.uk",UK| FOOD NETWORK
+#EXTINF:-1 group-title="4 - | FOOD" tvg-logo="http://51.158.145.100/picons/logos/UK/45275.png" tvg-id="FoodNetwork.uk",UK| FOOD NETWORK
 http://line.weharmony.store/live/a8da78f521/bc62145d78/45275.ts
-#EXTINF:-1 group-title="5 - | FOOD" tvg-logo="http://51.158.145.100/picons/logos/UK/164047.png" tvg-id="FoodNetwork.uk",UK| FOOD NETWORK +1
+#EXTINF:-1 group-title="4 - | FOOD" tvg-logo="http://51.158.145.100/picons/logos/UK/164047.png" tvg-id="FoodNetwork.uk",UK| FOOD NETWORK +1
 http://line.weharmony.store/live/a8da78f521/bc62145d78/164047.ts
-#EXTINF:-1 group-title="5 - | FOOD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176888.png" tvg-id="FoodNetwork.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| FOOD NETWORK HD
+#EXTINF:-1 group-title="4 - | FOOD" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176888.png" tvg-id="FoodNetwork.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| FOOD NETWORK HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176888.ts
-#EXTINF:-1 group-title="5 - | FOOD" tvg-logo="http://51.158.145.100/picons/logos/USA/45577.png" tvg-id="FoodNetwork.us" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",US| FOOD NETWORK HD
+#EXTINF:-1 group-title="4 - | FOOD" tvg-logo="http://51.158.145.100/picons/logos/USA/45577.png" tvg-id="FoodNetwork.us" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",US| FOOD NETWORK HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/45577.ts
-#EXTINF:-1 group-title="5 - | FOOD" tvg-logo="http://103.176.90.95/images/174659.png" tvg-id="US-Food Network USA - Eastern Feed",U.S| FOOD NETWORK HD
+#EXTINF:-1 group-title="4 - | FOOD" tvg-logo="http://103.176.90.95/images/174659.png" tvg-id="US-Food Network USA - Eastern Feed",U.S| FOOD NETWORK HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/174659.ts
-#EXTINF:-1 group-title="5 - | FOOD" tvg-logo="http://103.176.90.95/images/174660.png" tvg-id="US| FOOD NETWORK WEST HD",U.S| FOOD NETWORK WEST HD
+#EXTINF:-1 group-title="4 - | FOOD" tvg-logo="http://103.176.90.95/images/174660.png" tvg-id="US| FOOD NETWORK WEST HD",U.S| FOOD NETWORK WEST HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/174660.ts
-#EXTINF:-1 group-title="6 - | TLC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TLCDANMARK.png" tvg-id="tlc.dk" tv_archive="1" catchup="default" tv_archive_duration="2" catchup-days="2",DNK| TLC DANMARK
+#EXTINF:-1 group-title="5 - | TLC" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TLCDANMARK.png" tvg-id="tlc.dk" tv_archive="1" catchup="default" tv_archive_duration="2" catchup-days="2",DNK| TLC DANMARK
 http://line.weharmony.store/live/a8da78f521/bc62145d78/247639.ts
-#EXTINF:-1 group-title="6 - | TLC" tvg-logo="http://51.158.145.100/picons/logos/norway/TLCNORGE.png" tvg-id="tlc.no",NOR| TLC NORGE HEVC
+#EXTINF:-1 group-title="5 - | TLC" tvg-logo="http://51.158.145.100/picons/logos/norway/TLCNORGE.png" tvg-id="tlc.no",NOR| TLC NORGE HEVC
 http://line.weharmony.store/live/a8da78f521/bc62145d78/306394.ts
-#EXTINF:-1 group-title="6 - | TLC" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/TLC.png" tvg-id="TLC.se",SWE| TLC HD
+#EXTINF:-1 group-title="5 - | TLC" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/TLC.png" tvg-id="TLC.se",SWE| TLC HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/79995.ts
-#EXTINF:-1 group-title="6 - | TLC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TLC.png" tvg-id="TLC.uk",D+| TLC FHD
+#EXTINF:-1 group-title="5 - | TLC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TLC.png" tvg-id="TLC.uk",D+| TLC FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/549409.ts
-#EXTINF:-1 group-title="6 - | TLC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TLC.png" tvg-id="",UK| TLC HEVC FHD
+#EXTINF:-1 group-title="5 - | TLC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TLC.png" tvg-id="",UK| TLC HEVC FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1458765.ts
-#EXTINF:-1 group-title="6 - | TLC" tvg-logo="http://picons.cmshulk.com/picons/155743.png" tvg-id="",ENGLISH| TLC WORLD HD
+#EXTINF:-1 group-title="5 - | TLC" tvg-logo="http://picons.cmshulk.com/picons/155743.png" tvg-id="",ENGLISH| TLC WORLD HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/155743.ts
-#EXTINF:-1 group-title="6 - | TLC" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176906.png" tvg-id="TLC.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| TLC HD
+#EXTINF:-1 group-title="5 - | TLC" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176906.png" tvg-id="TLC.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| TLC HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176906.ts
-#EXTINF:-1 group-title="6 - | TLC" tvg-logo="http://picons.cmshulk.com/picons/1540025.png" tvg-id="",HINDI| TLC WORLD FHD
+#EXTINF:-1 group-title="5 - | TLC" tvg-logo="http://picons.cmshulk.com/picons/1540025.png" tvg-id="",HINDI| TLC WORLD FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1540025.ts
-#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2NEWS.png" tvg-id="tv2news.dk",DNK| TV 2 NEWS HEVC
+#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/TV2NEWS.png" tvg-id="tv2news.dk",DNK| TV 2 NEWS HEVC
 http://line.weharmony.store/live/a8da78f521/bc62145d78/307059.ts
-#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DR1.png" tvg-id="dr1.dk",DNK| DR1 HEVC
+#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DR1.png" tvg-id="dr1.dk",DNK| DR1 HEVC
 http://line.weharmony.store/live/a8da78f521/bc62145d78/307066.ts
-#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DR2.png" tvg-id="dr2.dk",DNK| DR2 HEVC
+#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DR2.png" tvg-id="dr2.dk",DNK| DR2 HEVC
 http://line.weharmony.store/live/a8da78f521/bc62145d78/307065.ts
-#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DRTV.png" tvg-id="",GOLD| DR TV A ᴿᴬᵂ
+#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/DRTV.png" tvg-id="",GOLD| DR TV A ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2079866.ts
-#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://picons.cmshulk.com/picons/155749.png" tvg-id="AlJazeeraEnglish.uk",ENGLISH| ALJAZEERA HD
+#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://picons.cmshulk.com/picons/155749.png" tvg-id="AlJazeeraEnglish.uk",ENGLISH| ALJAZEERA HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/155749.ts
-#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://picons.cmshulk.com/picons/1177889.png" tvg-id="",DK| BBC NORDIC FHD
+#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://picons.cmshulk.com/picons/1177889.png" tvg-id="",DK| BBC NORDIC FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1177889.ts
-#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/UK/1458580.png" tvg-id="BBCNews.uk",UK| BBC NEWS HEVC FHD
+#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/UK/1458580.png" tvg-id="BBCNews.uk",UK| BBC NEWS HEVC FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1458580.ts
-#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/UK/1458565.png" tvg-id="SkyNews.uk",UK| SKY NEWS HEVC FHD
+#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/UK/1458565.png" tvg-id="SkyNews.uk",UK| SKY NEWS HEVC FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1458565.ts
-#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" tvg-id="US-CNN",4K| CNN UHD 4K
+#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" tvg-id="US-CNN",4K| CNN UHD 4K
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1470653.ts
-#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/CNN.png" tvg-id="",SWE| CNN INTERNATIONAL
+#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/CNN.png" tvg-id="",SWE| CNN INTERNATIONAL
 http://line.weharmony.store/live/a8da78f521/bc62145d78/80060.ts
-#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://picons.cmshulk.com/picons/281081.png" tvg-id="92News.pk",PK| 92 NEWS FHD
+#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://picons.cmshulk.com/picons/281081.png" tvg-id="92News.pk",PK| 92 NEWS FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/281081.ts
-#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://picons.cmshulk.com/picons/854202.png" tvg-id="",PK| PTV NATIONAL
+#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://picons.cmshulk.com/picons/854202.png" tvg-id="",PK| PTV NATIONAL
 http://line.weharmony.store/live/a8da78f521/bc62145d78/854202.ts
-#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://picons.cmshulk.com/picons/281099.png" tvg-id="AryDigital.pk",PK| ARY DIGITAL ASIA
+#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://picons.cmshulk.com/picons/281099.png" tvg-id="AryDigital.pk",PK| ARY DIGITAL ASIA
 http://line.weharmony.store/live/a8da78f521/bc62145d78/281099.ts
-#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://picons.cmshulk.com/picons/281119.png" tvg-id="GeoNews.pk",PK| GEO NEWS
+#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://picons.cmshulk.com/picons/281119.png" tvg-id="GeoNews.pk",PK| GEO NEWS
 http://line.weharmony.store/live/a8da78f521/bc62145d78/281119.ts
-#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://103.176.90.118/picons/logos/in.samaa.png" tvg-id="SamaaTV.pk",PK| SAMAA EU
+#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://103.176.90.118/picons/logos/in.samaa.png" tvg-id="SamaaTV.pk",PK| SAMAA EU
 http://line.weharmony.store/live/a8da78f521/bc62145d78/104874.ts
-#EXTINF:-1 group-title="7 - | NEWS" tvg-logo="http://picons.cmshulk.com/picons/42447.png" tvg-id="DunyaNews.pk",PK| DUNYA NEWS EU
+#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://picons.cmshulk.com/picons/42447.png" tvg-id="DunyaNews.pk",PK| DUNYA NEWS EU
 http://line.weharmony.store/live/a8da78f521/bc62145d78/42447.ts
-#EXTINF:-1 group-title="8 - | RELIGION" tvg-logo="http://picons.cmshulk.com/picons/42450.png" tvg-id="",PK| HIDAYAT TV EU
+#EXTINF:-1 group-title="7 - | RELIGION" tvg-logo="http://picons.cmshulk.com/picons/42450.png" tvg-id="",PK| HIDAYAT TV EU
 http://line.weharmony.store/live/a8da78f521/bc62145d78/42450.ts
-#EXTINF:-1 group-title="8 - | RELIGION" tvg-logo="http://picons.cmshulk.com/picons/104876.png" tvg-id="",PK| AHLEBAIT TV EU
+#EXTINF:-1 group-title="7 - | RELIGION" tvg-logo="http://picons.cmshulk.com/picons/104876.png" tvg-id="",PK| AHLEBAIT TV EU
 http://line.weharmony.store/live/a8da78f521/bc62145d78/104876.ts
-#EXTINF:-1 group-title="8 - | RELIGION" tvg-logo="http://picons.cmshulk.com/picons/97097.png" tvg-id="AhlebaitTV.uk",PK| AHLEBAIT TV
+#EXTINF:-1 group-title="7 - | RELIGION" tvg-logo="http://picons.cmshulk.com/picons/97097.png" tvg-id="AhlebaitTV.uk",PK| AHLEBAIT TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/97097.ts
-#EXTINF:-1 group-title="9 - | TEMPORARY" tvg-logo="http://picons.cmshulk.com/picons/809740.png" tvg-id="AndTV.in",HINDI| AND TV HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/809740.ts
 #EXTINF:-1 group-title="9 - | TEMPORARY" tvg-logo="http://picons.cmshulk.com/picons/155997.png" tvg-id="AndPictures.in",HINDI| & PICTURES FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/155997.ts
 #EXTINF:-1 group-title="9 - | TEMPORARY" tvg-logo="http://picons.cmshulk.com/picons/155990.png" tvg-id="AndFlix.in",HINDI| & FLIX FHD
@@ -1277,63 +1275,63 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1639791.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1639790.ts
 #EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",####### VIAPLAY PPV #######
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037378.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | IRONMAN PRO SERIES IRONMAN KALMAR-SWEDEN | Sat 15 Aug 06:15 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 1
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | IRONMAN PRO SERIES IRONMAN KALMAR-SWEDEN | Sat 15 Aug 06:15 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 1
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037377.ts
 #EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | PDC DARTS NZ DARTS MASTERS | Sat 15 Aug 09:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 2
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037376.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | DTM NÜRBURGRING | Sat 15 Aug 13:25 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 3
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | DTM NÜRBURGRING | Sat 15 Aug 13:25 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 3
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037375.ts
 #EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | PORSCHE CARRERA CUP DEUTSCHLAND NÜRBURGRING | Sat 15 Aug 11:10 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037374.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | DP WORLD TOUR DANISH GOLF CHAMPIONSHIP | Sat 15 Aug 12:30 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 5
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | DP WORLD TOUR DANISH GOLF CHAMPIONSHIP | Sat 15 Aug 12:30 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 5
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037373.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | OBOS DAMALLSVENSKAN AIK - VITTSJÖ | Sat 15 Aug 12:50 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 6
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | OBOS DAMALLSVENSKAN AIK - VITTSJÖ | Sat 15 Aug 12:50 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 6
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037372.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: VIAPLAY PPV 7
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | OBOS DAMALLSVENSKAN ROSENGÅRD - ESKILSTUNA | Sat 15 Aug 14:50 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 7
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037371.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | 2. BUNDESLIGA OSNABRÜCK - MAGDEBURG | Sat 15 Aug 12:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 8
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | 2. BUNDESLIGA OSNABRÜCK - MAGDEBURG | Sat 15 Aug 12:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 8
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037370.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | 2. BUNDESLIGA GREUTHER FÜRTH - NÜRNBERG | Sat 15 Aug 12:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 9
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | 2. BUNDESLIGA GREUTHER FÜRTH - NÜRNBERG | Sat 15 Aug 12:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 9
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037369.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | 2. BUNDESLIGA HERTHA BERLIN - HEIDENHEIM | Sat 15 Aug 12:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 10
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | 2. BUNDESLIGA HERTHA BERLIN - HEIDENHEIM | Sat 15 Aug 12:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 10
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037368.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | LEAGUE ONE NOTTS COUNTY - LEICESTER | Sat 15 Aug 13:25 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 11
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | LEAGUE ONE NOTTS COUNTY - LEICESTER | Sat 15 Aug 13:25 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 11
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037367.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | CHAMPIONSHIP BOLTON - PRESTON | Sat 15 Aug 13:25 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 12
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | CHAMPIONSHIP BOLTON - PRESTON | Sat 15 Aug 13:25 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 12
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037366.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | OBOS DAMALLSVENSKAN BROMMAPOJKARNA - HÄCKEN | Sat 15 Aug 13:50 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 13
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | OBOS DAMALLSVENSKAN BROMMAPOJKARNA - HÄCKEN | Sat 15 Aug 13:50 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 13
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037365.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: VIAPLAY PPV 14
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | GRAN TURISMO WORLD SERIES TOKYO | Sat 15 Aug 17:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 14
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037364.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: VIAPLAY PPV 15
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | VIAPLAY SPORT NEWS SKY SPORTS: SOCCER SATURDAY | Sat 15 Aug 14:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 15
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037363.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: VIAPLAY PPV 16
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | LADIES EUROPEAN TOUR VP BANK SWISS LADIES OPEN | Sat 15 Aug 14:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 16
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037362.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | OBOS DAMALLSVENSKAN HAMMARBY - PITEÅ | Sat 15 Aug 14:50 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 17
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | ADAC GT4 GERMANY NÜRBURGRING | Sat 15 Aug 15:05 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 17
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037361.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | OBOS DAMALLSVENSKAN ROSENGÅRD - ESKILSTUNA | Sat 15 Aug 14:50 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 18
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: VIAPLAY PPV 18
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037360.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | GRAN TURISMO WORLD SERIES TOKYO | Sat 15 Aug 15:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 19
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: VIAPLAY PPV 19
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037359.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | ADAC GT4 GERMANY NÜRBURGRING | Sat 15 Aug 15:05 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 20
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: VIAPLAY PPV 20
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037358.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | BETINIA LIGA HB KØGE - HVIDOVRE | Sat 15 Aug 15:30 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 21
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: VIAPLAY PPV 21
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037357.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | CHAMPIONSHIP STOKE - SWANSEA | Sat 15 Aug 15:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 22
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | CHAMPIONSHIP STOKE - SWANSEA | Sat 15 Aug 15:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 22
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037356.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | LEAGUE TWO YORK CITY - BRISTOL ROVERS | Sat 15 Aug 15:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 23
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | LEAGUE TWO YORK CITY - BRISTOL ROVERS | Sat 15 Aug 15:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 23
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037355.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | CHAMPIONSHIP PORTSMOUTH - QPR | Sat 15 Aug 15:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 24
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | CHAMPIONSHIP PORTSMOUTH - QPR | Sat 15 Aug 15:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 24
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037354.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | CHAMPIONSHIP NORWICH - WEST BROM | Sat 15 Aug 15:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 25
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | CHAMPIONSHIP NORWICH - WEST BROM | Sat 15 Aug 15:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 25
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037353.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | CHAMPIONSHIP MIDDLESBROUGH - LINCOLN | Sat 15 Aug 15:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 26
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | CHAMPIONSHIP MIDDLESBROUGH - LINCOLN | Sat 15 Aug 15:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 26
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037352.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | CHAMPIONSHIP CHARLTON - DERBY | Sat 15 Aug 15:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 27
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | CHAMPIONSHIP CHARLTON - DERBY | Sat 15 Aug 15:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 27
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037351.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | CHAMPIONSHIP BRISTOL CITY - MILLWALL | Sat 15 Aug 15:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 28
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | CHAMPIONSHIP BRISTOL CITY - MILLWALL | Sat 15 Aug 15:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 28
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037350.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | INDYCAR ONTARIO HONDA DEALERS INDY AT MARKHAM | Sat 15 Aug 16:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 29
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | INDYCAR ONTARIO HONDA DEALERS INDY AT MARKHAM | Sat 15 Aug 16:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 29
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037349.ts
 #EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | CHAMPIONSHIP SHEFFIELD UNITED - BIRMINGHAM | Sat 15 Aug 18:25 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 30
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037348.ts
@@ -2009,178 +2007,6 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/2024469.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2024468.ts
 #EXTINF:-1 group-title="24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://51.158.145.100/picons/logos/USA/24-7.png" tvg-id="",US| YOUR FRIENDLY NEIGHBORHOOD SPIDER-MAN ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2024467.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 ARE YOU AFRAID OF THE DARK
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944087.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 AS TOLD BY GINGER
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944038.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 AUSTIN AND ALLY
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944086.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 BLOW BREEZE
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944037.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 BOB'S BURGERS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944085.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 BOY MEETS WORLD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944084.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 CARNIVAL EATS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944036.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 CATDOG
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944083.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 COCOMELON AND FRIENDS HOLIDAY AND CHRISTMAS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944082.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 COCOMELON COUNTING AND NUMBERS SONGS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944081.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 COCOMELON HAPPY HOLIDAYS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944080.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 COCOMELON LITTLE BABY BUM BLIPPI
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944079.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 COCOMELON POPULAR SONGS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944078.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 COCOMELON SHAPES AND COLORS AND MUSIC
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944077.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 CODENAME: KIDS NEXT DOOR
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944076.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 COURAGE THE COWARDLY DOG
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944075.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 COW AND CHICKEN
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944074.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 DARIA
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944073.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 DAWSON'S CREEK
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944072.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 DC SUPER HERO GIRLS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944071.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 DETECTIVE CONAN
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944070.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 DIARY OF A FUTURE PRESIDENT
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944068.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 DIARY OF A FUTURE PRESIDENT (2)
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944069.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 DISNEY FAMILY SUNDAYS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944035.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 DRAGON BALL Z
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944067.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 DRAKE & JOSH
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944066.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 DUCKTALES
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944064.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 DUCKTALES (2)
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944065.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 ELENA OF AVALOR
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944034.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 FAIRLY ODDPARENTS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944063.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 FREE REIN
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944033.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 FULLER HOUSE
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944032.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 FUTURAMA
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944062.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 GIRL MEETS FARM
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944031.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 GOGGLEBOX
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944030.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 GOLDEN POUCH
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944029.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 GOOSEBUMPS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944061.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 HANNAH MONTANA
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944028.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 HAPPY HOME
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944027.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 HARVEY BEAKS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944026.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 HENRY DANGER
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944060.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 HOUSE OF ANUBIS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944025.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 JAKE AND THE NEVER LAND PIRATES
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944024.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 JAMIE JOHNSON
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944023.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 JESSIE
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944059.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 JOHNNY BRAVO
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944058.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 JUST ADD MAGIC
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944022.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 KING OF THE HILL
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944057.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 KNIGHT SQUAD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944056.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 LIFE WITH DEREK
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944021.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 MALCOLM IN THE MIDDLE
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944020.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 MILES FROM TOMORROWLAND
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944019.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 MILO MURPHY'S LAW
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944018.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 MY PERFECT LANDING
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944017.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 ONE PUNCH MAN WANPANMAN
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944055.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 PEPPA PIG
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944054.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 PJ MASKS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944053.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 POWER RANGERS IN SPACE
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944052.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 POWER RANGERS TURBO
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944051.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 POWER RANGERS ZEO
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944050.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 RAVEN'S HOME
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944049.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 RECESS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944048.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 RIDE
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944016.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 SEE DAD RUN
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944015.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 SHAKE IT UP
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944014.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 SOFIA THE FIRST
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944013.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 SONIC UNDERGROUND
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944046.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 SPLITTING UP TOGETHER
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944012.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 SPONGEBOB SQUAREPANTS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944045.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 TERRY CREWS SAVES CHRISTMAS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944011.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 THE FLINTSTONES
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944010.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 THE INBESTIGATORS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944009.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 THE JETSONS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944044.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 THE JOY OF PAINTING
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944008.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 THE LITTLE MERMAID
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944007.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 THE NEXT STEP
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944006.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 THE OWL HOUSE
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944043.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 THE POWERPUFF GIRLS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944042.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 THE SUITE LIFE ON DECK
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944005.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 THE WORST WITCH
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944040.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 THE WORST WITCH (2)
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944041.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 TOM AND JERRY TALES
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944039.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 UNIKITTY
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944004.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 WANDER OVER YONDER
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944003.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 YOUNG DRACULA
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944002.ts
-#EXTINF:-1 group-title="24/7 KIDS/FAMILY VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",THE TEENAGE WITCH
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1944047.ts
 #EXTINF:-1 group-title="24/7 MOVIES/ACTORS VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 ADAM DRIVER
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1944488.ts
 #EXTINF:-1 group-title="24/7 MOVIES/ACTORS VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",24/7 ADAMSANDLER
@@ -3845,10 +3671,16 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1950823.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1950822.ts
 #EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| MITHUN CHAKRABORTY CINEMA HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1950821.ts
+#EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| DILIP KUMAR CINEMA HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1950798.ts
 #EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| VINOD KHANNA CINEMA HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1950820.ts
+#EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| DHARMENDRA CINEMA HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1950796.ts
 #EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| VIDYUT JAMMWAL CINEMA HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1950819.ts
+#EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| ABHAY DEOL CINEMA HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1950791.ts
 #EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| KAY KAY MENON CINEMA HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1950818.ts
 #EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| VARUN DHAWAN CINEMA HD
@@ -3887,12 +3719,8 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1950802.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1950801.ts
 #EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| SHATRUGHAN SINHA CINEMA HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1950800.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| DILIP KUMAR CINEMA HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950798.ts
 #EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| SHAH RUKH KHAN CINEMA HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1950797.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| DHARMENDRA CINEMA HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950796.ts
 #EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| SHAHID KAPOOR CINEMA HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1950795.ts
 #EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| BOMAN IRANI CINEMA HD
@@ -3901,8 +3729,6 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1950794.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1950793.ts
 #EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| BOBBY DEOL CINEMA HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1950792.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| ABHAY DEOL CINEMA HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950791.ts
 #EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| SANJAY DUTT CINEMA HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1950790.ts
 #EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| AYUSHMANN KHURRANA CINEMA HD
@@ -3959,112 +3785,6 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1950765.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1950764.ts
 #EXTINF:-1 group-title="ASIA | 24/7 INDIAN ACTORS" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| AMRISH PURI CINEMA
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1950763.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| CHAHENGE TUMHE ITNA HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950699.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| DATE WITH SAIE HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950698.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| ALT BALAJI HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950697.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| EROSNOW HD.
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950696.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| THE BROKEN NEWS HD.
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950695.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| NETFLIX HD.
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950694.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| MXPLAYER HD.
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950693.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| SONYLIV HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950692.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| AMAZON PRIME HD.
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950691.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| ZEE5 HD.
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950690.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| BABBAR KA TABBAR HD.
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950689.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| PHONE A  FRIEND HD.
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950688.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| POISION HD.
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950687.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| RANGBAAZ HD.
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950686.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| SUNFLOWERS HD.
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950685.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| MERE PAPA HERO HIRALAL HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950684.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| SACRED GAMES HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950683.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| HOSTEL DAZE HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950682.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| MUMBAI DIARIES HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950681.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| SELECTION DAY HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950680.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| INSIDE EDGE HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950679.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| ZINDABAD HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950678.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| ISHQ AAJ KAL HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950677.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| AMAZON PRIME HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950676.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| PHONE A FRIEND HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950675.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| KARLE TU BHI MUHABBAT HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950674.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| POISON HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950673.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| AARYA HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950672.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| HAQ SE HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950671.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| LAKHAN LEELA BHARGAVA HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950670.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| THE LEGEND OF HANUMAN HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950669.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| COLLEGE ROMANCE HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950668.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| LAAKHON MEIN EK HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950667.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| MAHARANI HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950666.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| CRUSHED HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950665.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| BAARISH HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950664.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| MADE IN HEAVEN HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950663.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| AASHRAM HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950662.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| EK THI BEGUM HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950661.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| TUJHPE MAIN FIDA HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950660.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| DEHATI LADKE HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950659.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| UP65 HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950658.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| HELLO MINI HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950657.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| BREATH INTO THE SHADOWS HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950656.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| ROOHANIYAT HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950655.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| HOME HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950654.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| FARZI MUSHAIRA HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950653.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| BROKEN BUT BEAUTIFUL HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950652.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| CHACHA VIDHAYAK HAIN HUMARE HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950651.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| MIRZAPUR HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950650.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| THINKISTAN HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950649.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| CRIMES AJ KAL HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950648.ts
-#EXTINF:-1 group-title="ASIA | 24/7 INDIAN SERIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",IN-PREM| JAMTARA - SABKA NUMDER AYEGA HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1950647.ts
 #EXTINF:-1 group-title="ASIA | 24/7 PAKISTAN" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",##### PAKISTAN PREMIUM #####
 http://line.weharmony.store/live/a8da78f521/bc62145d78/636413.ts
 #EXTINF:-1 group-title="ASIA | 24/7 PAKISTAN" tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" tvg-id="",PAK-PREM| RANGEELA CINEMA HD
@@ -4461,8 +4181,12 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1116470.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1116482.ts
 #EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/1438227.png" tvg-id="",HINDI| CINEMANIA GOLD 4K
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1438227.ts
+#EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://103.176.90.118/picons/logos/logos/EVERGREEN-CLASSIC.png" tvg-id="EvergreenClassic.in",HINDI| EVERGREEN CLASSIC
+http://line.weharmony.store/live/a8da78f521/bc62145d78/155994.ts
 #EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/1438228.png" tvg-id="",HINDI| CINEMANIA 4K
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1438228.ts
+#EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/809740.png" tvg-id="AndTV.in",HINDI| AND TV HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/809740.ts
 #EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/155974.png" tvg-id="ZeeTV.in",HINDI| ZEE TV FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/155974.ts
 #EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/280773.png" tvg-id="ZeeTV.in",HINDI| ZEE TV
@@ -4641,8 +4365,6 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/811469.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/280835.ts
 #EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/156074.png" tvg-id="EPIC.in",HINDI| EPIC HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/156074.ts
-#EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://103.176.90.118/picons/logos/logos/EVERGREEN-CLASSIC.png" tvg-id="EvergreenClassic.in",HINDI| EVERGREEN CLASSIC
-http://line.weharmony.store/live/a8da78f521/bc62145d78/155994.ts
 #EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/156023.png" tvg-id="FOXLife.in",HINDI| FOX LIFE HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/156023.ts
 #EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://picons.cmshulk.com/picons/280755.png" tvg-id="FOXLife.in",HINDI| FOX LIFE
@@ -5021,32 +4743,6 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1532855.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/280910.ts
 #EXTINF:-1 group-title="ASIA | INDIA MOVIES" tvg-logo="http://picons.cmshulk.com/picons/156046.png" tvg-id="Zing.in",HINDI| ZING
 http://line.weharmony.store/live/a8da78f521/bc62145d78/156046.ts
-#EXTINF:-1 group-title="ASIA | INDIA RELIGIOUS" tvg-logo="http://picons.cmshulk.com/picons/1533111.png" tvg-id="EPIC.in",RELIGIOUS|  EPIC
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1533111.ts
-#EXTINF:-1 group-title="ASIA | INDIA RELIGIOUS" tvg-logo="http://picons.cmshulk.com/picons/1533133.png" tvg-id="AasthaBhajan.in",RELIGIOUS| AASTHA BHAJAN
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1533133.ts
-#EXTINF:-1 group-title="ASIA | INDIA RELIGIOUS" tvg-logo="http://picons.cmshulk.com/picons/1533132.png" tvg-id="Aastha.in",RELIGIOUS| AASTHA TV
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1533132.ts
-#EXTINF:-1 group-title="ASIA | INDIA RELIGIOUS" tvg-logo="http://picons.cmshulk.com/picons/1533134.png" tvg-id="Arihant.in",RELIGIOUS| ARIHANT TV
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1533134.ts
-#EXTINF:-1 group-title="ASIA | INDIA RELIGIOUS" tvg-logo="http://picons.cmshulk.com/picons/1533140.png" tvg-id="ChannelWIN.in",RELIGIOUS| CHANNEL WIN
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1533140.ts
-#EXTINF:-1 group-title="ASIA | INDIA RELIGIOUS" tvg-logo="http://103.176.90.118/picons/logos/logos/DIVYA-TV-DEVOTIONAL.png" tvg-id="",RELIGIOUS| DIVYA TV DEVOTIONAL
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1533135.ts
-#EXTINF:-1 group-title="ASIA | INDIA RELIGIOUS" tvg-logo="http://103.176.90.118/picons/logos/logos/KRISHNA-VANI-DEVOTIONAL.png" tvg-id="",RELIGIOUS| KRISHNA VANI DEVOTIONAL
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1533113.ts
-#EXTINF:-1 group-title="ASIA | INDIA RELIGIOUS" tvg-logo="http://103.176.90.118/picons/logos/logos/PEACE-OF-MIND.png" tvg-id="PeaceofMind.in",RELIGIOUS| PEACE OF MIND
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1533137.ts
-#EXTINF:-1 group-title="ASIA | INDIA RELIGIOUS" tvg-logo="http://103.176.90.118/picons/logos/logos/SADHNA-TV-DEVOTIONAL.png" tvg-id="",RELIGIOUS| SADHNA TV DEVOTIONAL
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1533138.ts
-#EXTINF:-1 group-title="ASIA | INDIA RELIGIOUS" tvg-logo="http://picons.cmshulk.com/picons/1533131.png" tvg-id="SanskarTV.in",RELIGIOUS| SANSKAR TV
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1533131.ts
-#EXTINF:-1 group-title="ASIA | INDIA RELIGIOUS" tvg-logo="http://picons.cmshulk.com/picons/1533139.png" tvg-id="Satsang.in",RELIGIOUS| SATSANG TV
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1533139.ts
-#EXTINF:-1 group-title="ASIA | INDIA RELIGIOUS" tvg-logo="http://picons.cmshulk.com/picons/1533120.png" tvg-id="ShubhTV.in",RELIGIOUS| SHUBHSANDESH
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1533120.ts
-#EXTINF:-1 group-title="ASIA | INDIA RELIGIOUS" tvg-logo="http://picons.cmshulk.com/picons/1533136.png" tvg-id="Vedic.in",RELIGIOUS| VEDIC TV
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1533136.ts
 #EXTINF:-1 group-title="ASIA | PAKISTAN" tvg-logo="http://picons.cmshulk.com/picons/903418.png" tvg-id="TakbeerTV.uk",PK| TAKBEER TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/903418.ts
 #EXTINF:-1 group-title="ASIA | PAKISTAN" tvg-logo="http://picons.cmshulk.com/picons/281121.png" tvg-id="",PK| GEO TV
@@ -6529,51 +6225,51 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/2048721.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048720.ts
 #EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | Bay Olympic FC vs. Eastern Suburbs AFC | National League - New Zealand | 2026-08-15 | 03:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 8
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048719.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 9
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | IRONMAN Kalmar | IRONMAN Pro Series | 2026-08-15 | 04:15 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048718.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 10
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | Tempête Mocaf vs. Ange Maigaro | Ligue de Bangui - Central African Republic | 2026-08-15 | 12:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 10
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048717.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 11
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | FK TransINVEST vs. FA Šiauliai | A Lyga Women - Lithuania | 2026-08-15 | 12:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 11
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048716.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 12
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | Silver Strikers vs. Ekhaya FC | FDH Bank Premiership - Malawi | 2026-08-15 | 12:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 12
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048715.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 13
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | Red Lions vs. Moyale Barracks FC | FDH Bank Premiership - Malawi | 2026-08-15 | 12:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 13
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048714.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 14
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | MAFCO FC vs. Masters FC | FDH Bank Premiership - Malawi | 2026-08-15 | 12:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 14
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048713.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 15
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | Chitipa United vs. Mitundu Baptist FC | FDH Bank Premiership - Malawi | 2026-08-15 | 12:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 15
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048712.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Silver Strikers vs. Ekhaya FC | FDH Bank Premiership - Malawi | 2026-08-15 | 12:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 16
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | Tokyo - Manufacturers Cup Show | Gran Turismo World Series | 2026-08-15 | 13:20 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 16
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048711.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Red Lions vs. Moyale Barracks FC | FDH Bank Premiership - Malawi | 2026-08-15 | 12:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 17
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | Royal Vision vs. Musongati | Ligue A - Burundi | 2026-08-15 | 13:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 17
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048710.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | MAFCO FC vs. Masters FC | FDH Bank Premiership - Malawi | 2026-08-15 | 12:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 18
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 18
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048709.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Chitipa United vs. Mitundu Baptist FC | FDH Bank Premiership - Malawi | 2026-08-15 | 12:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 19
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 19
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048708.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Royal Vision vs. Musongati | Ligue A - Burundi | 2026-08-15 | 13:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 20
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 20
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048707.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | TAIF Racing Season 2026 - Week 4, Day 2 | TAIF Racing | 2026-08-15 | 13:15 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 21
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 21
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048706.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Tokyo - Manufacturers Cup Show | Gran Turismo World Series | 2026-08-15 | 13:20 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 22
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 22
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048705.ts
 #EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 23
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048704.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | FC Neptūnas vs. FK Babrungas | 1 Lyga - Lithuania | 2026-08-15 | 14:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 24
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 24
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048703.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | EWC - Rocket League 2026 - Day 4 | Rocket League | 2026-08-15 | 14:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 25
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 25
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048702.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | IFAF World Flag 2026: Women’s Semi Final 2 | IFAF World Flag 2026 | 2026-08-15 | 14:45 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 26
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 26
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048701.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | IFAF World Flag 2026: Women’s Semi Final 1 | IFAF World Flag 2026 | 2026-08-15 | 14:45 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 27
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 27
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048700.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Cincinnati Open - Day 3 - Session 1 | Western & Southern Open | 2026-08-15 | 15:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 28
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 28
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048699.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Vitória FC vs. UDRA | Campeonato Nacional - São Tomé e Príncipe | 2026-08-15 | 15:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 29
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 29
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048698.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Tokyo - Nations Cup Show | Gran Turismo World Series | 2026-08-15 | 15:20 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 30
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 30
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048697.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | FK Banga vs. Kauno Rajono FA | A Lyga Women - Lithuania | 2026-08-15 | 15:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 31
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 31
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048696.ts
 #EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Vikings @ Giants | NFL Game Pass | 2026-08-15 | 17:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 32
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048695.ts
