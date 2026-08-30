@@ -143,6 +143,8 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/154448.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154449.ts
 #EXTINF:-1 group-title="0 - | DENMARK" tvg-logo="http://103.176.90.118/picons/logos/STRIVE-SPORT.jpg" tvg-id="",DK| STRIVE SPORT 3 FHD [LIVE DURING EVENTS ONLY]
 http://line.weharmony.store/live/a8da78f521/bc62145d78/154450.ts
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1828550.png" tvg-id="TodaysShoppingChoice.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| NASA HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1828550.ts
 #EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/HISTORY.png" tvg-id="history.dk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",DNK| HISTORY HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/247686.ts
 #EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://51.158.145.100/picons/logos/DENMARKNEW/HISTORY2.png" tvg-id="",DNK| HISTORY2 HD
@@ -1287,89 +1289,89 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1639791.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1639790.ts
 #EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",####### VIAPLAY PPV #######
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037378.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | F1 ACADEMY ZANDVOORT | Sun 23 Aug 10:25 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 1
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | MOTOGP ARAGÓN GRAND PRIX | Sun 30 Aug 13:15 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 1
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037377.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | 3F SUPERLIGA SØNDERJYSKE FODBOLD - FC NORDSJÆLLAND | Sun 23 Aug 11:30 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 2
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | GT WORLD CHALLENGE EUROPE NÜRBURGRING | Sun 30 Aug 09:40 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 2
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037376.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | PORSCHE SUPER CUP ZANDVOORT | Sun 23 Aug 11:45 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 3
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | IRONMAN PRO SERIES IRONMAN 70.3 ZELL AM SEE-KAPRUN | Sun 30 Aug 10:30 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 3
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037375.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | DP WORLD TOUR NEXO CHAMPIONSHIP | Sun 23 Aug 12:30 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | MOTO3 ARAGÓN GRAND PRIX | Sun 30 Aug 10:45 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 4
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037374.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | OBOS DAMALLSVENSKAN HÄCKEN - AIK | Sun 23 Aug 12:50 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 5
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | DP WORLD TOUR BRITISH MASTERS | Sun 30 Aug 11:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 5
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037373.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | CHAMPIONSHIP WEST BROM - BURNLEY | Sun 23 Aug 12:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 6
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | MOTO2 ARAGÓN GRAND PRIX | Sun 30 Aug 12:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 6
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037372.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | BETINIA LIGA HB KØGE - KOLDING | Sun 23 Aug 12:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 7
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | OBOS DAMALLSVENSKAN BROMMAPOJKARNA - PITEÅ | Sun 30 Aug 13:50 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 7
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037371.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | 3F SUPERLIGA OPTAKT: FC MIDTJYLLAND - RANDERS FC | Sun 23 Aug 13:30 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 8
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: VIAPLAY PPV 8
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037370.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | FORMEL 1 HOLLANDS GRAND PRIX | Sun 23 Aug 13:30 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 9
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | PDC DARTS HUNGARIAN DARTS TROPHY | Sun 30 Aug 13:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 9
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037369.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | OBOS DAMALLSVENSKAN PITEÅ - UPPSALA | Sun 23 Aug 13:50 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 10
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | FIA EUROPEAN TRUCK RACING CHAMPIONSHIP MOST | Sun 30 Aug 16:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 10
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037368.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | 3F SUPERLIGA FC MIDTJYLLAND - RANDERS FC | Sun 23 Aug 13:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 11
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | 2. BUNDESLIGA MAGDEBURG - HOLSTEIN KIEL | Sun 30 Aug 13:25 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 11
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037367.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | 3F SUPERLIGA NEDTAKT: SØNDERJYSKE FODBOLD - FC NORDSJÆLLAND | Sun 23 Aug 13:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 12
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | 2. BUNDESLIGA DARMSTADT - HANNOVER | Sun 30 Aug 13:25 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 12
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037366.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | 3F SUPERLIGA FC MIDTJYLLAND - RANDERS FC (MANAGER MODE) | Sun 23 Aug 13:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 13
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | 2. BUNDESLIGA ST. PAULI - KAISERSLAUTERN | Sun 30 Aug 13:25 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 13
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037365.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | SAIL GP ROCKWOOL GERMANY SAIL GRAND PRIX | Sun 23 Aug 14:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 14
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | 3F SUPERLIGA SILKEBORG IF - FC MIDTJYLLAND | Sun 30 Aug 13:30 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 14
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037364.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | PREMIER LEAGUE MAN CITY - BOURNEMOUTH | Sun 23 Aug 14:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 15
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",ENDED | 3F SUPERLIGA SILKEBORG - FC MIDTJYLLAND (MANAGER MODE) | Sun 30 Aug 13:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 15
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037363.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | OBOS DAMALLSVENSKAN VITTSJÖ - NORRKÖPING | Sun 23 Aug 14:50 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 16
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | PREMIER LEAGUE CHELSEA - BRIGHTON | Sun 30 Aug 14:30 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 16
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037362.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | PREMIER LEAGUE BRIGHTON - ASTON VILLA | Sun 23 Aug 14:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 17
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | GT WORLD CHALLENGE ASIA NÜRBURGRING | Sun 30 Aug 14:30 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 17
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037361.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | LIGUE 1 ANGERS - LILLE | Sun 23 Aug 14:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 18
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | OBOS DAMALLSVENSKAN NORRKÖPING - DJURGÅRDEN | Sun 30 Aug 14:50 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 18
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037360.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | FORMEL 1 F1 KIDS: HOLLANDS GRAND PRIX | Sun 23 Aug 14:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 19
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | BUNDESLIGA GUMMERSBACH - MAGDEBURG | Sun 30 Aug 14:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 19
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037359.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | FORMEL 1 MULTIVIEW | Sun 23 Aug 14:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 20
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | PREMIER LEAGUE LEEDS - BRENTFORD | Sun 30 Aug 14:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 20
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037358.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | FORMEL 1 PITLANE | Sun 23 Aug 15:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 21
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | PREMIER LEAGUE SUNDERLAND - FULHAM | Sun 30 Aug 14:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 21
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037357.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | FORMEL 1 TRACK POSITIONING | Sun 23 Aug 15:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 22
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | LIGUE 1 PARIS FC - NICE | Sun 30 Aug 14:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 22
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037356.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | FORMEL 1 TIMING | Sun 23 Aug 15:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 23
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | FRAUEN-BUNDESLIGA LEVERKUSEN - WOLFSBURG | Sun 30 Aug 15:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 23
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037355.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | FORMEL 1 ONBOARD | Sun 23 Aug 15:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 24
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | LADIES EUROPEAN TOUR KPMG WOMEN’S IRISH OPEN | Sun 30 Aug 15:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 24
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037354.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | INDYCAR FREEDOM 250 GRAND PRIX OF WASHINGTON | Sun 23 Aug 15:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 25
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | BUNDESLIGA FREIBURG - WERDER BREMEN | Sun 30 Aug 15:20 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 25
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037353.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | FRAUEN-BUNDESLIGA LEIPZIG - LEVERKUSEN | Sun 23 Aug 15:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 26
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | INDYCAR SNAP-ON MAKERS AND FIXERS 250 | Sun 30 Aug 23:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 26
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037352.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | FIVB VOLLEYBALL WORLD BEACH PRO TOUR ELITE16 MONTREAL | Sun 23 Aug 16:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 27
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: VIAPLAY PPV 27
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037351.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | PREMIER LEAGUE NEWCASTLE - LIVERPOOL | Sun 23 Aug 16:30 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 28
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: VIAPLAY PPV 28
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037350.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | LIV GOLF LIV GOLF INDIANAPOLIS | Sun 23 Aug 17:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 29
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",LIVE | GT WORLD CHALLENGE AMERICA ROAD AMERICA | Sun 30 Aug 16:05 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 29
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037349.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | 3F SUPERLIGA OPTAKT: VIBORG FF - F.C. KØBENHAVN | Sun 23 Aug 17:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 30
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | PREMIER LEAGUE MAN UNITED - IPSWICH | Sun 30 Aug 17:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 30
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037348.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | LIGUE 1 LE HAVRE - MONACO | Sun 23 Aug 17:10 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 31
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | 3F SUPERLIGA FC NORDSJÆLLAND - BRØNDBY IF | Sun 30 Aug 17:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 31
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037347.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | VIAPLAY VINTER CITY BIATHLON DRESDEN 2026 | Sun 23 Aug 17:15 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 32
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | INDY NXT INDY NXT BY FIRESTONE AT MILWAUKEE MILE | Sun 30 Aug 17:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 32
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037346.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | 3F SUPERLIGA VIBORG FF - F.C. KØBENHAVN | Sun 23 Aug 17:55 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 33
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | LIGUE 1 RENNES - LE MANS | Sun 30 Aug 17:10 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 33
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037345.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | IMSA SPORTSCAR CHAMPIONSHIP MICHELIN GT CHALLENGE AT VIR | Sun 23 Aug 18:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 34
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | BUNDESLIGA AUGSBURG - SCHALKE | Sun 30 Aug 17:25 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 34
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037344.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | MAJOR LEAGUE BASEBALL PHILLIES - CARDINALS | Sun 23 Aug 19:30 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 35
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | INDYCAR SNAP-ON MILWAUKEE MILE 250 | Sun 30 Aug 19:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 35
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037343.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | 3F SUPERLIGA ONSIDE | Sun 23 Aug 20:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 36
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | LPGA FM CHAMPIONSHIP | Sun 30 Aug 19:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 36
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037342.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | LIGUE 1 RENNES - PSG | Sun 23 Aug 20:40 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 37
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | MAJOR LEAGUE BASEBALL YANKEES - RED SOX | Sun 30 Aug 19:30 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 37
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037341.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | SENIOR MAJORS U.S. SENIOR WOMEN'S OPEN | Sun 23 Aug 22:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 38
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | POOL US OPEN POOL CHAMPIONSHIP | Sun 30 Aug 20:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 38
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037340.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | LPGA CPKC WOMEN'S OPEN (ROUND 4) | Mon 24 Aug 00:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 39
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | PREMIER LEAGUE THE WEEKEND WRAP | Sun 30 Aug 20:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 39
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037339.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | MAJOR LEAGUE BASEBALL BREWERS - BRAVES | Mon 24 Aug 01:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 40
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | 3F SUPERLIGA ONSIDE | Sun 30 Aug 20:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 40
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037338.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: VIAPLAY PPV 41
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | LIGUE 1 MONACO - MARSEILLE | Sun 30 Aug 20:40 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 41
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037337.ts
-#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: VIAPLAY PPV 42
+#EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",NEXT | MAJOR LEAGUE BASEBALL CUBS - REDS | Mon 31 Aug 01:00 CEST (DK) | 8K EXCLUSIVE | DK: VIAPLAY PPV 42
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037336.ts
 #EXTINF:-1 group-title="DENMARK VIAPLAY PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VIAPLAY.png" tvg-id="",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: VIAPLAY PPV 43
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2037335.ts
@@ -2929,8 +2931,6 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/176938.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176939.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176940.png" tvg-id="WNetwork.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| W NETWORK HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176940.ts
-#EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/1828550.png" tvg-id="TodaysShoppingChoice.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| NASA HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1828550.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/863802.png" tvg-id="TodaysShoppingChoice.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| TSC HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/863802.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://51.158.145.100/picons/logos/CANADA/176857.png" tvg-id="ca.WGN Canada" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| WGN HD CA
@@ -4277,230 +4277,230 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1540024.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1540032.ts
 #EXTINF:-1 group-title="ASIA | INDIA" tvg-logo="http://103.176.90.118/picons/logos/logos/SAGA-MUSIC.png" tvg-id="",HINDI| SAGA MUSIC FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1540013.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Övrigt: Allsvenskan i segling (deltävling 3) @ 2026-08-29T08:00:00.000Z :Expressen  01
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134426.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/42456.png" tvg-id="ColorsRishtey.in" tv_archive="1" catchup="default" tv_archive_duration="5" catchup-days="5",IN| COLORS RISHTEY
 http://line.weharmony.store/live/a8da78f521/bc62145d78/42456.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Slätta SK vs Östervåla IF @ 2026-08-29T09:50:00.000Z :Expressen  02
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134425.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="https://picons.cmshulk.com/picons/utsavplus.png" tvg-id="StarPlus.uk",IN| UTSAV PLUS
 http://line.weharmony.store/live/a8da78f521/bc62145d78/42438.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Ängelholms FF vs Jönköpings Södra IF @ 2026-08-29T10:50:00.000Z :Expressen  03
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134424.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="https://picons.cmshulk.com/picons/utsavplus.png" tvg-id="StarPlus.uk" tv_archive="1" catchup="default" tv_archive_duration="5" catchup-days="5",IN| UTSAV PLUS FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/267589.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Degerfors IF vs Smedby AIS @ 2026-08-29T10:50:00.000Z :Expressen  04
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134423.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/959.png" tvg-id="SonyEntertainmentTV.uk",IN| SONY TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/959.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Enskede IK vs Viggbyholms IK FF @ 2026-08-29T10:50:00.000Z :Expressen  05
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134422.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="https://picons.cmshulk.com/picons/sonytv.png" tvg-id="SonyEntertainmentTV.uk" tv_archive="1" catchup="default" tv_archive_duration="5" catchup-days="5",IN| SONY TV FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/163522.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Eskilsminne IF vs Hässleholms IF @ 2026-08-29T10:50:00.000Z :Expressen  06
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134421.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="https://picons.cmshulk.com/picons/colors.png" tvg-id="Colors.in" tv_archive="1" catchup="default" tv_archive_duration="5" catchup-days="5",IN| COLORS FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/163527.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: FC Djursholm vs IFK Östersund @ 2026-08-29T10:50:00.000Z :Expressen  07
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134420.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="https://picons.cmshulk.com/picons/colors.png" tvg-id="Colors.in",IN| COLORS
 http://line.weharmony.store/live/a8da78f521/bc62145d78/42446.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Helsingborgs IF vs Halmstads BK @ 2026-08-29T10:50:00.000Z :Expressen  08
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134419.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="https://picons.cmshulk.com/picons/colors.png" tvg-id="Colors.in",IN| COLORS UK HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/945588.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Höörs IS vs Stehags AIF @ 2026-08-29T10:50:00.000Z :Expressen  09
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134418.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/840330.png" tvg-id="Colors Gujarati.uk",IN| COLORS GUJARATI
 http://line.weharmony.store/live/a8da78f521/bc62145d78/840330.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: IFK Eskilstuna vs IF Viken @ 2026-08-29T10:50:00.000Z :Expressen  10
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134417.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="https://picons.cmshulk.com/picons/zeetv.png" tvg-id="ZeeTV.in" tv_archive="1" catchup="default" tv_archive_duration="5" catchup-days="5",IN| ZEE TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/945.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: IK Sleipner vs IF Eker Örebro @ 2026-08-29T10:50:00.000Z :Expressen  11
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134416.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="https://picons.cmshulk.com/picons/zeetv.png" tvg-id="ZeeTV.in",IN| ZEE TV HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/945569.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Elitettan: KIF Örebro DFF vs Umeå IK FF @ 2026-08-29T10:50:00.000Z :Expressen  12
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134415.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/3647.png" tvg-id="uk.Utsav Gold HD",IN| UTSAV GOLD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/3647.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Åkersberga FC vs Vallentuna BK @ 2026-08-29T11:50:00.000Z :Expressen  13
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134414.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/267600.png" tvg-id="uk.Utsav Gold HD" tv_archive="1" catchup="default" tv_archive_duration="5" catchup-days="5",IN| UTSAV GOLD FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/267600.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Forsbacka IK vs Ljusdals IF @ 2026-08-29T11:50:00.000Z :Expressen  14
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134413.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/163523.png" tvg-id="SonyMax.uk" tv_archive="1" catchup="default" tv_archive_duration="5" catchup-days="5",IN| SONY MAX FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/163523.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Elitettan: Gamla Upsala SK vs Sandvikens IF @ 2026-08-29T11:50:00.000Z :Expressen  15
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134412.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/164031.png" tvg-id="SonyMax.uk",IN| SONY MAX
 http://line.weharmony.store/live/a8da78f521/bc62145d78/164031.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Elitettan: Husqvarna FF vs Trelleborgs FF @ 2026-08-29T11:50:00.000Z :Expressen  16
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134411.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/71912.png" tvg-id="SonyMax2.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",IN| SONY MAX 2
 http://line.weharmony.store/live/a8da78f521/bc62145d78/71912.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: IK Sätra vs Sandvikens AIK FK @ 2026-08-29T11:50:00.000Z :Expressen  17
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134410.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/42460.png" tvg-id="SonySAB.in" tv_archive="1" catchup="default" tv_archive_duration="5" catchup-days="5",IN| SONY SAB
 http://line.weharmony.store/live/a8da78f521/bc62145d78/42460.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Kalmar City BK vs Saxemara IF @ 2026-08-29T11:50:00.000Z :Expressen  18
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134409.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/546170.png" tvg-id="SonySAB.in",IN| SONY SAB (BK)
 http://line.weharmony.store/live/a8da78f521/bc62145d78/546170.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Slätta SK vs Dala-Järna IK @ 2026-08-29T12:10:00.000Z :Expressen  19
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134408.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/1691721.png" tvg-id="",IN| NICK JUNIOR
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1691721.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Elitettan: Alingsås IF FF vs Örebro SK FK @ 2026-08-29T12:50:00.000Z :Expressen  20
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134407.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/1021295.png" tvg-id="",IN| NEWS 18 EN
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1021295.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Elitettan: Linköping FC vs IFK Göteborg @ 2026-08-29T12:50:00.000Z :Expressen  21
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134406.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/660063.png" tvg-id="Pitaara.in" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",IN| PITAARA
 http://line.weharmony.store/live/a8da78f521/bc62145d78/660063.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Bandy: Sandvikens AIK vs IK Sirius @ 2026-08-29T12:50:00.000Z :Expressen  22
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134405.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/896709.png" tvg-id="Pitaara.in",IN| PITAARA (BK)
 http://line.weharmony.store/live/a8da78f521/bc62145d78/896709.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: FC Järfälla vs Assyriska FF @ 2026-08-29T13:50:00.000Z :Expressen  23
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134404.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/57119.png" tvg-id="StarBharat.uk" tv_archive="1" catchup="default" tv_archive_duration="5" catchup-days="5",IN| UTSAV BHARAT
 http://line.weharmony.store/live/a8da78f521/bc62145d78/57119.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Gefle IF FF vs IF Karlstad Fotboll @ 2026-08-29T13:50:00.000Z :Expressen  24
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134403.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/42443.png" tvg-id="B4UMovies.in" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",IN| B4U MOVIES
 http://line.weharmony.store/live/a8da78f521/bc62145d78/42443.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Hyssna-Kinnahult-Skene IF @ 2026-08-29T13:50:00.000Z :Expressen  25
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134402.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://103.176.90.118/picons/logos/in.B4umusic.png" tvg-id="B4UMusic.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",IN| B4U MUSIC
 http://line.weharmony.store/live/a8da78f521/bc62145d78/42444.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Kristianstad FC vs Åtvidabergs FF @ 2026-08-29T13:50:00.000Z :Expressen  26
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134401.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://103.176.90.118/picons/logos/COLORS-KANNADA-HD.jpg" tvg-id="ColorsKannada.in",IN| COLORS KANNADA UK
 http://line.weharmony.store/live/a8da78f521/bc62145d78/945560.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Lidköpings FK vs Skara FC @ 2026-08-29T13:50:00.000Z :Expressen  27
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134400.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/945559.png" tvg-id="ColorsMarathi.in",IN| COLORS MARATHI UK
 http://line.weharmony.store/live/a8da78f521/bc62145d78/945559.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Skiljebo SK vs Sunnersta AIF @ 2026-08-29T13:50:00.000Z :Expressen  28
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134399.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/42457.png" tvg-id="ColorsCineplex.in" tv_archive="1" catchup="default" tv_archive_duration="5" catchup-days="5",IN| COLORS CINEPLEX
 http://line.weharmony.store/live/a8da78f521/bc62145d78/42457.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Friska Viljor FC vs Umeå FF @ 2026-08-29T14:50:00.000Z :Expressen  29
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134398.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/308949.png" tvg-id="ZeeCinemaHD.in" tv_archive="1" catchup="default" tv_archive_duration="5" catchup-days="5",IN| ZEE CINEMA FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/308949.ts
+#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Ljungby IF vs Älmhults IF @ 2026-08-29T14:50:00.000Z :Expressen  30
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134397.ts
 #EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/946.png" tvg-id="ZeeCinema.in",IN| ZEE CINEMA
 http://line.weharmony.store/live/a8da78f521/bc62145d78/946.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/3646.png" tvg-id="Zing.in" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",IN| ZING
-http://line.weharmony.store/live/a8da78f521/bc62145d78/3646.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/42439.png" tvg-id="AajTak.in",IN| AAJ TAK
-http://line.weharmony.store/live/a8da78f521/bc62145d78/42439.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/42440.png" tvg-id="ABPNews.in",IN| ABP NEWS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/42440.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/61600.png" tvg-id="Aastha.in",IN| AASTHA
-http://line.weharmony.store/live/a8da78f521/bc62145d78/61600.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/97101.png" tvg-id="SanskarTV.in" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",IN| SANSKAR
-http://line.weharmony.store/live/a8da78f521/bc62145d78/97101.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/97100.png" tvg-id="Travelxp.in" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",IN| TRAVELXP
-http://line.weharmony.store/live/a8da78f521/bc62145d78/97100.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/42452.png" tvg-id="" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",IN| KANSHI TV
-http://line.weharmony.store/live/a8da78f521/bc62145d78/42452.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/42477.png" tvg-id="NDTV24x7.in" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",IN| NDTV 24x7
-http://line.weharmony.store/live/a8da78f521/bc62145d78/42477.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/97105.png" tvg-id="KTV.in" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",IN| KTV
-http://line.weharmony.store/live/a8da78f521/bc62145d78/97105.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/42475.png" tvg-id="PTCPunjabi.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",IN| PTC PUNJABI
-http://line.weharmony.store/live/a8da78f521/bc62145d78/42475.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/1486324.png" tvg-id="",IN| PBC PUNJABI
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1486324.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/42471.png" tvg-id="" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",IN| SANGAT
-http://line.weharmony.store/live/a8da78f521/bc62145d78/42471.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/42473.png" tvg-id="" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",IN| SIKH CHANNEL
-http://line.weharmony.store/live/a8da78f521/bc62145d78/42473.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/79495.png" tvg-id="",IN| AKAAL
-http://line.weharmony.store/live/a8da78f521/bc62145d78/79495.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/156015.png" tvg-id="TimesNow.in" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",IN| TIMES NOW HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/156015.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/945591.png" tvg-id="ETV.in",IN| ETV UK
-http://line.weharmony.store/live/a8da78f521/bc62145d78/945591.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/945590.png" tvg-id="IndiaNews.in",IN| INDIA NEWS UP UK
-http://line.weharmony.store/live/a8da78f521/bc62145d78/945590.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/945589.png" tvg-id="ColorsCineplex.in",IN| COLORS CINEPLEX UK
-http://line.weharmony.store/live/a8da78f521/bc62145d78/945589.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/945585.png" tvg-id="JayaMax.in",IN| JAYA MAX UK
-http://line.weharmony.store/live/a8da78f521/bc62145d78/945585.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="" tvg-id="",##### INDIA EU HEVC #####
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1458634.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Folkrace: Haninge, 2-dagars @ 2026-08-23T07:05:00.000Z :Expressen  01
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134426.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458630.png" tvg-id="Colors.uk",UK| COLORS HEVC FHD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1458630.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: P18 IK vs Västerås SK FK @ 2026-08-23T09:50:00.000Z :Expressen  02
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134425.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458633.png" tvg-id="Colors.uk",UK| COLORS HEVC HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1458633.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Gefle IF FF vs FC Djursholm @ 2026-08-23T10:50:00.000Z :Expressen  03
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134424.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458625.png" tvg-id="SonyMax.uk",UK| SONY MAX HEVC FHD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1458625.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Helges IF vs Falu BS FK @ 2026-08-23T10:50:00.000Z :Expressen  04
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134423.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458623.png" tvg-id="SonyMax.uk",UK| SONY MAX HEVC HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1458623.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: IK Franke vs Skiljebo SK @ 2026-08-23T10:50:00.000Z :Expressen  05
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134422.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458624.png" tvg-id="",UK| SONY TV HEVC FHD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1458624.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Sollentuna FK vs IFK Östersund @ 2026-08-23T10:50:00.000Z :Expressen  06
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134421.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458622.png" tvg-id="",UK| SONY TV HEVC HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1458622.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: IFK Simrishamn vs Eslövs BK @ 2026-08-23T11:50:00.000Z :Expressen  07
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134420.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458627.png" tvg-id="",UK| UTSAV GOLD HEVC FHD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1458627.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Motala AIF FK vs IF Karlstad Fotbollutveckling @ 2026-08-23T11:50:00.000Z :Expressen  08
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134419.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458629.png" tvg-id="",UK| UTSAV GOLD HEVC HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1458629.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Woody´s FC-IFK Eskilstuna @ 2026-08-23T11:50:00.000Z :Expressen  09
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134418.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458626.png" tvg-id="",UK| UTSAV PLUS HEVC FHD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1458626.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Brämhults IK vs Hyssna IF-Kinnahults IF @ 2026-08-23T12:20:00.000Z :Expressen  10
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134417.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458628.png" tvg-id="",UK| UTSAV PLUS HEVC HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1458628.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: IFK Trelleborg FK vs Lilla Torg FF @ 2026-08-23T12:50:00.000Z :Expressen  11
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134416.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458632.png" tvg-id="ZeeTV.uk",UK| ZEE TV HEVC FHD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1458632.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Elitettan: Linköping FC vs Enskede IK @ 2026-08-23T12:50:00.000Z :Expressen  12
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134415.ts
-#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458631.png" tvg-id="ZeeTV.uk",UK| ZEE TV HEVC HD
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1458631.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Ljusdals IF vs IK Huge @ 2026-08-23T13:50:00.000Z :Expressen  13
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134414.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Skövde AIK vs Kristianstad FC @ 2026-08-23T13:50:00.000Z :Expressen  14
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134413.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Assyriska FF vs Gefle IF FF @ 2026-08-23T15:50:00.000Z :Expressen  15
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134412.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Kungsörs BK – Arboga Södra IF @ 2026-08-23T15:50:00.000Z :Expressen  16
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134411.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",Fotboll: Hässleholms IF vs Laholms FK @ 2026-08-24T16:50:00.000Z :Expressen  17
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134410.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  18
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134409.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  19
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134408.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  20
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134407.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  21
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134406.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  22
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134405.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  23
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134404.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  24
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134403.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  25
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134402.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  26
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134401.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  27
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134400.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  28
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134399.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  29
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134398.ts
-#EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  30
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134397.ts
 #EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  31
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2134396.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/3646.png" tvg-id="Zing.in" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",IN| ZING
+http://line.weharmony.store/live/a8da78f521/bc62145d78/3646.ts
 #EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  32
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2134395.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/42439.png" tvg-id="AajTak.in",IN| AAJ TAK
+http://line.weharmony.store/live/a8da78f521/bc62145d78/42439.ts
 #EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  33
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2134394.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/42440.png" tvg-id="ABPNews.in",IN| ABP NEWS
+http://line.weharmony.store/live/a8da78f521/bc62145d78/42440.ts
 #EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  34
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2134393.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/61600.png" tvg-id="Aastha.in",IN| AASTHA
+http://line.weharmony.store/live/a8da78f521/bc62145d78/61600.ts
 #EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  35
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2134392.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/97101.png" tvg-id="SanskarTV.in" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",IN| SANSKAR
+http://line.weharmony.store/live/a8da78f521/bc62145d78/97101.ts
 #EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  36
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2134391.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/97100.png" tvg-id="Travelxp.in" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",IN| TRAVELXP
+http://line.weharmony.store/live/a8da78f521/bc62145d78/97100.ts
 #EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  37
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2134390.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/42452.png" tvg-id="" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",IN| KANSHI TV
+http://line.weharmony.store/live/a8da78f521/bc62145d78/42452.ts
 #EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  38
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2134389.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/42477.png" tvg-id="NDTV24x7.in" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",IN| NDTV 24x7
+http://line.weharmony.store/live/a8da78f521/bc62145d78/42477.ts
 #EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  39
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2134388.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/97105.png" tvg-id="KTV.in" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",IN| KTV
+http://line.weharmony.store/live/a8da78f521/bc62145d78/97105.ts
 #EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  40
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2134387.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/42475.png" tvg-id="PTCPunjabi.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",IN| PTC PUNJABI
+http://line.weharmony.store/live/a8da78f521/bc62145d78/42475.ts
 #EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  41
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2134386.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/1486324.png" tvg-id="",IN| PBC PUNJABI
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1486324.ts
 #EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  42
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2134385.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/42471.png" tvg-id="" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",IN| SANGAT
+http://line.weharmony.store/live/a8da78f521/bc62145d78/42471.ts
 #EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  43
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2134384.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/42473.png" tvg-id="" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",IN| SIKH CHANNEL
+http://line.weharmony.store/live/a8da78f521/bc62145d78/42473.ts
 #EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  44
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2134383.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/79495.png" tvg-id="",IN| AKAAL
+http://line.weharmony.store/live/a8da78f521/bc62145d78/79495.ts
 #EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  45
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2134382.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/156015.png" tvg-id="TimesNow.in" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",IN| TIMES NOW HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/156015.ts
 #EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  46
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2134381.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/945591.png" tvg-id="ETV.in",IN| ETV UK
+http://line.weharmony.store/live/a8da78f521/bc62145d78/945591.ts
 #EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  47
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2134380.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/945590.png" tvg-id="IndiaNews.in",IN| INDIA NEWS UP UK
+http://line.weharmony.store/live/a8da78f521/bc62145d78/945590.ts
 #EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  48
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2134379.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/945589.png" tvg-id="ColorsCineplex.in",IN| COLORS CINEPLEX UK
+http://line.weharmony.store/live/a8da78f521/bc62145d78/945589.ts
 #EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  49
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2134378.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU" tvg-logo="http://picons.cmshulk.com/picons/945585.png" tvg-id="JayaMax.in",IN| JAYA MAX UK
+http://line.weharmony.store/live/a8da78f521/bc62145d78/945585.ts
 #EXTINF:-1 group-title="SWEDEN EXPRESSEN PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/Expressen.png" tvg-id="",:Expressen  50
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2134377.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="" tvg-id="",##### INDIA EU HEVC #####
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1458634.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458630.png" tvg-id="Colors.uk",UK| COLORS HEVC FHD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1458630.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458633.png" tvg-id="Colors.uk",UK| COLORS HEVC HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1458633.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458625.png" tvg-id="SonyMax.uk",UK| SONY MAX HEVC FHD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1458625.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458623.png" tvg-id="SonyMax.uk",UK| SONY MAX HEVC HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1458623.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458624.png" tvg-id="",UK| SONY TV HEVC FHD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1458624.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458622.png" tvg-id="",UK| SONY TV HEVC HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1458622.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458627.png" tvg-id="",UK| UTSAV GOLD HEVC FHD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1458627.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458629.png" tvg-id="",UK| UTSAV GOLD HEVC HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1458629.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458626.png" tvg-id="",UK| UTSAV PLUS HEVC FHD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1458626.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458628.png" tvg-id="",UK| UTSAV PLUS HEVC HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1458628.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458632.png" tvg-id="ZeeTV.uk",UK| ZEE TV HEVC FHD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1458632.ts
+#EXTINF:-1 group-title="ASIA | INDIA EU HEVC" tvg-logo="http://picons.cmshulk.com/picons/1458631.png" tvg-id="ZeeTV.uk",UK| ZEE TV HEVC HD
+http://line.weharmony.store/live/a8da78f521/bc62145d78/1458631.ts
 #EXTINF:-1 group-title="ASIA | INDIA MOVIES" tvg-logo="http://picons.cmshulk.com/picons/1532832.png" tvg-id="AndPrive.in",HINDI| & PRIVE FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1532832.ts
 #EXTINF:-1 group-title="ASIA | INDIA MOVIES" tvg-logo="http://103.176.90.118/picons/logos/logos/COLORS-CINEPLEX-BOLLYWOOD.png" tvg-id="",HINDI| COLORS CINEPLEX BOLLYWOOD
@@ -4877,104 +4877,204 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1116510.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1116496.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/1670148.png" tvg-id="",PUNJABI| 5 AAB TODAY TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1670148.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",Vuelta a España: 7. etape @ 2026-08-28 13:00:00 :Tv2Play DK  01
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134476.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://103.176.90.118/picons/logos/logos/7X-MUSIC.png" tvg-id="",PUNJABI| 7X MUSIC
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1527133.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",Serie A: AC Milan-Venezia @ 2026-08-28 20:45:00 :Tv2Play DK  02
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134475.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/358132.png" tvg-id="9XTashan.in",PUNJABI| 9X TASHAN
 http://line.weharmony.store/live/a8da78f521/bc62145d78/358132.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",ATP: Semifinaler, Winston-Salem @ 2026-08-28 21:55:00 :Tv2Play DK  03
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134474.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/156843.png" tvg-id="9XTashan.in",PUNJABI| 9X TASHAN USA
 http://line.weharmony.store/live/a8da78f521/bc62145d78/156843.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  04
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134473.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/1097716.png" tvg-id="",PUNJABI| ABDERANG
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1097716.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  05
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134472.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/358135.png" tvg-id="",PUNJABI| AKAAL CHANNEL
 http://line.weharmony.store/live/a8da78f521/bc62145d78/358135.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  09
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134471.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/358136.png" tvg-id="",PUNJABI| AKAAL TV UK
 http://line.weharmony.store/live/a8da78f521/bc62145d78/358136.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  06
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134470.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/1527134.png" tvg-id="",PUNJABI| ANB NEWS
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1527134.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  07
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134469.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/358146.png" tvg-id="",PUNJABI| BALLEBALE TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/358146.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  08
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134468.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/282037.png" tvg-id="",PUNJABI| BALLE BALLE
 http://line.weharmony.store/live/a8da78f521/bc62145d78/282037.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  10
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134467.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://103.176.90.118/picons/logos/logos/BALLE-NON-STOP-MUSIC.png" tvg-id="",PUNJABI| BALLE NON STOP MUSIC
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1097718.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  11
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134466.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://103.176.90.118/picons/logos/logos/BOOGLE-BOLLYWOOD.png" tvg-id="BoogleBollywood.in",PUNJABI| BOOGLE BOLLYWOOD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1527131.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  12
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134465.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/1670145.png" tvg-id="",PUNJABI| CHANNEL PUNJABI
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1670145.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  13
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134464.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/358157.png" tvg-id="",PUNJABI| CHANNEL Y
 http://line.weharmony.store/live/a8da78f521/bc62145d78/358157.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  14
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134463.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://103.176.90.118/picons/logos/logos/CHARDIKALAH-TIMES.png" tvg-id="ChardiklaTimeTV.in",PUNJABI| CHARDIKALAH TIMES TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/155953.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  15
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134462.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/282038.png" tvg-id="ChardiklaTimeTV.in",PUNJABI| CHARDIKLA TIME
 http://line.weharmony.store/live/a8da78f521/bc62145d78/282038.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  16
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134461.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/358158.png" tvg-id="ChardiklaTimeTV.in",PUNJABI| CHARDIKLA TIME TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/358158.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  17
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134460.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://103.176.90.118/picons/logos/logos/CHARDIKLA-TIME.png" tvg-id="ChardiklaTimeTV.in",PUNJABI| CHARDIKLA TIME TV USA
 http://line.weharmony.store/live/a8da78f521/bc62145d78/156845.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  18
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134459.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/1438225.png" tvg-id="",PUNJABI| CINEMANIA 4K
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1438225.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  19
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134458.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/155937.png" tvg-id="DDPunjabi.in",PUNJABI| DD PUNJABI
 http://line.weharmony.store/live/a8da78f521/bc62145d78/155937.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  20
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134457.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/1527128.png" tvg-id="DDPunjabi.in",PUNJABI| DD PUNJABI (2)
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1527128.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  21
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134456.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/155948.png" tvg-id="",PUNJABI| FATEH TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/155948.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  22
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134455.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/157154.png" tvg-id="",PUNJABI| GAUNDA HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/157154.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  23
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134454.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://103.176.90.118/picons/logos/logos/GLOBAL-PUNJABI.png" tvg-id="",PUNJABI| GLOBAL PUNJABI HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/155963.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  24
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134453.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://103.176.90.118/picons/logos/logos/GURDWARA-SAHIB-SEATTLE.png" tvg-id="",PUNJABI| GURDWARA SAHIB SEATTLE
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1670144.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  25
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134452.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/1670132.png" tvg-id="",PUNJABI| GURMAT TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1670132.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  26
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134451.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://103.176.90.118/picons/logos/logos/HAMDARD.png" tvg-id="",PUNJABI| HAMDARD TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1670142.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  27
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134450.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://103.176.90.118/picons/logos/logos/HUNGAMA-POP-PATAKA.png" tvg-id="",PUNJABI| HUNGAMA BOL HADIPPA
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1670149.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  28
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134449.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/1670140.png" tvg-id="",PUNJABI| INDOZ TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1670140.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  29
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134448.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/155950.png" tvg-id="",PUNJABI| JUS ONE
 http://line.weharmony.store/live/a8da78f521/bc62145d78/155950.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  30
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134447.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/156847.png" tvg-id="JusPunjabi.in",PUNJABI| JUS PUNJABI USA
 http://line.weharmony.store/live/a8da78f521/bc62145d78/156847.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  31
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134446.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/1670138.png" tvg-id="",PUNJABI| KANSHI TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1670138.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  32
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134445.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/1527127.png" tvg-id="HindiKhabar.in",PUNJABI| KHABAR FAST
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1527127.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  33
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134444.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/1527125.png" tvg-id="",PUNJABI| LIVE PUNJABI
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1527125.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  34
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134443.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/155957.png" tvg-id="",PUNJABI| LIVING INDIA NEWS
 http://line.weharmony.store/live/a8da78f521/bc62145d78/155957.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  35
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134442.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/155940.png" tvg-id="",PUNJABI| MAHA PUNJABI
 http://line.weharmony.store/live/a8da78f521/bc62145d78/155940.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  36
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134441.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/155984.png" tvg-id="ManoranjanTV.in",PUNJABI| MANORANJAN TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/155984.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  37
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134440.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/282046.png" tvg-id="",PUNJABI| MH 1 NEWS
 http://line.weharmony.store/live/a8da78f521/bc62145d78/282046.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  38
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134439.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://103.176.90.118/picons/logos/logos/MH1-PRIME-NEWS.png" tvg-id="",PUNJABI| MH1 PRIME NEWS
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1527130.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  39
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134438.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/155945.png" tvg-id="",PUNJABI| MH1 SHARADDHA
 http://line.weharmony.store/live/a8da78f521/bc62145d78/155945.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  40
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134437.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://103.176.90.118/picons/logos/logos/MH-ONE-SHRADDHA.png" tvg-id="MHOneShraddha.in",PUNJABI| MH ONE SHRADDHA
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1527124.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  41
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134436.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://103.176.90.118/picons/logos/logos/NAMDHARI.png" tvg-id="",PUNJABI| NAMDHARI TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1670136.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  42
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134435.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://103.176.90.118/picons/logos/logos/NEWS-18-PUNJAB-HARYANA.png" tvg-id="News18India.in",PUNJABI| NEWS 18 PUNJAB HARYANA
 http://line.weharmony.store/live/a8da78f521/bc62145d78/156115.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  43
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134434.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://103.176.90.118/picons/logos/logos/NEWS18-PUNJABI.png" tvg-id="",PUNJABI| NEWS18 PUNJABI
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1527122.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  44
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134433.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://103.176.90.118/picons/logos/logos/ONLY-MUSIC.png" tvg-id="",PUNJABI| ONLY MUSIC
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1670135.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  45
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134432.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/1670134.png" tvg-id="",PUNJABI| PARDESI TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1670134.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  46
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134431.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/1670143.png" tvg-id="",PUNJABI| PARVASI TV HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1670143.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  47
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134430.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://103.176.90.118/picons/logos/logos/PBN-MUSIC.png" tvg-id="",PUNJABI| PBN MUSIC
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1670133.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  48
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134429.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/155947.png" tvg-id="Pitaara.in",PUNJABI| PITAARA
 http://line.weharmony.store/live/a8da78f521/bc62145d78/155947.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  49
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134428.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/1527136.png" tvg-id="",PUNJABI| POLITICS
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1527136.ts
+#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  50
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134427.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://picons.cmshulk.com/picons/155961.png" tvg-id="PrimeAsia.in",PUNJABI| PRIME ASIA HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/155961.ts
 #EXTINF:-1 group-title="ASIA | PUNJABI" tvg-logo="http://103.176.90.118/picons/logos/logos/PTC-CHAKDE.png" tvg-id="PTCChakde.in",PUNJABI| PTC CHAKDE
@@ -5037,204 +5137,104 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/282059.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/282060.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20611.png" tvg-id="Cp24.ca",CA| CP24 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20611.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",VM i badminton: Finaler @ 2026-08-23 09:30:00 :Tv2Play DK  01
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134476.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20619.png" tvg-id="ca.CNN HD",CA| CNN
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20619.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",A-Liga: FC Nordsjælland-F.C. København @ 2026-08-23 11:25:00 :Tv2Play DK  02
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134475.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20620.png" tvg-id="ca.CNBC Canada",CA| CNBC
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20620.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",Super Cup: Team Esbjerg-Odense (k) @ 2026-08-23 13:00:00 :Tv2Play DK  03
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134474.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://picons.cmshulk.com/picons/tsn1.png" tvg-id="ca.TSN1",CA| TSN 1 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20476.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",3F Superliga: AGF-Odense Boldklub @ 2026-08-23 13:30:00 :Tv2Play DK  04
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134473.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://picons.cmshulk.com/picons/tsn2.png" tvg-id="ca.TSN2",CA| TSN 2 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20475.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",Vuelta a España: 2. etape @ 2026-08-23 14:15:00 :Tv2Play DK  05
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134472.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://picons.cmshulk.com/picons/tsn3.png" tvg-id="ca.TSN3",CA| TSN 3 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20474.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",Atletik: Diamond League, Silesia @ 2026-08-23 15:55:00 :Tv2Play DK  09
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134471.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://picons.cmshulk.com/picons/tsn5.png" tvg-id="ca.TSN5",CA| TSN 5 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20472.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",3F Superliga: Før AC Horsens-Lyngby Boldklub @ 2026-08-23 15:25:00 :Tv2Play DK  06
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134470.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://103.176.90.118/picons/logos/USA/TV5-QUEBEC.png" tvg-id="ca.TV5 International HD - East",CA| TV5 QUEBEC
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20471.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",Super Cup: Aalborg-Skanderborg AGF (m) @ 2026-08-23 15:50:00 :Tv2Play DK  07
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134469.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://picons.cmshulk.com/picons/20467.png" tvg-id="ca.TVA Sports HD" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| TVA SPORTS
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20467.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",3F Superliga: AC Horsens-Lyngby Boldklub @ 2026-08-23 15:55:00 :Tv2Play DK  08
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134468.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://picons.cmshulk.com/picons/20482.png" tvg-id="ca.Crave1 - East",CA| TMN 1
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20482.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",Serie A: Frosinone-Juventus @ 2026-08-23 18:15:00 :Tv2Play DK  10
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134467.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://picons.cmshulk.com/picons/20481.png" tvg-id="ca.Crave2 - East",CA| TMN 2
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20481.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",Serie A: Venezia-Lecce @ 2026-08-23 18:15:00 :Tv2Play DK  11
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134466.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://picons.cmshulk.com/picons/20480.png" tvg-id="ca.Crave3 - East",CA| TMN 3E
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20480.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",Serie A: Atalanta-Sassuolo @ 2026-08-23 20:30:00 :Tv2Play DK  12
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134465.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20655.png" tvg-id="ca.ABC (KOMO) Seattle, WA HD",CA| ABC WEST HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20655.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",Serie A: Torino-AC Milan @ 2026-08-23 20:40:00 :Tv2Play DK  13
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134464.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20658.png" tvg-id="ca.A&E Canada HD",CA|  YTV E
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20658.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",ATP: Finale, Cincinnati @ 2026-08-23 22:30:00 :Tv2Play DK  14
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134463.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20653.png" tvg-id="AddikTV.ca",CA| ADDIK TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20653.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",WTA: Finale, Cincinnati @ 2026-08-24 01:00:00 :Tv2Play DK  15
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134462.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20652.png" tvg-id="ca.American Heroes Channel",CA| AHC
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20652.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",NFL: Tennessee Titans-Seattle Seahawks, pre-season @ 2026-08-24 02:00:00 :Tv2Play DK  16
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134461.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20651.png" tvg-id="ca.AMC - Canada HD",CA| AMC
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20651.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",ATP: Winston-Salem @ 2026-08-24 19:55:00 :Tv2Play DK  17
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134460.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20650.png" tvg-id="ca.Animal Planet Canada",CA| ANIMAL PLANET
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20650.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",WTA: Monterrey @ 2026-08-24 22:55:00 :Tv2Play DK  18
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134459.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20649.png" tvg-id="ca.APTN HD",CA| APTN
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20649.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  19
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134458.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20646.png" tvg-id="ca.BBC Canada East",CA| BBC CANADA
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20646.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  20
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134457.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20644.png" tvg-id="ca.BBC World - North America",CA| BBC WORLD NEWS
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20644.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  21
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134456.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20643.png" tvg-id="BET.ca",CA| BET
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20643.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  22
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134455.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20642.png" tvg-id="ca.BNN Bloomberg",CA| BNN
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20642.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  23
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134454.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20641.png" tvg-id="BookTelevision.ca",CA| BOOK TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20641.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  24
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134453.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20640.png" tvg-id="ca.Bravo Canada",CA| BRAVO
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20640.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  25
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134452.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20638.png" tvg-id="CanalSavoir.ca",CA| CANAL SAVOIR
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20638.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  26
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134451.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20636.png" tvg-id="ca.CASA",CA| CASA
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20636.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  27
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134450.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20635.png" tvg-id="ca.CBC (CBMT) Montreal, QC",CA| CBC MONTREAL
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20635.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  28
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134449.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20634.png" tvg-id="CBCNews.ca",CA| CBC NEWS
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20634.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  29
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134448.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20633.png" tvg-id="ca.CBC (CBOT) Ottawa, ON HD",CA| CBC OTTAWA
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20633.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  30
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134447.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20632.png" tvg-id="ca.CBC (CBLT) Toronto, ON HD",CA| CBC TORONTO
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20632.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  31
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134446.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20631.png" tvg-id="ca.CBC (CBUT) Vancouver, BC HD",CA| CBC VANCOUVER
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20631.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  32
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134445.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20627.png" tvg-id="Cinepop.ca",CA| CINEPOP
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20627.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  33
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134444.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20624.png" tvg-id="ca.CITY Toronto, ON",CA| CITY TORONTO
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20624.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  34
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134443.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20623.png" tvg-id="ca.CITY Vancouver, BC",CA| CITY VANCOUVER
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20623.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  35
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134442.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20621.png" tvg-id="CMT.ca",CA| CMT CANADA
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20621.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  36
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134441.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20614.png" tvg-id="CookingChannel.ca",CA| COOKING CHANNEL
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20614.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  37
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134440.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20612.png" tvg-id="CottageLife.ca",CA| COTTAGE LIFE
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20612.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  38
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134439.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20610.png" tvg-id="ca.CPAC Ottawa",CA| CPAC
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20610.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  39
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134438.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20609.png" tvg-id="ca.CPAC (Francais)",CA| CPAC FRENCH
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20609.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  40
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134437.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20608.png" tvg-id="CrimeInvestigation.ca",CA| CRIME & INVESTIGATION
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20608.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  41
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134436.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20607.png" tvg-id="ca.CTV2 Vancouver Island. BC DV",CA| CTV 2 VANCOUVER
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20607.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  42
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134435.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20605.png" tvg-id="ca.CTV News Channel",CA| CTV NEWS NETWORK
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20605.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  43
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134434.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20604.png" tvg-id="CTVOH.ca",CA| CTV OTTAWA
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20604.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  44
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134433.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20603.png" tvg-id="ca.CTV (CFTO) Toronto, ON HD",CA| CTV TORONTO
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20603.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  45
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134432.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20601.png" tvg-id="ca.CTV2 Ottawa, ON",CA| CTV 2 OTTAWA
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20601.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  46
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134431.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20598.png" tvg-id="ca.Deja View",CA| DEJAVIEW
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20598.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  47
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134430.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20597.png" tvg-id="DiscoveryChannel.ca",CA| DISCOVERY CANADA
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20597.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  48
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134429.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20596.png" tvg-id="ca.Discovery Science Canada HD",CA| DISCOVERY SCIENCE CANADA
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20596.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  49
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134428.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20595.png" tvg-id="ca.Disney Channel Canada HD - East",CA| DISNEY CHANNEL
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20595.ts
-#EXTINF:-1 group-title="DENMARK TV2 PLAY PPV VIP" tvg-logo="http://51.158.145.100/picons/logos/PPV/Tv2Play.png" tvg-id="",:Tv2Play DK  50
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134427.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20593.png" tvg-id="ca.Disney Junior Canada HD",CA| DISNEY JUNIOR
 http://line.weharmony.store/live/a8da78f521/bc62145d78/20593.ts
 #EXTINF:-1 group-title="CANADA" tvg-logo="http://51.158.145.100/picons/logos/CANADA/20592.png" tvg-id="DoItYourselfNetwork.ca",CA| DIY
@@ -5985,108 +5985,108 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1392637.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1392638.ts
 #EXTINF:-1 group-title="NORWAY TV2 PLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/norway/NORWAY.png" tvg-id="",####### TV2 PLAY ᴿᴬᵂ #######
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1622778.ts
+#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",Rally del Paraguay: Søndag @ Aug 30 11:35 AM :VG  01
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134499.ts
 #EXTINF:-1 group-title="NORWAY TV2 PLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/norway/TV2DIREKTE.png" tvg-id="",NOR| TV 2 DIREKTE ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1622777.ts
+#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",AIK - Hammarby @ Aug 30 13:50 PM :VG  02
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134498.ts
 #EXTINF:-1 group-title="NORWAY TV2 PLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/norway/TV2ZEBRA.png" tvg-id="",NOR| TV 2 ZEBRA ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1622776.ts
+#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",IFK Göteborg - Örgyte @ Aug 30 16:20 PM :VG  03
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134497.ts
 #EXTINF:-1 group-title="NORWAY TV2 PLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/norway/TV2LIVSSTIL.png" tvg-id="",NOR| TV 2 LIVSSTIL ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1622775.ts
+#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",Napoli - Como @ Aug 30 18:15 PM :VG  04
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134496.ts
 #EXTINF:-1 group-title="NORWAY TV2 PLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/norway/TV2NYHETER.png" tvg-id="",NOR| TV 2 NYHETER ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1622774.ts
+#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",Lazio - Genoa @ Aug 30 20:30 PM :VG  05
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134495.ts
 #EXTINF:-1 group-title="NORWAY TV2 PLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/norway/HITS.png" tvg-id="",NOR| HITS ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1622773.ts
+#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",Cagliari - Inter @ Aug 30 20:30 PM :VG  06
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134494.ts
 #EXTINF:-1 group-title="NORWAY TV2 PLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/norway/SFKANALEN.png" tvg-id="",NOR| SF-KANALEN ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1622772.ts
+#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",:VG  07
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134493.ts
 #EXTINF:-1 group-title="NORWAY TV2 PLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/norway/STARS.png" tvg-id="",NOR| STARS ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1622771.ts
+#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",:VG  08
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134492.ts
 #EXTINF:-1 group-title="NORWAY TV2 PLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/norway/TV2SPORT1.png" tvg-id="",NOR| TV 2 SPORT 1 ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1622770.ts
+#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",:VG  09
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134491.ts
 #EXTINF:-1 group-title="NORWAY TV2 PLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/norway/TV2SPORT2.png" tvg-id="",NOR| TV 2 SPORT 2 ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1622769.ts
+#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",:VG  10
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134490.ts
 #EXTINF:-1 group-title="NORWAY TV2 PLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/norway/TV2SPORTPREMIUM.png" tvg-id="",NOR| TV 2 SPORT PREMIUM ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1622768.ts
+#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",:VG  11
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134489.ts
 #EXTINF:-1 group-title="NORWAY TV2 PLAY ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/norway/TV2SPORTPREMIUM2.png" tvg-id="",NOR| TV 2 SPORT PREMIUM 2 ᴿᴬᵂ
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1622767.ts
+#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",:VG  12
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134488.ts
+#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",:VG  13
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134487.ts
+#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",:VG  14
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134486.ts
+#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",:VG  15
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134485.ts
+#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",:VG  16
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134484.ts
+#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",:VG  17
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134483.ts
+#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",:VG  18
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134482.ts
+#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",:VG  19
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134481.ts
+#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",:VG  20
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2134480.ts
 #EXTINF:-1 group-title="SE| SWEDEN" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/SVT1.png" tvg-id="SVT1.se",SE| SVT 1 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/395728.ts
-#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",Finale Sverresborg 20km klassisk @ Aug 23 12:45 PM :VG  01
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134499.ts
 #EXTINF:-1 group-title="SE| SWEDEN" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/SVT2.png" tvg-id="SVT2.se",SE| SVT 2 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/395727.ts
-#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",Greuther Fürth - Bochum @ Aug 23 12:50 PM :VG  02
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134498.ts
 #EXTINF:-1 group-title="SE| SWEDEN" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/SVT24.png" tvg-id="SVT24.se",SE| SVT 24/B HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/395726.ts
-#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",SSV Jeddeloh - Heidenheim @ Aug 23 12:50 PM :VG  03
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134497.ts
 #EXTINF:-1 group-title="SE| SWEDEN" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/TV3.png" tvg-id="TV3.se",SE| TV 3 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/395725.ts
-#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",Västerås - Kalmar FF @ Aug 23 13:50 PM :VG  04
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134496.ts
 #EXTINF:-1 group-title="SE| SWEDEN" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/TV4.png" tvg-id="TV4.se",SE| TV 4 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/395724.ts
-#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",IFK Göteborg - Elfsborg @ Aug 23 13:50 PM :VG  05
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134495.ts
 #EXTINF:-1 group-title="SE| SWEDEN" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/TV4FAKTA.png" tvg-id="TV4Fakta.se",SE| TV 4 FAKTA
 http://line.weharmony.store/live/a8da78f521/bc62145d78/395723.ts
-#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",Lidl Deutschland Tour: 4. etappe @ Aug 23 13:50 PM :VG  06
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134494.ts
 #EXTINF:-1 group-title="SE| SWEDEN" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/TV4GULD.png" tvg-id="TV4Guld.se",SE| TV 4 GULD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/395722.ts
-#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",Westfalia Rhynern - Dynamo Dresden @ Aug 23 15:20 PM :VG  07
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134493.ts
 #EXTINF:-1 group-title="SE| SWEDEN" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/TV4FILM.png" tvg-id="TV4Film.se",SE| TV 4 FILM
 http://line.weharmony.store/live/a8da78f521/bc62145d78/395721.ts
-#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",Bahlinger SC - 1. FC Magdeburg @ Aug 23 15:20 PM :VG  08
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134492.ts
 #EXTINF:-1 group-title="SE| SWEDEN" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/KANAL5.png" tvg-id="Kanal5.se",SE| KANAL 5 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/395714.ts
-#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",Carl Zeiss Jena - Darmstadt @ Aug 23 15:20 PM :VG  09
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134491.ts
 #EXTINF:-1 group-title="SE| SWEDEN" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/TV6.png" tvg-id="TV6.se",SE| TV 6 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/395719.ts
-#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",VfB Krieschow -  Mainz @ Aug 23 15:20 PM :VG  10
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134490.ts
 #EXTINF:-1 group-title="SE| SWEDEN" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/SJUAN.png" tvg-id="Sjuan.se",SE| SJUAN HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/395715.ts
-#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",TSV Schott Mainz - Borussia Mönchengladbach @ Aug 23 15:20 PM :VG  11
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134489.ts
 #EXTINF:-1 group-title="SE| SWEDEN" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/TV8.png" tvg-id="TV8.se",SE| TV 8 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/395718.ts
-#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",Eintr. Braunschweig - Union Berlin @ Aug 23 15:20 PM :VG  12
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134488.ts
 #EXTINF:-1 group-title="SE| SWEDEN" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/KANAL9.png" tvg-id="Kanal9.se",SE| KANAL 9 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/395713.ts
-#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",Brommapojkarna - Degerfors @ Aug 23 16:20 PM :VG  13
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134487.ts
 #EXTINF:-1 group-title="SE| SWEDEN" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/TV10.png" tvg-id="TV10.se",SE| TV 10 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/395717.ts
-#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",Hammarby - Gais @ Aug 23 16:20 PM :VG  14
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134486.ts
 #EXTINF:-1 group-title="SE| SWEDEN" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/KANAL11.png" tvg-id="Kanal11.se",SE| KANAL 11 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/395712.ts
-#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",Følg og hør Newcastle - Liverpool på LFCTV @ Aug 23 16:30 PM :VG  15
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134485.ts
 #EXTINF:-1 group-title="SE| SWEDEN" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/TV12.png" tvg-id="TV12.se",SE| TV 12 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/395716.ts
-#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",1. FC Phönix Lübeck - Paderborn @ Aug 23 17:50 PM :VG  16
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134484.ts
 #EXTINF:-1 group-title="SE| SWEDEN" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/SF-KANALEN.png" tvg-id="SFkanalen.se",SE| SF-KANALEN
 http://line.weharmony.store/live/a8da78f521/bc62145d78/395720.ts
-#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",Rot-Weiss Essen - St.Pauli @ Aug 23 17:50 PM :VG  17
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134483.ts
 #EXTINF:-1 group-title="SE| SWEDEN" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/VIASATSPORTPREMIUM.png" tvg-id="ViasatSportPremium.se",SE| VIASAT SPORT PREMIUM HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/395735.ts
-#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",Fortuna Düsseldorf - Freiburg @ Aug 23 17:50 PM :VG  18
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134482.ts
 #EXTINF:-1 group-title="SE| SWEDEN" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/VFOTBOLL.png" tvg-id="ViasatFotboll.se",SE| VIASAT FOTBOLL HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/395700.ts
-#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",Venezia - Lecce @ Aug 23 18:15 PM :VG  19
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134481.ts
 #EXTINF:-1 group-title="SE| SWEDEN" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/VIASATSPORT.png" tvg-id="ViasatSport.se",SE| VIASAT SPORT HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/395737.ts
-#EXTINF:-1 group-title="NORWAY VG+ PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/VGPLUS.png" tvg-id="",Frosinone - Juventus @ Aug 23 18:15 PM :VG  20
-http://line.weharmony.store/live/a8da78f521/bc62145d78/2134480.ts
 #EXTINF:-1 group-title="SE| SWEDEN" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/VSPORT1LIVE.png" tvg-id="VSportLive1.se",SE| V SPORT LIVE 1 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1109061.ts
 #EXTINF:-1 group-title="SE| SWEDEN" tvg-logo="http://51.158.145.100/picons/logos/SWEDENNEW/VIASATSPORTEXTRA.png" tvg-id="ViasatSportExtra.se",SE| VIASAT SPORT EXTRA HD
@@ -6239,115 +6239,115 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/395640.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/395638.ts
 #EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",##### DAZN PPV #####
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1363198.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | Real Estelí vs. Diriangén | Primera Division - Nicaragua | 2026-08-23 | 01:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | Diriangén FC vs. ART Municipal Jalapa | Primera Division - Nicaragua | 2026-08-30 | 00:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 1
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048726.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | Cowboys @ Cardinals | NFL Game Pass | 2026-08-23 | 02:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 2
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | Nomads United FC vs. Selwyn United FC | National League - New Zealand | 2026-08-30 | 01:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 2
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048725.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | Napier City Rovers vs. Miramar | National League - New Zealand | 2026-08-23 | 02:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 3
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | NFL GameDay Final | NFL Game Pass | 2026-08-30 | 01:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 3
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048724.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Kauno Rajono FA vs. FK Žalgiris | A Lyga Women - Lithuania | 2026-08-23 | 09:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 4
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | Guyana Defence Force FC vs. Monedderlust FC | GFF Elite League - Guyana | 2026-08-30 | 01:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 4
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048723.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Machokha FC vs. LCS FC | Premier League - Lesotho | 2026-08-23 | 11:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 5
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | Ferrymead Bays FC vs. Dunedin City Royals FC | National League - New Zealand | 2026-08-30 | 01:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 5
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048722.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Civil Service United vs. MAFCO FC | FDH Bank Premiership - Malawi | 2026-08-23 | 12:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 6
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | Matagalpa FC vs. Rancho Santana FC | Primera Division - Nicaragua | 2026-08-30 | 01:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 6
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048721.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Mitundu Baptist vs. FCB Nyasa Big Bullets | FDH Bank Premiership - Malawi | 2026-08-23 | 12:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 7
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | Nelson Suburbs FC vs. Cashmere Technical FC | National League - New Zealand | 2026-08-30 | 01:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 7
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048720.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Silver Strikers vs. Dedza Dynamos FC | FDH Bank Premiership - Malawi | 2026-08-23 | 12:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 8
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | America’s Game: 2025 Seattle Seahawks | NFL Game Pass | 2026-08-30 | 02:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 8
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048719.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Karonga United vs. Chitipa United | FDH Bank Premiership - Malawi | 2026-08-23 | 12:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | NASCAR GP Czech Republic - NASCAR Open Race 2 | NASCAR Euro Series | 2026-08-30 | 08:25 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 9
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048718.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Le Messager vs. Muzinga | Ligue A - Burundi | 2026-08-23 | 13:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 10
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | Siheung City vs. Pocheon Citizen | K3 League - South Korea | 2026-08-30 | 08:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 10
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048717.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Vital'O vs. Ngozi City | Ligue A - Burundi | 2026-08-23 | 13:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 11
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | Ulsan Citizen vs. Busan Transportation Corporation FC | K3 League - South Korea | 2026-08-30 | 10:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 11
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048716.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | ADIFFEM vs. Academia Puerto Cabello | Liga FUTVE - Venezuela | 2026-08-23 | 13:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 12
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | Rukinzo vs. Olympic Star | Ligue A - Burundi | 2026-08-30 | 11:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 12
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048715.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Olympic Star vs. Royal Vision | Ligue A - Burundi | 2026-08-23 | 13:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 13
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | NASCAR GP Czech Republic - NASCAR Pro Race 2 | NASCAR Euro Series | 2026-08-30 | 12:15 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 13
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048714.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Flambeau du Centre vs. Aigle Noir | Ligue A - Burundi | 2026-08-23 | 13:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 14
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",End | IRONMAN 70.3 Zell am See-Kaprun | IRONMAN Pro Series | 2026-08-30 | 08:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 14
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048713.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Final | Suriname vs. Guyana | CFU Challenge Series Boys U14 | 2026-08-23 | 13:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 15
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 15
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048712.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Manonyane FC vs. Bantu | Premier League - Lesotho | 2026-08-23 | 13:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 16
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 16
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048711.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Nsingizini Hotspurs vs. Costa do Sol | CAF Women's Champions League - COSAFA Qualifier | 2026-08-23 | 14:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 17
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 17
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048710.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | CODEA vs. COFUTPA | Segunda División Femenina de Costa Rica - Costa Rica | 2026-08-23 | 15:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 18
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 18
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048709.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Forte Virtus vs. Emirates Club | Division 1 - UAE | 2026-08-23 | 15:15 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 19
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 19
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048708.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Dibba Al Hisn vs. Al Hamriyah | Division 1 - UAE | 2026-08-23 | 15:15 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 20
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 20
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048707.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Final | Haiti vs. Jamaica | CFU Challenge Series Boys U14 | 2026-08-23 | 15:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 21
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 21
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048706.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Mamelodi Sundowns Ladies vs. Silver Strikers | CAF Women's Champions League - COSAFA Qualifier | 2026-08-23 | 17:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 22
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 22
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048705.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | FSC 37 - London | Fightstar Championship | 2026-08-23 | 18:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 23
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 23
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048704.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | EWC 2026 - Closing Ceremony | Esports World Cup | 2026-08-23 | 18:15 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 24
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 24
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048703.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Dinamo City vs. Vora | Superliga - Albania | 2026-08-23 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 25
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 25
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048702.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Egnatia Rrogozhinë vs. Tirana | Superliga - Albania | 2026-08-23 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 26
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 26
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048701.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Ávila vs. Monagas - B | Segunda División - Venezuela | 2026-08-23 | 19:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 27
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | AEW: All In London 2026 - Buy-In | All Elite Wrestling | 2026-08-30 | 15:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 27
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048700.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Mineros de Guayana vs. Aragua | Segunda División - Venezuela | 2026-08-23 | 19:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 28
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Glentoran vs. Cliftonville | Sports Direct Women’s Premiership | 2026-08-30 | 15:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 28
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048699.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Atlético Barinas vs. Ureña | Segunda División - Venezuela | 2026-08-23 | 19:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 29
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Emirates Club vs. Palm City | Division 1 - UAE | 2026-08-30 | 15:05 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 29
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048698.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | El Vigía vs. Barquisimeto | Segunda División - Venezuela | 2026-08-23 | 19:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 30
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Al Hamriyah vs. Forte Virtus | Division 1 - UAE | 2026-08-30 | 15:10 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 30
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048697.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | UNA vs. AD San Carlos | Segunda División Femenina de Costa Rica - Costa Rica | 2026-08-23 | 20:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 31
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Final | Pickering FC vs. North Mississauga SC | Girls' PDP U-15 Cup | 2026-08-30 | 15:15 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 31
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048696.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Dynamo Puerto vs. Deportivo Miranda | Segunda División - Venezuela | 2026-08-23 | 20:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 32
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | UNA vs. CODEA | Segunda División Femenina de Costa Rica - Costa Rica | 2026-08-30 | 16:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 32
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048695.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Harlem United SC vs. Pointe Michel FC | DFA Premier League - Dominica | 2026-08-23 | 21:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 33
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Aigle Noir vs. Young Star | Ligue A - Burundi | 2026-08-30 | 16:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 33
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048694.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Municipal Jalapa vs. Matagalpa | Primera Division - Nicaragua | 2026-08-23 | 21:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 34
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Final | Ottawa South United SC vs. Woodbridge SC | Boys' PDP U-15 Cup | 2026-08-30 | 17:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 34
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048693.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Rancho Santana vs. San Marcos FC | Primera Division - Nicaragua | 2026-08-23 | 22:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 35
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | 3rd-Place Match | Fusion FC Richmond vs. Edmonton BTB SC | Boys' PDP U-17 Cup | 2026-08-30 | 17:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 35
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048692.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Portsmouth Bombers FC vs. Dublanc FC | DFA Premier League - Dominica | 2026-08-23 | 22:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 36
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | 7th-Place Match | Surrey United SC vs. Calgary South West United | Boys' PDP U-15 Cup | 2026-08-30 | 17:45 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 36
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048691.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Cincinnati Open Final: Gauff vs. Pegula | Western & Southern Open | 2026-08-23 | 23:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 37
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | 5th-Place Match | Burnaby FC vs. Vaughan SC Azzurri | Girls' PDP U-17 Cup | 2026-08-30 | 18:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 37
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048690.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Middleham United FC vs. We United FC | DFA Premier League - Dominica | 2026-08-23 | 23:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 38
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Bolívar SC vs. Ávila FC | Segunda División - Venezuela | 2026-08-30 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 38
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048689.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 39
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | KF Teuta vs. KF Tirana | Superliga - Albania | 2026-08-30 | 19:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 39
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048688.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 40
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Deportivo Miranda vs. Monagas B | Segunda División - Venezuela | 2026-08-30 | 19:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 40
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048687.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 41
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Ureña SC vs. El Vigía FC | Segunda División - Venezuela | 2026-08-30 | 19:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 41
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048686.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 42
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Puerto Cabello B vs. Real Frontera | Segunda División - Venezuela | 2026-08-30 | 19:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 42
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048685.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 43
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | 5th-Place Match | Edmonton BTB SC vs. Coquitlam Metro-Ford SC | Boys' PDP U-15 Cup | 2026-08-30 | 20:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 43
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048684.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 44
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Final | Woodbridge SC vs. Vaughan SC Azzurri | Boys' PDP U-17 Cup | 2026-08-30 | 20:15 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 44
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048683.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 45
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Somos La Unión vs. Talamanqueña | Segunda División Femenina de Costa Rica - Costa Rica | 2026-08-30 | 20:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 45
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048682.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 46
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | 7th-Place Match | Calgary Foothills SC vs. Calgary Rangers SC | Girls' PDP U-17 Cup | 2026-08-30 | 20:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 46
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048681.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 47
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Barquisimeto SC vs. Yaracuyanos FC | Segunda División - Venezuela | 2026-08-30 | 20:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 47
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048680.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 48
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | CS Sébaco vs. Real Estelí FC | Primera Division - Nicaragua | 2026-08-30 | 21:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 48
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048679.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 49
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Vieux Fort South vs. Central Castries | Premier League - St. Lucia | 2026-08-30 | 22:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 49
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048678.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 50
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Hard Rock FC vs. St David's FC | Premier League - Grenada | 2026-08-30 | 22:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 50
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048677.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 51
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Mighty Avengers vs. Dublanc FC | DFA Premier League - Dominica | 2026-08-30 | 22:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 51
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048676.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 52
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | 7th-Place Match | McKenzie United SC vs. Burnaby FC | Boys' PDP U-17 Cup | 2026-08-30 | 22:30 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 52
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048675.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 53
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | 5th-Place Match | CS Saint-Laurent vs. Spatial CS St-Hubert | Boys' PDP U-17 Cup | 2026-08-30 | 23:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 53
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048674.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 54
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | Final | Woodbridge SC vs. Surrey United SC | Girls' PDP U-17 Cup | 2026-08-30 | 23:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 54
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048673.ts
-#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 55
+#EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",Next | San Marcos FC vs. CD Walter Ferretti | Primera Division - Nicaragua | 2026-08-30 | 23:00 (GMT) | 8K EXCLUSIVE | SE: DAZN PPV 55
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048672.ts
 #EXTINF:-1 group-title="SWEDEN DAZN PPV" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" tvg-id="",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | SE: DAZN PPV 56
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2048671.ts
@@ -6703,155 +6703,155 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/79916.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/79917.ts
 #EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  101
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991539.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Nexo Championship vs Final Round @ Aug 23 12:30 :TeliaPlay SE  02
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Aragon GP vs Kval @ Aug 29 10:40 :TeliaPlay SE  02
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991538.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Hacken vs AIK @ Aug 23 12:50 :TeliaPlay SE  03
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Alliansloppet: 48 km @ Aug 29 12:00 :TeliaPlay SE  03
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991537.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",IK Oddevold vs Helsingborgs IF @ Aug 23 12:50 :TeliaPlay SE  04
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Aragon GP Moto3 vs Kval @ Aug 29 12:40 :TeliaPlay SE  04
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991536.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",West Bromwich vs Burnley @ Aug 23 12:55 :TeliaPlay SE  05
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Landskrona BoIS vs Ostersunds FK @ Aug 29 12:50 :TeliaPlay SE  05
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991535.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Studio Allsvenskan @ Aug 23 13:30 :TeliaPlay SE  06
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Ljungskile SK vs IFK Varnamo @ Aug 29 12:50 :TeliaPlay SE  06
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991534.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Allsvenskan: Goteborg vs Elfsborg @ Aug 23 13:30 :TeliaPlay SE  07
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Karlsruher vs Wolfsburg @ Aug 29 12:55 :TeliaPlay SE  07
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991533.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Allsvenskan: Vasteras vs Kalmar @ Aug 23 13:45 :TeliaPlay SE  08
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",British Masters vs Day 3 @ Aug 29 13:00 :TeliaPlay SE  08
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991532.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Sail GP: Sassnitz @ Aug 23 14:00 :TeliaPlay SE  09
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Middlesbrough vs West Bromwich @ Aug 29 13:22 :TeliaPlay SE  09
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991531.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Premier Sunday Forstudio @ Aug 23 14:00 :TeliaPlay SE  10
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Derby vs Swansea @ Aug 29 13:22 :TeliaPlay SE  10
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991530.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Ridsport: VM Hoppning @ Aug 23 14:05 :TeliaPlay SE  11
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Wolverhampton vs Stoke @ Aug 29 13:22 :TeliaPlay SE  11
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991529.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Nederlanderna GP vs Race @ Aug 23 14:30 :TeliaPlay SE  12
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Aragon GP Moto2 vs Kval @ Aug 29 13:30 :TeliaPlay SE  12
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991528.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Tingsrydtravet @ Aug 23 14:30 :TeliaPlay SE  13
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Fotboll: Damallsvenskan Rosengard vs Hacken @ Aug 29 13:50 :TeliaPlay SE  13
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991527.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",IK Brage vs Nordic United FC @ Aug 23 14:50 :TeliaPlay SE  14
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Aragon GP vs Sprint Race @ Aug 29 14:30 :TeliaPlay SE  14
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991526.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",VOLLEYBOLL: EM 2026 INRAMNING (DAMER) FrankrikeKroatien @ Aug 23 14:55 :TeliaPlay SE  15
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Allsvenskan: Hacken vs Vasteras @ Aug 29 14:45 :TeliaPlay SE  15
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991525.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Tacoma, WA vs Henderson, NV @ Aug 23 14:55 :TeliaPlay SE  16
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Allsvenskan: Elfsborg vs Degerfors @ Aug 29 14:45 :TeliaPlay SE  16
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991524.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Brighton vs Aston Villa @ Aug 23 14:55 :TeliaPlay SE  17
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Falkenbergs FF vs IK Brage @ Aug 29 14:50 :TeliaPlay SE  17
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991523.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Nederlandernas GP vs Race @ Aug 23 14:55 :TeliaPlay SE  18
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Hammarby vs Vittsjo @ Aug 29 14:50 :TeliaPlay SE  18
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991522.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Angers vs Lille @ Aug 23 14:55 :TeliaPlay SE  19
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Leipzig vs Monchengladbach @ Aug 29 15:25 :TeliaPlay SE  19
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991521.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Manchester City vs Bournemouth @ Aug 23 14:55 :TeliaPlay SE  20
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Forstudio med Stryktipset @ Aug 29 15:45 :TeliaPlay SE  20
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991520.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Friidrott: Diamond league Chrozow @ Aug 23 15:30 :TeliaPlay SE  21
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Watford vs West Ham @ Aug 29 15:52 :TeliaPlay SE  21
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991519.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Allsvenskan: Hammarby vs GAIS @ Aug 23 16:00 :TeliaPlay SE  22
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Bruno Classic (Morning Session) @ Aug 29 15:55 :TeliaPlay SE  22
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991518.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Ridsport: VM Hoppning Del 2 @ Aug 23 16:03 :TeliaPlay SE  23
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Bournemouth vs Everton @ Aug 29 15:55 :TeliaPlay SE  23
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991517.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Allsvenskan: Brommapojkarna vs Degerfors @ Aug 23 16:15 :TeliaPlay SE  24
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Coventry vs Hull @ Aug 29 15:55 :TeliaPlay SE  24
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991516.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",IF Brommapojkarna vs Degerfors IF @ Aug 23 16:15 :TeliaPlay SE  25
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Levante vs Real Betis @ Aug 29 16:50 :TeliaPlay SE  25
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991515.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Premier Sunday Studio @ Aug 23 16:30 :TeliaPlay SE  26
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Nordic United FC vs IFK Norrkoping @ Aug 29 16:50 :TeliaPlay SE  26
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991514.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Atletico de Madrid vs Villarreal @ Aug 23 16:48 :TeliaPlay SE  27
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Friidrott: Finnkampen @ Aug 29 17:00 :TeliaPlay SE  27
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991513.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Norrby IF vs Sandvikens IF @ Aug 23 16:50 :TeliaPlay SE  28
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Snap vs on Milwaukee Mile 250 vs Kval @ Aug 29 17:00 :TeliaPlay SE  28
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991512.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Tijuana, Baja California vs Leon, Nicaragua @ Aug 23 16:55 :TeliaPlay SE  29
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Allsvenskan: Halmstad vs Kalmar @ Aug 29 17:15 :TeliaPlay SE  29
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991511.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Le Havre vs Monaco @ Aug 23 17:10 :TeliaPlay SE  30
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",North Carolina vs TCU @ Aug 29 17:55 :TeliaPlay SE  30
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991510.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Newcastle vs Liverpool @ Aug 23 17:25 :TeliaPlay SE  31
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Robert Morris vs Wagner @ Aug 29 17:55 :TeliaPlay SE  31
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991509.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Indianapolis vs Final Round @ Aug 23 17:30 :TeliaPlay SE  32
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Efterstudio med Stryktipset @ Aug 29 18:00 :TeliaPlay SE  32
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991508.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Freedom 250 Grand Prix vs Pre Race @ Aug 23 17:30 :TeliaPlay SE  33
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Bergsaker @ Aug 29 18:00 :TeliaPlay SE  33
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991507.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Volleyboll: EM Sverige vs Italien @ Aug 23 17:45 :TeliaPlay SE  34
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Dortmund vs Hamburg @ Aug 29 18:20 :TeliaPlay SE  34
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991506.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Seton Hall vs Campbell @ Aug 23 17:55 :TeliaPlay SE  35
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Tottenham vs Newcastle @ Aug 29 18:25 :TeliaPlay SE  35
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991505.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Serie A: Venezia vs Lecce @ Aug 23 18:25 :TeliaPlay SE  36
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Tokyo, Japan vs Willemstad, Curacao @ Aug 29 18:25 :TeliaPlay SE  36
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991504.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Frosinone vs Juventus @ Aug 23 18:25 :TeliaPlay SE  37
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Sassuolo vs Torino @ Aug 29 18:25 :TeliaPlay SE  37
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991503.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",#8 Texas A&M vs #11 SMU @ Aug 23 18:55 :TeliaPlay SE  38
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Monza vs Udinese @ Aug 29 18:25 :TeliaPlay SE  38
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991502.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",#5 Michigan State vs #7 North Carolina @ Aug 23 18:55 :TeliaPlay SE  39
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Fiorentina vs Frosinone @ Aug 29 18:25 :TeliaPlay SE  39
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991501.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Davenport, IA vs Bayonne, NJ @ Aug 23 18:55 :TeliaPlay SE  40
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Real Sociedad vs Espanyol @ Aug 29 18:50 :TeliaPlay SE  40
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991500.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Mercyhurst vs Toledo @ Aug 23 18:55 :TeliaPlay SE  41
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Academico Viseu vs Porto @ Aug 29 18:55 :TeliaPlay SE  41
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991499.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Freedom 250 Grand Prix vs Race @ Aug 23 19:00 :TeliaPlay SE  42
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Miami (OH) vs Indiana @ Aug 29 18:55 :TeliaPlay SE  42
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991498.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Getafe vs Racing Santander @ Aug 23 19:20 :TeliaPlay SE  43
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Central Connecticut vs South Dakota @ Aug 29 19:55 :TeliaPlay SE  43
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991497.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Premier Sunday Efterstudio @ Aug 23 19:30 :TeliaPlay SE  44
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Nurnberg vs Arminia Bielefeld @ Aug 29 20:25 :TeliaPlay SE  44
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991496.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Willemstad, Curacao vs Seoul, South Korea @ Aug 23 19:55 :TeliaPlay SE  45
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Snap vs on Makers And Fixers 250 vs Race @ Aug 29 20:30 :TeliaPlay SE  45
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991495.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",#3 Florida State vs Florida @ Aug 23 19:55 :TeliaPlay SE  46
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Juventus vs Parma @ Aug 29 20:35 :TeliaPlay SE  46
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991494.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Florida Gulf Coast vs LSU @ Aug 23 19:55 :TeliaPlay SE  47
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Lyon vs Le Havre @ Aug 29 20:40 :TeliaPlay SE  47
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991493.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Serie A: Torino vs Milan @ Aug 23 20:35 :TeliaPlay SE  48
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Lorient vs Troyes @ Aug 29 20:40 :TeliaPlay SE  48
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991492.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Atalanta vs Sassuolo @ Aug 23 20:40 :TeliaPlay SE  49
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Brest vs Toulouse @ Aug 29 20:40 :TeliaPlay SE  49
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991491.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",PSG vs Rennes @ Aug 23 20:40 :TeliaPlay SE  50
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Auxerre vs Angers @ Aug 29 20:40 :TeliaPlay SE  50
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991490.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Winston vs Salem Open (250) @ Aug 23 21:00 :TeliaPlay SE  51
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Coppin State vs Virginia Tech @ Aug 29 20:55 :TeliaPlay SE  51
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991489.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Elche vs Barcelona @ Aug 23 21:18 :TeliaPlay SE  52
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Bruno Classic (Afternoon Session) @ Aug 29 20:55 :TeliaPlay SE  52
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991488.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",California Baptist vs Duke @ Aug 23 21:25 :TeliaPlay SE  53
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Southern vs Alabama State @ Aug 29 20:55 :TeliaPlay SE  53
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991487.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Porto vs Arouca @ Aug 23 21:25 :TeliaPlay SE  54
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",FM Championship vs Day 3 @ Aug 29 21:00 :TeliaPlay SE  54
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991486.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Beachvolleyboll: Beach Pro Tour Bronsmatch @ Aug 23 21:55 :TeliaPlay SE  55
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Sevilla vs Atletico Madrid @ Aug 29 21:15 :TeliaPlay SE  55
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991485.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",#4 Pittsburgh vs #3 Kentucky @ Aug 23 21:55 :TeliaPlay SE  56
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",NC State vs Virginia @ Aug 29 21:25 :TeliaPlay SE  56
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991484.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",UC Irvine vs #1 Stanford @ Aug 23 21:55 :TeliaPlay SE  57
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Hamilton, OH vs Henderson, NV @ Aug 29 21:25 :TeliaPlay SE  57
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991483.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",U.S. Senior Womens Open vs Day 2 @ Aug 23 22:00 :TeliaPlay SE  58
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Tarleton State vs Arizona @ Aug 29 21:25 :TeliaPlay SE  58
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991482.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",ATP TOUR: Cincinnati Open 1000 @ Aug 23 22:30 :TeliaPlay SE  59
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",ATP TOUR: Winston vs Salem Open 250 @ Aug 29 22:00 :TeliaPlay SE  59
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991481.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Siena vs Boston College @ Aug 23 22:55 :TeliaPlay SE  60
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Rally vs VM: Paraguay @ Aug 29 22:00 :TeliaPlay SE  60
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991480.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Beachvolleyboll: Beach Pro Tour Final @ Aug 23 23:55 :TeliaPlay SE  61
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Furman vs Georgia @ Aug 29 23:55 :TeliaPlay SE  61
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991479.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Rhode Island vs #2 Duke @ Aug 23 23:55 :TeliaPlay SE  62
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Loyola Marymount vs California @ Aug 29 23:55 :TeliaPlay SE  62
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991478.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Belmont vs Louisville @ Aug 24 00:55 :TeliaPlay SE  63
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",The Citadel vs Wofford @ Aug 29 23:55 :TeliaPlay SE  63
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991477.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",CPKC Women's Open vs Final Round @ Aug 24 01:00 :TeliaPlay SE  64
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Fairfield vs #22 Tennessee @ Aug 29 23:55 :TeliaPlay SE  64
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991476.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Denver vs #9 Stanford @ Aug 24 03:55 :TeliaPlay SE  65
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Denver Outlaws vs California Redwoods (Quarterfinals) @ Aug 29 23:55 :TeliaPlay SE  65
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991475.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  66
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Sacramento State vs Eastern Michigan @ Aug 30 00:25 :TeliaPlay SE  66
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991474.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  67
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",East Texas A&M vs Mercer @ Aug 30 00:55 :TeliaPlay SE  67
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991473.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  68
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Stetson vs South Dakota State @ Aug 30 00:55 :TeliaPlay SE  68
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991472.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  69
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Hawai'i vs Stanford @ Aug 30 00:55 :TeliaPlay SE  69
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991471.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  70
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",New Mexico State vs Florida State @ Aug 30 00:55 :TeliaPlay SE  70
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991470.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  71
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Alabama A&M vs Howard @ Aug 30 01:32 :TeliaPlay SE  71
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991469.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  72
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Central Arkansas vs #23 Colorado @ Aug 30 01:55 :TeliaPlay SE  72
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991468.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  73
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Maryland Whipsnakes vs Boston Cannons (Quarterfinals) @ Aug 30 02:25 :TeliaPlay SE  73
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991467.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  74
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Prairie View A&M vs Tarleton State @ Aug 30 02:55 :TeliaPlay SE  74
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991466.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  75
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Southern Utah vs Montana @ Aug 30 02:55 :TeliaPlay SE  75
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991465.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  76
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",Montana State vs Utah Tech @ Aug 30 03:55 :TeliaPlay SE  76
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991464.ts
 #EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://51.158.145.100/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  77
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991463.ts
@@ -9791,7 +9791,7 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/777854.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/773986.ts
 #EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - PASSIE XXX 4k TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/777780.ts
-#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - PUBLIC AGENT TV
+#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - BIG TITS TV (2)
 http://line.weharmony.store/live/a8da78f521/bc62145d78/131891.ts
 #EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - EROTIC 5 TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/774032.ts
@@ -9825,7 +9825,7 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/774038.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/777827.ts
 #EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - DICK DRAINERS FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/777822.ts
-#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - PUBLIC AGENT
+#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - BIG DICK TV (2)
 http://line.weharmony.store/live/a8da78f521/bc62145d78/773985.ts
 #EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - DORCEL FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/777819.ts
@@ -10029,43 +10029,4 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/774043.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/774037.ts
 #EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - SKYE BLUE TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/774004.ts
-#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - FAP TV 2
-http://line.weharmony.store/live/a8da78f521/bc62145d78/207934.ts
-#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - GIRLS SQUIRT TV
-http://line.weharmony.store/live/a8da78f521/bc62145d78/309885.ts
-#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - TEEN TV
-http://line.weharmony.store/live/a8da78f521/bc62145d78/774063.ts
-#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - SUPERONE TV (2)
-http://line.weharmony.store/live/a8da78f521/bc62145d78/774027.ts
-#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - THREESOME
-http://line.weharmony.store/live/a8da78f521/bc62145d78/774064.ts
-#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - THREESOME TV
-http://line.weharmony.store/live/a8da78f521/bc62145d78/777848.ts
-#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - DUSK TV
-http://line.weharmony.store/live/a8da78f521/bc62145d78/774026.ts
-#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - SKINNY GIRLS TV
-http://line.weharmony.store/live/a8da78f521/bc62145d78/774000.ts
-#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - MATURE TV
-http://line.weharmony.store/live/a8da78f521/bc62145d78/773959.ts
-#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - VIVID
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1779872.ts
-#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - VIVID RED
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1779873.ts
-#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - SATISFACTION ITALY
-http://line.weharmony.store/live/a8da78f521/bc62145d78/1779871.ts
-#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - WOMAN TV
-http://line.weharmony.store/live/a8da78f521/bc62145d78/777823.ts
-#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - SATISFACTION ITALY TV
-http://line.weharmony.store/live/a8da78f521/bc62145d78/773994.ts
-#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - LATINA GIRLS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/550704.ts
-#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - VIXEN
-http://line.weharmony.store/live/a8da78f521/bc62145d78/53055.ts
-#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - CENTOXCENTO TV
-http://line.weharmony.store/live/a8da78f521/bc62145d78/138461.ts
-#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - ALBA XXX 4
-http://line.weharmony.store/live/a8da78f521/bc62145d78/774017.ts
-#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="nl.DUSK",XXX - MY 18 TEENS
-http://line.weharmony.store/live/a8da78f521/bc62145d78/773978.ts
-#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/XXX.png" tvg-id="",XXX - EROTIC 6 TV
-http://line.weharmony.store/live/a8da78f521/bc62145d78/774054.ts
+#EXTINF:-1 group-title="Z---EXIT---" tvg-logo="http://51.158.145.100/
