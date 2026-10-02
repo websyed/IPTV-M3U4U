@@ -1,4 +1,8 @@
 #EXTM3U x-generator="https://m3u4u.com/"
+#EXTINF:-1 group-title="0 - | DENMARK ᵁᴸᵀᴿᴬ ᴿᴬᵂ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14088.png?2867" tvg-id="dr1.dk",DK: DR1 ᵁᴸᵀᴿᴬ ᴿᴬᵂ
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/450607.ts
+#EXTINF:-1 group-title="0 - | DENMARK ᵁᴸᵀᴿᴬ ᴿᴬᵂ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10523.png?48430" tvg-id="dr2.dk",DK: DR2 ᵁᴸᵀᴿᴬ ᴿᴬᵂ
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/450606.ts
 #EXTINF:-1 group-title="0 - | DENMARK ᵁᴸᵀᴿᴬ ᴿᴬᵂ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14041.jpg?59511" tvg-id="drramasjang.dk",DK: DR Ramasjang ᵁᴸᵀᴿᴬ ᴿᴬᵂ
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/450604.ts
 #EXTINF:-1 group-title="0 - | DENMARK ᵁᴸᵀᴿᴬ ᴿᴬᵂ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14011.png?74781" tvg-id="",DK: SkyShowtime 1 ᵁᴸᵀᴿᴬ ᴿᴬᵂ
@@ -77,6 +81,10 @@ http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/454419.ts
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/454438.ts
 #EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14068.png?86123" tvg-id="viasathistory.dk",DK: V HISTORY ᵁᴸᵀᴿᴬ ᴿᴬᵂ *MULTI-SUB*
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/1457034.ts
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/bbcearthhd.png" tvg-id="",ENGLISH: BBC EARTH HD
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/441183.ts
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/discoveryworld.png" tvg-id="",ENGLISH: DISCOVERY WORLD HD
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/441177.ts
 #EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14068.png?48834" tvg-id="",GOLD: VIASAT HISTORY ᴿᴬᵂ
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2004239.ts
 #EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14077.png?11570" tvg-id="discovery.no",NO: DISCOVERY ᴴᴰ
@@ -93,14 +101,22 @@ http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/717711.ts
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/262725.ts
 #EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12219.jpg?89049" tvg-id="",UK: DISCOVERY HISTORY +1
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/707007.ts
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119" tvg-id="DiscoveryHistory.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK: DISCOVERY HISTORY ◉
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/162388.ts
 #EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12219.jpg?89049" tvg-id="",UK: DISCOVERY PLUS 4K
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/910033.ts
-#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/620.jpg?49739" tvg-id="DiscoveryScience.uk",UK: DISCOVERY SCIENCE
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/620.jpg?49739" tvg-id="discoveryscience.uk",UK: DISCOVERY SCIENCE
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/262726.ts
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" tvg-id="discoveryscience.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK: DISCOVERY SCIENCE ◉
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/162390.ts
 #EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?87470" tvg-id="DiscoveryChannel.uk",UK: DISCOVERY+ 4K
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/262724.ts
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119" tvg-id="TS" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK: HISTORY 2 4K ◉
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/162379.ts
 #EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3921.jpg?1338" tvg-id="",UK: HISTORY 2 HEVC 4K
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/717706.ts
+#EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119" tvg-id="TS" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK: HISTORY 4K ◉
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/162378.ts
 #EXTINF:-1 group-title="1 - | DOCUMENTORY" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?41366" tvg-id="",UK: HISTORY HEVC 4K
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/717707.ts
 #EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/60.jpg?97881" tvg-id="natgeo.ca",CA EN: NATIONAL GEOGRAPHIC HD
@@ -111,8 +127,16 @@ http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/1457062.ts
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/454439.ts
 #EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14069.png?67630" tvg-id="naturkanal1.no",NO: NATUR 1 KANAL ᴴᴰ
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/641170.ts
+#EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6620.png?67556" tvg-id="TS" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK: : NATIONAL GEOGRAPHIC +1 ◉
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/402155.ts
+#EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10167.jpg?30673" tvg-id="TS" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK: LOVE NATURE 4K ◉
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/162385.ts
 #EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/60.jpg?60971" tvg-id="NatGeo.uk",UK: NATIONAL GEO HEVC 4K
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/717708.ts
+#EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?52263" tvg-id="SkyNature.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK: SKY NATURE 4K ◉
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/162384.ts
+#EXTINF:-1 group-title="2 - | NATIONAL GEOGRAPHIC" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/616.png?39036" tvg-id="NatGeo.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK:: NATIONAL GEOGRAPHIC 4K ◉
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/162380.ts
 #EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?10765" tvg-id="AnimalPlanet.ca",CA EN: ANIMAL PLANET HD
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/414083.ts
 #EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/625.png?10713" tvg-id="natgeowild.ca",CA EN: NATIONAL GEOGRAPHIC WILD HD
@@ -121,20 +145,26 @@ http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/414081.ts
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/498794.ts
 #EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14043.jpg?62729" tvg-id="animalplanet.dk",DK: Animal Planet ᴿᴬᵂ *MULTI*
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/454431.ts
+#EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ANIMAL-PLANET-HD.png" tvg-id="AnimalPlanet.uk",ENGLISH: ANIMAL PLANET HD
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/441184.ts
+#EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1420.jpg?94762" tvg-id="",GOLD: NAT GEO WILD ᴿᴬᵂ
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2004236.ts
 #EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1433.jpg?56546" tvg-id="",GOLD: VIASAT EXPLORE ᴿᴬᵂ
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2004238.ts
 #EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14069.png?76757" tvg-id="",GOLD: VIASAT NATURE ᴿᴬᵂ
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2004237.ts
 #EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/730.jpg?62583" tvg-id="animalplanet.se",SE: ANIMAL PLANET ᴿᴬᵂ ⱽᴵᴾ
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/1712606.ts
+#EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/625.png?91005" tvg-id="NatGeoWild.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK: : NATIONAL GEOGRAPHIC WILD 4K ◉
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/162381.ts
 #EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?79811" tvg-id="AnimalPlanet.uk",UK: ANIMAL PLANET 4K
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/262729.ts
 #EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1395.png?11908" tvg-id="NatGeoWild.uk",UK: NAT GEO WILD HEVC 4K
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/717709.ts
-#EXTINF:-1 group-title="4 - | FOOD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3936.jpg?14020" tvg-id="FoodNetwork.ca",CA EN: FOOD NETWORK HD
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/414199.ts
-#EXTINF:-1 group-title="4 - | FOOD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3936.jpg?91255" tvg-id="FoodNetwork.ca",CA: FOOD NETWORK
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/498737.ts
+#EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?14808" tvg-id="animalplanet.us",US: ANIMAL PLANET HD
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/325780.ts
+#EXTINF:-1 group-title="3 - | NET-GEO+WILD+ANIMAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?93518" tvg-id="animalplanet.us",US: ANIMAL PLANET WEST HD
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/325844.ts
 #EXTINF:-1 group-title="4 - | FOOD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/FOOD-FOOD.jpeg" tvg-id="FoodFood.in",HINDI: FOOD FOOD HD
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/440376.ts
 #EXTINF:-1 group-title="4 - | FOOD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/livingfoodzhd.png" tvg-id="LivingFoodz.in",HINDI: LIVING FOODZ HD
@@ -143,6 +173,10 @@ http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/440387.ts
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/437689.ts
 #EXTINF:-1 group-title="4 - | FOOD" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/hummasala.png" tvg-id="HumMasala.pk",PK: HUM MASALA EU (2)
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/437765.ts
+#EXTINF:-1 group-title="4 - | FOOD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3936.jpg?14020" tvg-id="FoodNetwork.ca",CA EN: FOOD NETWORK HD
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/414199.ts
+#EXTINF:-1 group-title="4 - | FOOD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3936.jpg?91255" tvg-id="FoodNetwork.ca",CA: FOOD NETWORK
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/498737.ts
 #EXTINF:-1 group-title="4 - | FOOD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3936.jpg?55978" tvg-id="FoodNetwork.uk",UK: FOOD NETWORK
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/262722.ts
 #EXTINF:-1 group-title="4 - | FOOD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6168.png?81098" tvg-id="TS" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK: FOOD NETWORK +1 ◉
@@ -165,10 +199,12 @@ http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/717704.ts
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/717713.ts
 #EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10533.png?51986" tvg-id="tv2news.dk",DK: TV 2 News ᴿᴬᵂ
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/452265.ts
-#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14088.png?2867" tvg-id="dr1.dk",DK: DR1 ᵁᴸᵀᴿᴬ ᴿᴬᵂ
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/450607.ts
-#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10523.png?48430" tvg-id="dr2.dk",DK: DR2 ᵁᴸᵀᴿᴬ ᴿᴬᵂ
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/450606.ts
+#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10522.png?50633" tvg-id="",GOLD: DR 1 ᴿᴬᵂ
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2003614.ts
+#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10523.png?73871" tvg-id="",GOLD: DR 2 ᴿᴬᵂ
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2003613.ts
+#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14041.jpg?72407" tvg-id="",GOLD: DR TV A ᴿᴬᵂ
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2003611.ts
 #EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14082.png?74549" tvg-id="",DK: Al Jazeera ᵁᴸᵀᴿᴬ ᴿᴬᵂ
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/450545.ts
 #EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/192.png?24087" tvg-id="bbcworld.dk",DK: BBC World News ᵁᴸᵀᴿᴬ ᴿᴬᵂ
@@ -193,16 +229,14 @@ http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/437720.ts
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/437721.ts
 #EXTINF:-1 group-title="7 - | RELIGION" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/haditv1.png" tvg-id="",PK: HADI TV 1
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/437722.ts
-#EXTINF:-1 group-title="8 - | Favorite" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1877.jpg?61333" tvg-id="AandE.ca",CA: A & E
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/498798.ts
+#EXTINF:-1 group-title="8 - | Favorite" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" tvg-id="",IN-PREM: DILIP KUMAR CINEMA HD
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/1629384.ts
 #EXTINF:-1 group-title="8 - | Favorite" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" tvg-id="",IN-PREM: RAJESH KHANNA CINEMA HD
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/1629366.ts
 #EXTINF:-1 group-title="8 - | Favorite" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" tvg-id="",IN-PREM: RAAJ KUMAR CINEMA HD
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/1629368.ts
 #EXTINF:-1 group-title="8 - | Favorite" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" tvg-id="",IN-PREM: KISHORE KUMAR CINEMA HD
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/1629374.ts
-#EXTINF:-1 group-title="8 - | Favorite" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" tvg-id="",IN-PREM: DILIP KUMAR CINEMA HD
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/1629384.ts
 #EXTINF:-1 group-title="8 - | Favorite" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" tvg-id="",IN-PREM: DHARMENDRA CINEMA HD
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/1629385.ts
 #EXTINF:-1 group-title="8 - | Favorite" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" tvg-id="",IN-PREM: DEV ANAND CINEMA HD
@@ -231,18 +265,12 @@ http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/1629697.ts
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/262719.ts
 #EXTINF:-1 group-title="DK| DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Animated-Flag-Denmark.gif" tvg-id="",###### DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ ######
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2003623.ts
-#EXTINF:-1 group-title="DK| DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10522.png?50633" tvg-id="",GOLD: DR 1 ᴿᴬᵂ
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2003614.ts
-#EXTINF:-1 group-title="DK| DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10523.png?73871" tvg-id="",GOLD: DR 2 ᴿᴬᵂ
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2003613.ts
 #EXTINF:-1 group-title="DK| DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14088.png?20650" tvg-id="",GOLD: DR1 SYN ᴿᴬᵂ
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2003610.ts
 #EXTINF:-1 group-title="DK| DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10523.png?73249" tvg-id="",GOLD: DR2 SYN ᴿᴬᵂ
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2003609.ts
 #EXTINF:-1 group-title="DK| DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10532.jpg?90420" tvg-id="",GOLD: DR RAMASJANG ᴿᴬᵂ
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2003612.ts
-#EXTINF:-1 group-title="DK| DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14041.jpg?72407" tvg-id="",GOLD: DR TV A ᴿᴬᵂ
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2003611.ts
 #EXTINF:-1 group-title="DK| DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14622.png?81759" tvg-id="",GOLD: DK4 ᴿᴬᵂ
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2003615.ts
 #EXTINF:-1 group-title="DK| DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14031.png?48388" tvg-id="",GOLD: SEE ᴿᴬᵂ
@@ -315,8 +343,6 @@ http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2003559.ts
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2003556.ts
 #EXTINF:-1 group-title="DK| DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14049.jpg?23263" tvg-id="",GOLD: V SPORT GOLF ᴿᴬᵂ
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2004240.ts
-#EXTINF:-1 group-title="DK| DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1420.jpg?94762" tvg-id="",GOLD: NAT GEO WILD ᴿᴬᵂ
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2004236.ts
 #EXTINF:-1 group-title="DK| DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12518.png?92155" tvg-id="",GOLD: AKVARIUM ᴿᴬᵂ
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2003621.ts
 #EXTINF:-1 group-title="DK| DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12028.jpg?98177" tvg-id="",GOLD: BBC NEWS ᴿᴬᵂ
@@ -1759,10 +1785,6 @@ http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/441187.ts
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/441186.ts
 #EXTINF:-1 group-title="ASIA| ENGLISH" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/hbohd.png" tvg-id="HBO.us",ENGLISH: HBO HD
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/441185.ts
-#EXTINF:-1 group-title="ASIA| ENGLISH" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/ANIMAL-PLANET-HD.png" tvg-id="AnimalPlanet.uk",ENGLISH: ANIMAL PLANET HD
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/441184.ts
-#EXTINF:-1 group-title="ASIA| ENGLISH" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/bbcearthhd.png" tvg-id="",ENGLISH: BBC EARTH HD
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/441183.ts
 #EXTINF:-1 group-title="ASIA| ENGLISH" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/CNN.jpg" tvg-id="CNNNews18.in",ENGLISH: CNN NEWS
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/441182.ts
 #EXTINF:-1 group-title="ASIA| ENGLISH" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/comedycentralhd.png" tvg-id="ComedyCentral.uk",ENGLISH: COMEDY CENTRAL HD
@@ -1771,8 +1793,6 @@ http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/441181.ts
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/441180.ts
 #EXTINF:-1 group-title="ASIA| ENGLISH" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/discoveryturbo.png" tvg-id="DiscoveryTurbo.uk",ENGLISH: DISCOVERY TURBO
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/441178.ts
-#EXTINF:-1 group-title="ASIA| ENGLISH" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/discoveryworld.png" tvg-id="",ENGLISH: DISCOVERY WORLD HD
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/441177.ts
 #EXTINF:-1 group-title="ASIA| ENGLISH" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/foxlifehd.png" tvg-id="",ENGLISH: FOX LIFE HD
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/441176.ts
 #EXTINF:-1 group-title="ASIA| ENGLISH" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/historytv18.jpg" tvg-id="HistoryTV18.in",ENGLISH: HISTORY TV 18 HD
@@ -3261,6 +3281,8 @@ http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2097642.ts
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/498338.ts
 #EXTINF:-1 group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12024.png?69790" tvg-id="",CA: TVA HULL HD
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/1044083.ts
+#EXTINF:-1 group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1877.jpg?61333" tvg-id="AandE.ca",CA: A & E
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/498798.ts
 #EXTINF:-1 group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13969.png?18618" tvg-id="HPItv.ca",CA: HPiTV
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/498800.ts
 #EXTINF:-1 group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1019.jpg?48726" tvg-id="AddikTV.ca",CA: ADDIK TV
@@ -5927,10 +5949,6 @@ http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/162375.ts
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/162387.ts
 #EXTINF:-1 group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" tvg-id="DiscoveryChannel.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK: DISCOVERY +1 ◉
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/162393.ts
-#EXTINF:-1 group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119" tvg-id="DiscoveryHistory.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK: DISCOVERY HISTORY ◉
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/162388.ts
-#EXTINF:-1 group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" tvg-id="DiscoveryScience.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK: DISCOVERY SCIENCE ◉
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/162390.ts
 #EXTINF:-1 group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" tvg-id="TS" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK: DISCOVERY TURBO +1 ◉
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/402152.ts
 #EXTINF:-1 group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" tvg-id="DiscoveryTurbo.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK: DISCOVERY TURBO ◉
@@ -5941,20 +5959,6 @@ http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/402153.ts
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/162396.ts
 #EXTINF:-1 group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?81264" tvg-id="TS" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK: CRIME INVESTIGATION +1 ◉
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/402156.ts
-#EXTINF:-1 group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6620.png?67556" tvg-id="TS" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK: : NATIONAL GEOGRAPHIC +1 ◉
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/402155.ts
-#EXTINF:-1 group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/616.png?39036" tvg-id="NatGeo.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK:: NATIONAL GEOGRAPHIC 4K ◉
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/162380.ts
-#EXTINF:-1 group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/625.png?91005" tvg-id="NatGeoWild.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK: : NATIONAL GEOGRAPHIC WILD 4K ◉
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/162381.ts
-#EXTINF:-1 group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119" tvg-id="TS" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK: HISTORY 4K ◉
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/162378.ts
-#EXTINF:-1 group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119" tvg-id="TS" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK: HISTORY 2 4K ◉
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/162379.ts
-#EXTINF:-1 group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10167.jpg?30673" tvg-id="TS" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK: LOVE NATURE 4K ◉
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/162385.ts
-#EXTINF:-1 group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?52263" tvg-id="SkyNature.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK: SKY NATURE 4K ◉
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/162384.ts
 #EXTINF:-1 group-title="UK| DOCUMENTARY ʰᵉᵛᶜ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-id="",### UK DOCUMENTARY HEVC/HD ###
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/717721.ts
 #EXTINF:-1 group-title="UK| DOCUMENTARY ʰᵉᵛᶜ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?79027" tvg-id="CrimeInvestigation.uk",UK: CRIME INVESTIGATION HEVC HD
@@ -10265,10 +10269,6 @@ http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/325778.ts
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/325934.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11036.png?16340" tvg-id="",US: AMERICA HEROES HD
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/325828.ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?14808" tvg-id="animalplanet.us",US: ANIMAL PLANET HD
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/325780.ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?93518" tvg-id="animalplanet.us",US: ANIMAL PLANET WEST HD
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/325844.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12454.jpg?13787" tvg-id="AntennaTV.us",US: ANTENNA TV
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/325933.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3317.jpg?45592" tvg-id="AspireTV.us",US: ASPIRE HD
