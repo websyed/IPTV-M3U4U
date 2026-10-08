@@ -1,8 +1,4 @@
 #EXTM3U x-generator="https://m3u4u.com/"
-#EXTINF:-1 group-title="0 - | DENMARK ᵁᴸᵀᴿᴬ ᴿᴬᵂ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14088.png?2867" tvg-id="dr1.dk",DK: DR1 ᵁᴸᵀᴿᴬ ᴿᴬᵂ
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/450607.ts
-#EXTINF:-1 group-title="0 - | DENMARK ᵁᴸᵀᴿᴬ ᴿᴬᵂ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10523.png?48430" tvg-id="dr2.dk",DK: DR2 ᵁᴸᵀᴿᴬ ᴿᴬᵂ
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/450606.ts
 #EXTINF:-1 group-title="0 - | DENMARK ᵁᴸᵀᴿᴬ ᴿᴬᵂ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14041.jpg?59511" tvg-id="drramasjang.dk",DK: DR Ramasjang ᵁᴸᵀᴿᴬ ᴿᴬᵂ
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/450604.ts
 #EXTINF:-1 group-title="0 - | DENMARK ᵁᴸᵀᴿᴬ ᴿᴬᵂ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14011.png?74781" tvg-id="",DK: SkyShowtime 1 ᵁᴸᵀᴿᴬ ᴿᴬᵂ
@@ -197,10 +193,10 @@ http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/717704.ts
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/717713.ts
 #EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10533.png?51986" tvg-id="tv2news.dk",DK: TV 2 News ᴿᴬᵂ
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/452265.ts
-#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10522.png?50633" tvg-id="",GOLD: DR 1 ᴿᴬᵂ
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2003614.ts
-#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10523.png?73871" tvg-id="",GOLD: DR 2 ᴿᴬᵂ
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2003613.ts
+#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14088.png?2867" tvg-id="dr1.dk",DK: DR1 ᵁᴸᵀᴿᴬ ᴿᴬᵂ
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/450607.ts
+#EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10523.png?48430" tvg-id="dr2.dk",DK: DR2 ᵁᴸᵀᴿᴬ ᴿᴬᵂ
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/450606.ts
 #EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14041.jpg?72407" tvg-id="",GOLD: DR TV A ᴿᴬᵂ
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2003611.ts
 #EXTINF:-1 group-title="6 - | NEWS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14082.png?74549" tvg-id="",DK: Al Jazeera ᵁᴸᵀᴿᴬ ᴿᴬᵂ
@@ -265,6 +261,10 @@ http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/1629697.ts
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/262719.ts
 #EXTINF:-1 group-title="DK| DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Animated-Flag-Denmark.gif" tvg-id="",###### DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ ######
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2003623.ts
+#EXTINF:-1 group-title="DK| DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10522.png?50633" tvg-id="",GOLD: DR 1 ᴿᴬᵂ
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2003614.ts
+#EXTINF:-1 group-title="DK| DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10523.png?73871" tvg-id="",GOLD: DR 2 ᴿᴬᵂ
+http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2003613.ts
 #EXTINF:-1 group-title="DK| DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14088.png?20650" tvg-id="",GOLD: DR1 SYN ᴿᴬᵂ
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/2003610.ts
 #EXTINF:-1 group-title="DK| DENMARK ᴳᴼᴸᴰ ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10523.png?73249" tvg-id="",GOLD: DR2 SYN ᴿᴬᵂ
@@ -5521,8 +5521,6 @@ http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/262723.ts
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/262721.ts
 #EXTINF:-1 group-title="UK| DISCOVERY+ ᴴᴰ/ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13227.jpg?ver=21854" tvg-id="",UK: ID
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/262718.ts
-#EXTINF:-1 group-title="UK| DISCOVERY+ ᴴᴰ/ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12026.jpg?41142" tvg-id="Quest.uk",UK: QUEST 4K
-http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/262728.ts
 #EXTINF:-1 group-title="UK| DISCOVERY+ ᴴᴰ/ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12203.jpg?35875" tvg-id="QuestRed.uk",UK: QUEST RED
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/262720.ts
 #EXTINF:-1 group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" tvg-id="",#### DOCUMENTARY HD/4K ####
@@ -9617,7 +9615,7 @@ http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/325775.ts
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/325776.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?12232" tvg-id="DiscoveryLife.us",US: DISCOVERY LIFE HD
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/326358.ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/620.jpg?1168" tvg-id="",US: DISCOVERY SCIENCE HD
+#EXTINF:-1 group-title="US| ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/620.jpg?1168" tvg-id="discoveryscience.us",US: DISCOVERY SCIENCE HD
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/325774.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?34720" tvg-id="DiscoveryChannel.us",US: DISCOVERY WEST HD
 http://words71299.wd.business-cloud-8.ru/live/ce97b9579b/2ea18d3269/325855.ts
