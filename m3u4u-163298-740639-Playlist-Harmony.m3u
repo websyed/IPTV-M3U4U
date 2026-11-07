@@ -4013,7 +4013,7 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/176900.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176902.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://103.176.90.154/picons/logos/CANADA/176903.png" tvg-id="Smithsonian.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| SMITHSONIAN HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176903.ts
-#EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://103.176.90.154/picons/logos/CANADA/176904.png" tvg-id="ParamountNetwork.ca",CA| PARAMOUNT HD
+#EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://103.176.90.154/picons/logos/CANADA/176904.png" tvg-id="ParamountNetwork.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| PARAMOUNT HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176904.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://103.176.90.154/picons/logos/CANADA/176905.png" tvg-id="US-Sportsman Channel" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| SPORTSMAN HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176905.ts
@@ -4091,6 +4091,8 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1424779.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1858354.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://103.176.90.154/picons/logos/CANADA/552643.png" tvg-id="GlobalNewsBC1.ca" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| GLOBAL NEWS CALGARY
 http://line.weharmony.store/live/a8da78f521/bc62145d78/552643.ts
+#EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://103.176.90.154/picons/logos/CANADA/THENEWSFORUM.png" tvg-id="" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| THE NEWS FORUM
+http://line.weharmony.store/live/a8da78f521/bc62145d78/2182094.ts
 #EXTINF:-1 group-title="CA| ENGLISH" tvg-logo="http://103.176.90.154/picons/logos/CANADA/176941.png" tvg-id="CA| YTV E" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",CA| YTV EAST HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/176941.ts
 #EXTINF:-1 group-title="4K RELAX 1920P" tvg-logo="http://103.176.90.154/picons/logos/LOGOSNEW/4K-RELAX.png" tvg-id="",###### RELAX 4K ######
@@ -7415,195 +7417,195 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/79916.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/79917.ts
 #EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  101
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991539.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",MotoGP: Malaysia GP Moto2 vs Kval @ Oct 31 06:35 :TeliaPlay SE  02
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",MotoGP: Qatars GP vs Kval @ Nov 7 12:35 :TeliaPlay SE  02
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991538.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Wistron Ladies Open vs Day 3 @ Oct 31 07:30 :TeliaPlay SE  03
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",EFL Championship: Portsmouth vs Stoke @ Nov 7 13:20 :TeliaPlay SE  03
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991537.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",MotoGP: Malaysia GP vs Sprint Race @ Oct 31 07:30 :TeliaPlay SE  04
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Ishockey: Finland hockey games Schweiz vs Sverige @ Nov 7 13:20 :TeliaPlay SE  04
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991536.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Ishockey: TV vs pucken Semifinaler, flickor @ Oct 31 10:10 :TeliaPlay SE  05
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",EFL Championship: Wrexham vs Wolverhampton @ Nov 7 13:20 :TeliaPlay SE  05
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991535.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Rolex Grand Final vs Day 3 @ Oct 31 12:00 :TeliaPlay SE  06
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",EFL Championship: Bristol City vs Norwich @ Nov 7 13:22 :TeliaPlay SE  06
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991534.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",IFK Norrkoping vs Ostersunds FK @ Oct 31 12:50 :TeliaPlay SE  07
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Manchester City vs West Ham @ Nov 7 13:40 :TeliaPlay SE  07
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991533.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",EFL Championship: Stoke vs Preston @ Oct 31 13:20 :TeliaPlay SE  08
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Chelsea vs Everton @ Nov 7 13:40 :TeliaPlay SE  08
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991532.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",EFL Championship: Lincoln vs Birmingham @ Oct 31 13:22 :TeliaPlay SE  09
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Malaga vs Racing Santander @ Nov 7 13:50 :TeliaPlay SE  09
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991531.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",EFL Championship: Norwich vs Watford @ Oct 31 13:22 :TeliaPlay SE  10
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Fotboll: Damallsvenskan Rosengard vs Hammarby @ Nov 7 13:50 :TeliaPlay SE  10
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991530.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Fotboll: Women's super league Everton vs Manchester United @ Oct 31 13:35 :TeliaPlay SE  11
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",ATP TOUR: Paris Masters 1000 @ Nov 7 14:30 :TeliaPlay SE  11
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991529.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Everton vs Manchester United @ Oct 31 13:40 :TeliaPlay SE  12
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Leksand vs Mora HockeyAllsvenskan @ Nov 7 14:30 :TeliaPlay SE  12
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991528.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Levante UD vs Atletico de Madrid @ Oct 31 13:45 :TeliaPlay SE  13
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",MotoGP: Qatar GP Moto3 vs Kval @ Nov 7 14:45 :TeliaPlay SE  13
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991527.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Curling vs EM Semifinal, damer @ Oct 31 13:50 :TeliaPlay SE  14
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Helsingborgs IF vs Falkenbergs FF @ Nov 7 14:50 :TeliaPlay SE  14
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991526.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Ishockey: TV vs pucken Semifinaler, pojkar @ Oct 31 14:15 :TeliaPlay SE  15
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",GIF Sundsvall vs Varbergs BoIS @ Nov 7 14:50 :TeliaPlay SE  15
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991525.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Hockeylordag: Skelleftea AIK vs IF Bjorkloven @ Oct 31 14:30 :TeliaPlay SE  16
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Ostersunds FK vs IK Oddevold @ Nov 7 14:50 :TeliaPlay SE  16
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991524.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",IK Oskarshamn vs MoDo @ Oct 31 14:30 :TeliaPlay SE  17
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Orebro vs Oster Superettan @ Nov 7 14:50 :TeliaPlay SE  17
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991523.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Norrby IF vs IFK Varnamo @ Oct 31 14:50 :TeliaPlay SE  18
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",IFK Varnamo vs IFK Norrkoping @ Nov 7 14:50 :TeliaPlay SE  18
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991522.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Nordic United FC vs GIF Sundsvall @ Oct 31 14:50 :TeliaPlay SE  19
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",IK Brage vs Norrby IF @ Nov 7 14:50 :TeliaPlay SE  19
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991521.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Bologna vs Monza @ Oct 31 14:55 :TeliaPlay SE  20
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Sandvikens IF vs Nordic United FC @ Nov 7 14:50 :TeliaPlay SE  20
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991520.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Frolunda vs Linkoping SHL @ Oct 31 15:00 :TeliaPlay SE  21
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Ljungskile vs Landskrona Superettan @ Nov 7 14:50 :TeliaPlay SE  21
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991519.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Vaxjo vs Farjestad SHL @ Oct 31 15:00 :TeliaPlay SE  22
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Cagliari vs Frosinone @ Nov 7 14:55 :TeliaPlay SE  22
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991518.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",ATP TOUR: Erste Bank Open Wien 500 @ Oct 31 15:00 :TeliaPlay SE  23
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Torino vs Lecce @ Nov 7 14:55 :TeliaPlay SE  23
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991517.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Swiss Indoors (500): semifinaler @ Oct 31 15:00 :TeliaPlay SE  24
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Bundesliga: Mainz vs Bayern Munchen @ Nov 7 15:20 :TeliaPlay SE  24
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991516.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Internationell hoppning 1,50 @ Oct 31 15:20 :TeliaPlay SE  25
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",F1: Brasiliens GP vs Traning 3 @ Nov 7 15:25 :TeliaPlay SE  25
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991515.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",KooKoo vs HIFK @ Oct 31 15:30 :TeliaPlay SE  26
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",MotoGP: Qatars GP Moto2 vs Kval @ Nov 7 15:40 :TeliaPlay SE  26
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991514.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Sport vs Assat @ Oct 31 15:30 :TeliaPlay SE  27
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Premier League Show: Forstudio med Stryktipset @ Nov 7 15:45 :TeliaPlay SE  27
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991513.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",JYP vs Jokerit @ Oct 31 15:30 :TeliaPlay SE  28
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",EFL Championship: Watford vs Middlesbrough @ Nov 7 15:50 :TeliaPlay SE  28
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991512.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Ilves vs KalPa @ Oct 31 15:30 :TeliaPlay SE  29
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Premier League: Arsenal vs Hull @ Nov 7 15:55 :TeliaPlay SE  29
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991511.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Karpat vs Jukurit @ Oct 31 15:30 :TeliaPlay SE  30
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Premier League: Fulham vs Newcastle @ Nov 7 15:55 :TeliaPlay SE  30
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991510.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Pelicans vs Kiekko vs Espoo @ Oct 31 15:30 :TeliaPlay SE  31
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Espanyol vs Deportivo A Coruna @ Nov 7 16:05 :TeliaPlay SE  31
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991509.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Premier League Show: Forstudio med Stryktipset @ Oct 31 15:45 :TeliaPlay SE  32
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",MotoGP: Qatars GP vs Sprint Race @ Nov 7 16:30 :TeliaPlay SE  32
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991508.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",EFL Championship: West Ham vs West Bromwich @ Oct 31 15:50 :TeliaPlay SE  33
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Orgryte vs Vasteras Allsvenskan @ Nov 7 17:15 :TeliaPlay SE  33
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991507.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Premier League: Brentford vs Nottingham Forest @ Oct 31 15:55 :TeliaPlay SE  34
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Degerfors vs GAIS Allsvenskan @ Nov 7 17:15 :TeliaPlay SE  34
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991506.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",CUSA Championships @ Oct 31 15:55 :TeliaPlay SE  35
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Parma vs Bologna @ Nov 7 17:55 :TeliaPlay SE  35
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991505.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Premier League: Hull vs Ipswich @ Oct 31 15:55 :TeliaPlay SE  36
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",LSU New Orleans vs Texas A&M @ Nov 7 17:55 :TeliaPlay SE  36
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991504.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",NCAA Swimming & Diving @ Oct 31 15:55 :TeliaPlay SE  37
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Syracuse vs Clemson @ Nov 7 17:55 :TeliaPlay SE  37
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991503.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Premier League: Manchester City vs Brighton @ Oct 31 15:55 :TeliaPlay SE  38
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Boston College vs Florida State @ Nov 7 17:55 :TeliaPlay SE  38
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991502.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Premier League: Bournemouth vs Leeds @ Oct 31 15:55 :TeliaPlay SE  39
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Tulane vs Tulsa @ Nov 7 17:55 :TeliaPlay SE  39
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991501.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Rayo Vallecano vs Celta de Vigo @ Oct 31 16:05 :TeliaPlay SE  40
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Missouri vs Texas @ Nov 7 17:55 :TeliaPlay SE  40
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991500.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Falkenberg vs Sandviken Superettan @ Oct 31 16:45 :TeliaPlay SE  41
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Bergsaker @ Nov 7 18:00 :TeliaPlay SE  41
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991499.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Chelsea U16 vs Newell's Old Boys U16 @ Oct 31 16:45 :TeliaPlay SE  42
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Premier League Show: Studio med Stryktipset @ Nov 7 18:00 :TeliaPlay SE  42
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991498.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Texas Tech vs Arizona @ Oct 31 16:55 :TeliaPlay SE  43
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Bundesliga: Stuttgart vs Werder Bremen @ Nov 7 18:20 :TeliaPlay SE  43
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991497.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Duke vs Boston College @ Oct 31 16:55 :TeliaPlay SE  44
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Osasuna vs Athletic Bilbao @ Nov 7 18:20 :TeliaPlay SE  44
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991496.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Notre Dame vs Navy @ Oct 31 16:55 :TeliaPlay SE  45
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",NC State vs Duke @ Nov 7 18:25 :TeliaPlay SE  45
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991495.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",New Haven vs Duquesne @ Oct 31 16:55 :TeliaPlay SE  46
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Premier League: Nottingham vs Manchester City @ Nov 7 18:25 :TeliaPlay SE  46
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991494.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",South Florida vs Alabama vs Birmingham @ Oct 31 16:55 :TeliaPlay SE  47
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Premier League Show: Nottingham vs Manchester City @ Nov 7 18:25 :TeliaPlay SE  47
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991493.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Syracuse vs SMU @ Oct 31 16:55 :TeliaPlay SE  48
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",NHL: Panthers @ Capitals @ Nov 7 18:30 :TeliaPlay SE  48
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991492.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",NC State vs California @ Oct 31 16:55 :TeliaPlay SE  49
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Auburn vs Arkansas @ Nov 7 18:40 :TeliaPlay SE  49
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991491.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Ishockey: Lidl hockey games Sverige vs Finland @ Oct 31 17:20 :TeliaPlay SE  50
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",F1: Brasiliens GP vs Kval @ Nov 7 18:45 :TeliaPlay SE  50
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991490.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Lafayette vs Villanova @ Oct 31 17:25 :TeliaPlay SE  51
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",NHL: Nashville Predators vs St. Louis Blues @ Nov 7 19:05 :TeliaPlay SE  51
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991489.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Ole Miss vs Auburn @ Oct 31 17:40 :TeliaPlay SE  52
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Roma vs Sassuolo @ Nov 7 20:35 :TeliaPlay SE  52
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991488.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Orebro vs Rogle SHL @ Oct 31 17:45 :TeliaPlay SE  53
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Valencia vs Real Madrid @ Nov 7 20:45 :TeliaPlay SE  53
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991487.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Malmo vs HV71 SHL @ Oct 31 17:45 :TeliaPlay SE  54
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",South Carolina vs Texas A&M @ Nov 7 20:55 :TeliaPlay SE  54
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991486.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Timra vs Lulea SHL @ Oct 31 17:45 :TeliaPlay SE  55
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Ligue 1: PSG vs Troyes @ Nov 7 21:00 :TeliaPlay SE  55
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991485.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Udinese vs Roma @ Oct 31 17:50 :TeliaPlay SE  56
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Portugisiska Ligan: Sporting Lissabon vs Moreirense @ Nov 7 21:25 :TeliaPlay SE  56
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991484.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Djurgarden vs Brynas SHL @ Oct 31 17:50 :TeliaPlay SE  57
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Wake Forest vs Merrimack @ Nov 7 21:25 :TeliaPlay SE  57
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991483.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Almtuna vs AIK HockeyAllsvenskan @ Oct 31 17:55 :TeliaPlay SE  58
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Alabama vs Birmingham vs Charlotte @ Nov 7 21:25 :TeliaPlay SE  58
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991482.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Brown vs Dartmouth @ Oct 31 17:55 :TeliaPlay SE  59
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Tuskegee vs Miles @ Nov 7 21:25 :TeliaPlay SE  59
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991481.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Premier League Show: Studio med Stryktipset @ Oct 31 18:00 :TeliaPlay SE  60
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",LSU vs Alabama @ Nov 7 21:35 :TeliaPlay SE  60
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991480.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Bjerkebanen @ Oct 31 18:00 :TeliaPlay SE  61
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Kansas vs UCF @ Nov 7 21:40 :TeliaPlay SE  61
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991479.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",NHL: Boston Bruins vs Chicago Blackhawks @ Oct 31 18:05 :TeliaPlay SE  62
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",North Texas vs Rice @ Nov 7 21:55 :TeliaPlay SE  62
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991478.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",NHL: Detroit Red Wings vs St. Louis Blues @ Oct 31 18:05 :TeliaPlay SE  63
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Mississippi State vs Vanderbilt @ Nov 7 22:10 :TeliaPlay SE  63
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991477.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Arsenal U16 vs UE Cornella U16 @ Oct 31 18:15 :TeliaPlay SE  64
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",UT Martin vs IU Indianapolis @ Nov 7 22:55 :TeliaPlay SE  64
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991476.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Arsenal vs UE Cornella @ Oct 31 18:15 :TeliaPlay SE  65
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",NHL: Seattle Kraken vs New York Rangers @ Nov 7 23:05 :TeliaPlay SE  65
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991475.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Bundesliga: Bayern Munchen vs Dortmund @ Oct 31 18:20 :TeliaPlay SE  66
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Tennessee vs Kentucky @ Nov 8 00:10 :TeliaPlay SE  66
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991474.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Real Betis vs Malaga @ Oct 31 18:20 :TeliaPlay SE  67
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",UC Davis vs Utah Tech @ Nov 8 00:55 :TeliaPlay SE  67
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991473.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",NHL: Lightning @ Predators @ Oct 31 18:25 :TeliaPlay SE  68
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",#17 Union vs St. Lawrence @ Nov 8 00:55 :TeliaPlay SE  68
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991472.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Premier League: Tottenham vs Crystal Palace @ Oct 31 18:25 :TeliaPlay SE  69
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",NHL: Toronto Maple Leafs vs Montreal Canadiens @ Nov 8 01:05 :TeliaPlay SE  69
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991471.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",F1: Mexiko GP vs Traning 3 @ Oct 31 18:25 :TeliaPlay SE  70
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Georgia Tech vs Louisville @ Nov 8 01:25 :TeliaPlay SE  70
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991470.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Bordtennis: WTT @ Oct 31 18:40 :TeliaPlay SE  71
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Arizona State vs Colorado @ Nov 8 01:25 :TeliaPlay SE  71
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991469.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Furman vs Western Carolina @ Oct 31 18:55 :TeliaPlay SE  72
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Ole Miss vs Georgia @ Nov 8 01:32 :TeliaPlay SE  72
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991468.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Benedict vs Savannah State @ Oct 31 18:55 :TeliaPlay SE  73
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Florida vs Oklahoma @ Nov 8 01:40 :TeliaPlay SE  73
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991467.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",NHL: Oilers @ Islanders @ Oct 31 18:55 :TeliaPlay SE  74
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",New Mexico State vs Liberty @ Nov 8 01:55 :TeliaPlay SE  74
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991466.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Clark Atlanta vs Albany State @ Oct 31 18:55 :TeliaPlay SE  75
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",NHL: Carolina Hurricanes vs Chicago Blackhawks @ Nov 8 02:05 :TeliaPlay SE  75
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991465.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Ungdoms vs OS @ Oct 31 19:25 :TeliaPlay SE  76
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",NHL: Dallas Stars vs San Jose Sharks @ Nov 8 02:05 :TeliaPlay SE  76
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991464.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",River Plate U16 vs Atletico Madrid U16 @ Oct 31 19:45 :TeliaPlay SE  77
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",LPGA Tour: Toto Japan Classic vs Final Round @ Nov 8 03:00 :TeliaPlay SE  77
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991463.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",#14 Cornell vs Yale @ Oct 31 19:55 :TeliaPlay SE  78
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",NHL: Colorado Avalanche vs Detroit Red Wings @ Nov 8 03:05 :TeliaPlay SE  78
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991462.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Montana State vs Cal Poly vs San Luis Obispo @ Oct 31 19:55 :TeliaPlay SE  79
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Texas Tech vs West Virginia @ Nov 8 03:25 :TeliaPlay SE  79
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991461.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",East Carolina vs Temple @ Oct 31 19:55 :TeliaPlay SE  80
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Oregon State vs Texas State @ Nov 8 04:25 :TeliaPlay SE  80
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991460.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Louisville vs Stanford @ Oct 31 20:10 :TeliaPlay SE  81
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",DP World Tour: Abu Dhabi Aldar Championship vs Sista rundan @ Nov 8 07:30 :TeliaPlay SE  81
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991459.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",NHL: Senators @ Sharks @ Oct 31 20:25 :TeliaPlay SE  82
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",DP World Tour: Abu Dhabi Championship vs Final Round @ Nov 8 07:30 :TeliaPlay SE  82
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991458.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Alabama State vs Alabama A&M @ Oct 31 20:25 :TeliaPlay SE  83
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Jagersro Galopp @ Nov 8 12:00 :TeliaPlay SE  83
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991457.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Milan vs Inter @ Oct 31 20:30 :TeliaPlay SE  84
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Napoli vs Lazio @ Nov 8 12:25 :TeliaPlay SE  84
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991456.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Florida vs Georgia @ Oct 31 20:35 :TeliaPlay SE  85
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",MotoGP: Qatars GP vs Warm Up @ Nov 8 12:35 :TeliaPlay SE  85
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991455.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Cincinnati vs Utah @ Oct 31 20:40 :TeliaPlay SE  86
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  86
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991454.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Wake Forest vs Virginia @ Oct 31 20:40 :TeliaPlay SE  87
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  87
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991453.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Ligue 1: Troyes vs Le Mans @ Oct 31 20:40 :TeliaPlay SE  88
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  88
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991452.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",FC Barcelona vs Deportivo Alaves @ Oct 31 20:45 :TeliaPlay SE  89
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  89
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991451.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Eastern Washington vs Montana @ Oct 31 20:55 :TeliaPlay SE  90
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  90
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991450.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Premier League: Aston Villa vs Fulham @ Oct 31 20:55 :TeliaPlay SE  91
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  91
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991449.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Portland State vs Idaho @ Oct 31 20:55 :TeliaPlay SE  92
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  92
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991448.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",South Dakota State vs South Dakota @ Oct 31 20:55 :TeliaPlay SE  93
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  93
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991447.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",NHL: Los Angeles Kings vs Buffalo Sabres @ Oct 31 21:05 :TeliaPlay SE  94
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  94
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991446.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Oklahoma vs South Carolina @ Oct 31 21:10 :TeliaPlay SE  95
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  95
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991445.ts
-#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",Porto vs Estoril @ Oct 31 21:25 :TeliaPlay SE  96
+#EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  96
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991444.ts
 #EXTINF:-1 group-title="SWEDEN TELIA PLAY" tvg-logo="http://103.176.90.154/picons/logos/PPV/TeliaPlay.png" tvg-id="",:TeliaPlay SE  97
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1991443.ts
@@ -8159,7 +8161,7 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/30554.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/30545.ts
 #EXTINF:-1 group-title="UK| GENERAL" tvg-logo="http://103.176.90.154/picons/logos/UK/164064.png" tvg-id="CBBC.uk",UK| CBBC FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/164064.ts
-#EXTINF:-1 group-title="UK| GENERAL" tvg-logo="http://103.176.90.154/picons/logos/UK/164074.png" tvg-id="More4.uk",UK| MORE4 HD
+#EXTINF:-1 group-title="UK| GENERAL" tvg-logo="http://103.176.90.154/picons/logos/UK/164074.png" tvg-id="More4.uk",UK| MORE 4 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/164074.ts
 #EXTINF:-1 group-title="UK| GENERAL" tvg-logo="http://103.176.90.154/picons/logos/UK/30584.png" tvg-id="Alibi.uk" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",UK| ALIBI FHD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/30584.ts
@@ -9083,7 +9085,7 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1337318.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1337317.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1029665.png" tvg-id="",##### ENTERTAINMENT #####
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1029665.ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USANEW/DIY.png" tvg-id="",US| DIY CHANNEL HD
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USANEW/DIY.png" tvg-id="" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| DIY CHANNEL HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2159902.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/45619.png" tvg-id="AandE.us" tv_archive="1" catchup="default" tv_archive_duration="2" catchup-days="2",US| A&E HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/45619.ts
@@ -9103,7 +9105,7 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/45613.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/45447.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/91762.png" tvg-id="US| ANIMAL PLANET WEST HD" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| ANIMAL PLANET WEST HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/91762.ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/398879.png" tvg-id="AntennaTV.us" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",US| ANTENNA TV
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/398879.png" tvg-id="AntennaTV.us" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| ANTENNA TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/398879.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/91763.png" tvg-id="AspireTV.us" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| ASPIRE HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/91763.ts
@@ -9147,17 +9149,17 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/91772.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/105189.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/789119.png" tvg-id="ChargeTV.us" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| CHARGE!
 http://line.weharmony.store/live/a8da78f521/bc62145d78/789119.ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1783055.png" tvg-id="",US| BEACH TV
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1783055.png" tvg-id="" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| BEACH TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1783055.ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1886261.png" tvg-id="",US| DEAL OR NO DEAL
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1886261.png" tvg-id="" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| DEAL OR NO DEAL
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1886261.ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1863010.png" tvg-id="",US| BYU TV
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1863010.png" tvg-id="" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| BYU TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1863010.ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/WIRED2FISH.png" tvg-id="",US| WIRED2FISH
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/WIRED2FISH.png" tvg-id="" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| WIRED2FISH
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1882038.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/90937.png" tvg-id="CMT.us" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| CMT HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/90937.ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1737813.png" tvg-id="",US| CMT MUSIC
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1737813.png" tvg-id="" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| CMT MUSIC
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1737813.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1128930.png" tvg-id="CleoTV.us" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| CLEO TV HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1128930.ts
@@ -9177,7 +9179,7 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/45591.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/150347.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/45590.png" tvg-id="CoziTV.us" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| COZI
 http://line.weharmony.store/live/a8da78f521/bc62145d78/45590.ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/90938.png" tvg-id="CrimeInvestigation.us" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",US| CRIME & INVESTIGATION HD
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/90938.png" tvg-id="CrimeInvestigation.us" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| CRIME & INVESTIGATION HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/90938.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/90954.png" tvg-id="DestinationAmerica.us" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| DESTINATION AMERICA HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/90954.ts
@@ -9207,9 +9209,9 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/45584.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/204984.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/789121.png" tvg-id="FamilyEntertainment.us" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| FETV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/789121.ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1570196.png" tvg-id="",US| WAYPOINT
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1570196.png" tvg-id="" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| WAYPOINT
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1570196.ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1783056.png" tvg-id="",US| GAME SHOW CENTRAL
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1783056.png" tvg-id="" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| GAME SHOW CENTRAL
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1783056.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/USMYTVKHIIHONOLULU.png" tvg-id="",US| US MYTV (KHII) HANOLULU
 http://line.weharmony.store/live/a8da78f521/bc62145d78/2097880.ts
@@ -9217,15 +9219,15 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/2097880.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1898743.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/45439.png" tvg-id="US-ABC HD Boston" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| ABC HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/45439.ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1570195.png" tvg-id="",US| STORY TV
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1570195.png" tvg-id="" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| STORY TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1570195.ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1570194.png" tvg-id="recipetv-hd",US| RECIPE TV
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1570194.png" tvg-id="recipetv-hd" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| RECIPE TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1570194.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/793363.png" tvg-id="Laff.us" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| LAFF TV  HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/793363.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1110680.png" tvg-id="" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| LMN
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1110680.ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1673831.png" tvg-id="",US| DESIGN NETWORK HD
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1673831.png" tvg-id="" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| DESIGN NETWORK HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1673831.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1139730.png" tvg-id="WKMGDT2.us" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| DABL TV
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1139730.ts
@@ -9237,7 +9239,7 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/1105820.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/91850.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/730907.png" tvg-id="" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| FOX SOUL
 http://line.weharmony.store/live/a8da78f521/bc62145d78/730907.ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1518415.png" tvg-id="",US| FOX WEATHER
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1518415.png" tvg-id="" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| FOX WEATHER
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1518415.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/45557.png" tvg-id="Freeform.us" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| FREEFORM HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/45557.ts
@@ -9327,7 +9329,7 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/150353.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/91909.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/91862.png" tvg-id="Logo.us" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| LOGO HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/91862.ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1555936.png" tvg-id="",US| POWERNATION HD
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1555936.png" tvg-id="" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| POWERNATION HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1555936.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/91898.png" tvg-id="MAVTV.us" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| MAV TV HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/91898.ts
@@ -9337,13 +9339,13 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/91863.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/91886.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/91864.png" tvg-id="MilitaryHistory.us" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| MILITARY HISTORY
 http://line.weharmony.store/live/a8da78f521/bc62145d78/91864.ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/90962.png" tvg-id="US-Motor Trend",US| MOTORTREND HD
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/90962.png" tvg-id="US-Motor Trend" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| MOTORTREND HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/90962.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/90963.png" tvg-id="MTV2.us" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| MTV 2 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/90963.ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/45461.png" tvg-id="MTV.us" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",US| MTV HD
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/45461.png" tvg-id="MTV.us" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| MTV HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/45461.ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1827374.png" tvg-id="MTVClassic.us" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",US| MTV CLASSIC
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/1827374.png" tvg-id="MTVClassic.us" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| MTV CLASSIC
 http://line.weharmony.store/live/a8da78f521/bc62145d78/1827374.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/45460.png" tvg-id="MTVLive.us" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| MTV LIVE HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/45460.ts
@@ -9479,7 +9481,7 @@ http://line.weharmony.store/live/a8da78f521/bc62145d78/45466.ts
 http://line.weharmony.store/live/a8da78f521/bc62145d78/188997.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/91882.png" tvg-id="US| USA NETWORK WEST HD" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| USA NETWORK WEST HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/91882.ts
-#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/45436.png" tvg-id="VH1.us" tv_archive="1" catchup="default" tv_archive_duration="3" catchup-days="3",US| VH1 HD
+#EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/45436.png" tvg-id="VH1.us" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| VH1 HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/45436.ts
 #EXTINF:-1 group-title="US| ENTERTAINMENT" tvg-logo="http://103.176.90.154/picons/logos/USA/45465.png" tvg-id="US-Viceland USA" tv_archive="1" catchup="default" tv_archive_duration="1" catchup-days="1",US| VICELAND HD
 http://line.weharmony.store/live/a8da78f521/bc62145d78/45465.ts
